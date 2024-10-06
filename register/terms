@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8" />
+	<title>Legal texts —  Flüüfff 2020 | Grand Casino - Going all-in!</title>
+	<meta name="keywords" content="">
+	<meta name="author" content="Flüüfff">
+	<meta name="description" content="Welcome to Flüüfff's registration, a furry convention in Brussels, Belgium." />
+	<meta property="og:title" content="Legal texts" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="Welcome to Flüüfff's registration, a furry convention in Brussels, Belgium." />
+	<meta property="og:site_name" content="Legal texts" />
+	<meta property="og:image" content="https://2021.fluufff.org/assets/style/registration/img/og/open-graph.jpg">
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Legal texts" />
+	<meta name="twitter:description" content="Welcome to Flüüfff's registration, a furry convention in Brussels, Belgium." />
+	<meta name="twitter:image" content="https://2021.fluufff.org/assets/style/registration/img/og/open-graph.jpg" />
+	<meta itemprop="name" content="Legal texts" />
+	<meta itemprop="description" content="Welcome to Flüüfff's registration, a furry convention in Brussels, Belgium." />
+	<meta name="robots" content="index,follow,noodp,noydir" />
+	<meta http-equiv="Content-Language" content="en-GB" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Expires" content="never" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+	<meta name="format-detection" content="telephone=no" />
+	<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+	<link rel="apple-touch-icon" sizes="180x180" href="https://2021.fluufff.org/assets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://2021.fluufff.org/assets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://2021.fluufff.org/assets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="https://2021.fluufff.org/assets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="https://2021.fluufff.org/assets/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
+	<link rel="shortcut icon" href="https://2021.fluufff.org/assets/images/favicons/favicon.ico">
+	<meta name="apple-mobile-web-app-title" content="Legal texts">
+	<meta name="application-name" content="Legal texts">
+	<meta name="msapplication-config" content="https://2021.fluufff.org/assets/images/favicons/browserconfig.xml">
+	<meta name="theme-color" content="#1d2435">
+
+	<link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
+
+	<link rel="stylesheet" type="text/css" href="https://2021.fluufff.org/assets/style/registration/reset.css">
+	<link rel="stylesheet" type="text/css" href="https://2021.fluufff.org/assets/style/registration/registration.css">
+	<link rel="stylesheet" type="text/css" href="https://2021.fluufff.org/website/assets/css/platyplus.css" />
+
+</head>
+<body>
+	<header class="registration-header">
+		<h1 class="registration-header__logo fs--22">
+			<a href="https://2021.fluufff.org/" class="resetlink text--white">Flüüfff</a> Registration		</h1>
+		<div class="nav">
+							<a href="https://fluufff.org" title="Website" class="resetlink otherlink text--white nav-item regular">
+					Website				</a>
+						<a href="https://2021.fluufff.org/profile/events" title="Schedule" class="resetlink otherlink text--white nav-item regular">
+				Schedule			</a>
+			<a href="https://2021.fluufff.org/attendees/stats" title="Stats" class="resetlink otherlink text--white nav-item regular">
+				Stats			</a>
+			<a href="https://2021.fluufff.org/attendees" title="Attendees" class="resetlink otherlink text--white nav-item regular">
+				Attendees			</a>
+			<a href="https://2021.fluufff.org/profile/login?from=register" title="Log in" class="resetlink otherlink text--white nav-item regular">
+				Login			</a>
+
+		</div>
+
+		<div class="hamburger" onclick="hamburgerToggle(this)">
+			<div class="bar1"></div>
+			<div class="bar2"></div>
+			<div class="bar3"></div>
+		</div>
+
+	</header>
+	<main class="registration-screen">
+<section class="registration-screen" id="legal-texts">
+	<div class="window__header">
+		<h1 class="title title--white fs--30">Legal texts</h1>
+		<p class="text text--white fs--18">
+		</p>
+	</div>
+		<div class="window window--dyn-info">
+		<div class="light-box content-box">
+			<div class="form padding-box">
+				<h2 id="legal">Legal Mentions</h2>
+				<p>
+Flüüfff ASBL is a registered Belgian Non Profit Organisation with organisation number 0662.498.716 (<a href="http://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?lang=en&nummer=0662498716&actionLu=Search">see more on the Belgian Crossroads Bank for Enterprises Database</a>).
+</p>
+<address>
+Flüüfff, asbl<br/>
+Rue Félicien Rops, 35B, boîte 01<br/>
+1070, Anderlecht<br/>
+Belgique
+</address>
+<p>
+The administrators of the NPO are Thierry Dognié, Jan Taverniers,  Meghann Poncin and Benoît Volckaert.
+</p>
+<p>
+All the revenues made during the event will be entirely used for equipment or services to improve the next edition or given to charity.
+</p><br/>
+			</div>
+		</div>
+	</div>
+	<div class="window window--dyn-info">
+		<div class="light-box content-box">
+			<div class="form padding-box">
+				<h2 id="terms">Terms and Conditions</h2>
+				<p>These terms and conditions apply to all attendees of the convention.</p>
+<h2>Registration and Payment</h2>
+<p>In order to take part in the convention, you are required to register through our online registration system and purchase the tickets from there. Tickets purchased through any other means are not valid.</p>
+<h3>Screening</h3>
+<p>Registrations are subject to screening by registration staff.</p>
+<h3>Payment methods</h3>
+<p>We currently accept payments through bank transfer, Credit Card (Visa, Mastercard), and Debit Card (Bancontact, Maestro). No other means of payment are accepted.</p>
+<h4>Payment by banktransfer</h4>
+<p>The first payment for an invoice is due within 10 calendar days after you have selected the payment by banktransfer.</p>
+
+<p>If we do not receive proof of payment within ten days after the payment method has been selected your slot is no longer guaranteed and may be cancelled.</p>
+
+<p>We also permit payment in maximum 3 installments up to two month before the convention, for payments of more than 120€.</p>
+<ul>
+    <li>First installment has to be paid within ten days.</li>
+    <li>All installments have to be paid within two months or at the latest one month before the convention, whichever comes first.</li>
+    <li>If the payment is not completed by this date the booking will be cancelled without any refund.</li>
+</ul>
+<h4>Payment via Stripe (Bancontact, credit and debit card)</h4>
+<h3>Rooms assignment</h3>
+<p>The registration team reserves the right to rebook the attendees in different rooms should all rooms be taken, and if empty spots in some would remain. The price difference (should there be one) will be refunded.</p>
+<h3>Registration</h3>
+<p>Non-staff attendees registering before the official registration date, may get banned from the convention and registration reserves the right to refund your registration costs.</p>
+<h3>Delivery</h3>
+<p>An email will be sent to you with a confirmation when everything has been paid in full.</p>
+<p>You can always access the account page and print out your confirmation, check the payment status for your invoices and print your invoices.</p>
+<h2>Age Verification</h2>
+<p>Attendees must be at least 18 years old at the first day of the convention. As this is an adult convention, we won't do any exception for minors.</p>
+<p>Attendees are required to present their legal photo ID, driver licence or passport at check-in time. Your ID details must match the information in our electronic records.</p>
+<h2>Cancellation/Ticket Transfer</h2>
+<h3>Cancellation</h3>
+<p>Tickets (including all fees, extras and hotel rooms booked through us) are not refundable.</p>
+
+<p>However, tickets (including all extras and bookings attached to them) can be transferred. Both parties must send an e-mail to registration@fluufff.org using the e-mail they signed up with, along with their registration number, and confirm the transfer.</p>
+<p>Registration staff will then update the database accordingly</p>
+
+<p>Note: Ticket transfers must be cleared by us ahead of time in all cases. Any person showing up at the convention who is not in our database will not be admitted in someone else’s name.</p>
+<h3>Event Cancellation</h3>
+<p>In case the event is cancelled, all payments to Flüüfff (ticket, hotel) will be refunded, with the possible exception of processing fees and organisation costs. Any other expenses, such as travel costs or other expenses not with Flüüfff, will not be refunded under any circumstances</p>
+
+<h2>Sponsorship</h2>
+<p>Sponsorship is a simple way to support the convention through a voluntary extra donation. In return, sponsors will be mentioned by name in the conbook, get a differently styled name badge, and receive a complimentary gift package.</p>
+<h2>Terms of Conduct</h2>
+<p>These rules and guidelines apply to all attendees of the convention.</p>
+<p>Flüüfff likes to present itself as a professional convention of friendly, respectful, and open-minded members of the furry community and their friends. To avoid any misunderstanding about what kind of behaviour is generally acceptable at an event like Flüüfff, you are expected to follow these rules. Please make sure that you read and understand them. Also keep in mind that these rules are in effect during the whole convention time, including possible early arrival and late departure days.</p>
+
+<h3>Registration and Badges</h3>
+<ul>
+    <li>You must be at least 18 years old on the first day of the convention.</li>
+    <li>Only registered attendees with an official convention badge from the current year may enter the convention space.</li>
+    <li>You are required to wear your convention badge prominently at all times, so you can be identified as an attendee of the convention.</li>
+    <li>Attending without a valid convention badge or impersonating another attendee by using their convention badge is not permitted.</li>
+    <li>You may not impersonate official convention roles, e.g., by wearing lanyard colours corresponding to Staff, Volunteer, or Steward.</li>
+    <li>Changing or covering up any information on your badge (e.g., by using stickers or drawings) is strictly forbidden.</li>
+    <li>Staying overnight in the hotel without a valid hotel booking (“ghosting”) is not allowed.</li>
+    <li>Facilitating either ghosting or attendance without a valid badge is not permitted.</li>
+    <li>If you have lost your room key, please contact the hotel front desk. Flüüfff does not accept any liability resulting from lost room keys.</li>
+</ul>
+<h3>General Behaviour</h3>
+<ul>
+    <li>Appropriate behaviour is expected at all times.</li>
+    <li>Please treat others respectfully.</li>
+    <li>If someone asks you to stop, then stop. If you are asked to leave them alone, then leave. There is no discussion.</li>
+    <li>Some people reserve any kind of physical contact to their close friends and family only. If you are not sure somebody wants to be hugged, tackled, pounced, or any other form of physical contact, please ask the person first.</li>
+    <li>You are liable for any damage you may cause to the property of another attendee or to property of the convention or hotel.</li>
+</ul>
+<h3>Fursuiting</h3>
+<ul>
+    <li>Treat fursuiters carefully, in order not to damage the costume or the person inside of it. Also be mindful about the limited vision/hearing that fursuiters have.</li>
+    <li>Are allowed to enter the Fursuit Lounge : Staff members, Fursuiters and maximum one helper per suiter.</li>
+    <li>No pictures/videos inside the Fursuit Lounge.</li>
+    <li>Do not handle a suit that doesn’t belong to you. Is there a suit in the way? Please contact a staff member to handle it for you. </li>
+    <li>Free snacks and drinks are available exclusively for the Fursuiters.</li>
+</ul>
+<h3>Clothing and Decency</h3>
+<p>Flüüfff wants to be as tolerant and welcoming as possible towards all attendees. This means we wish to be as permissive as possible, as long as this does not cause offense among other attendees and people who share the public spaces. Exceptions to the rules below will be clearly communicated as well as the specific hours and areas to which they apply.</p>
+<p>Be aware that some item of clothing, apparel, or similar items might bring the convention and/or fandom into disrepute and should not be worn in public. If you have to ask or think twice about doing something in public, take it to your room.</p>
+<p>Convention staff reserves the right to determine whether any clothing and/or accessories contravene the following rules. Questions regarding rules for clothing and outfits should be directed to the head of registration.</p>
+<ul>
+    <li>Wearing costumes, accessories, or displaying items made out of real fur is not allowed.</li>
+    <li>The display of any kind of offensive symbol is prohibited.</li>
+    <li>Anatomically correct costumes, furry or otherwise, must be clothed.</li>
+    <li>Intimate interaction that goes beyond a display of affection is not allowed in public.</li>
+    <li>Display of adult-themed materials is not permitted in public areas of the hotel. This includes (but is not limited to): room signs, flyers, business cards, posters, and drawings on public message boards.</li>
+    <li>
+Exposure of fetish gear is not permitted in public, even if it is part of a costume.<br>
+At the exception of: 
+<ul>
+    <li>On a costume: harnesses, collars, muzzles, leash, unbound wrist cuffs.</li>
+    <li>Not on a costume: collars, unbound wrist cuffs.</li>
+</ul>
+    </li>
+</ul>
+<h3>Alcohol and Drugs</h3>
+<ul>
+    <li>You are expected to drink responsibly. You will be held liable for what you say and what you do, even if intoxicated.</li>
+    <li>Persons who are intoxicated to the point of incapacitation may be escorted to their rooms. If this happens on more than one occasion, other sanctions may be imposed.</li>
+    <li>Smoking and vaping (e.g., electronic cigarettes) are not permitted anywhere within the hotel building, including the hotel rooms. A considerable cleaning fee will be charged for smoking or vaping.</li>
+    <li>It is not permitted to consume alcohol purchased outside of the hotel anywhere on premises, except in private hotel rooms.</li>
+    <li>The possession, consumption, or sale of illegal substances will not be tolerated. The same applies to the abuse of any other substances as a drug.</li>
+</ul>
+<h3>General Hotel Rules</h3>
+<ul>
+    <li>The consumption of food or drinks purchased from outside of the hotel is not permitted, except in your private hotel room.</li>
+    <li>For the safety of all hotel guests, no reckless behaviour is permitted.</li>
+    <li>Attendees may not enter the service areas of the hotel. This includes all backstage areas, service elevators, the rooftops, emergency exits, and all areas marked as “Staff Only”.</li>
+    <li>Tampering with any fire-protection devices – in particular, abusive triggering of fire doors or alarms – is prohibited and will have serious consequences. The same goes for disabling smoke detectors.</li>
+    <li>Do not deliberately crack open glow sticks or similar items, i.e., anything containing dyeing, sticky, or corrosive material.</li>
+    <li>Do not stick or glue objects on the doors or the walls.</li>
+</ul>
+<h3>Hotel Rooms and Privacy</h3>
+<ul>
+    <li>You are expected to treat the hotel rooms and property of the hotel reasonably and with care. You will be held personally liable for any damage you cause.</li>
+     <li>You have to use the trash bins provided by the hotel. The usage of these bins will avoid you extra cleaning fees from the hotel.</li>
+    <li>You are advised to ask your roommates for permission before running a room party or inviting guests. This to ensure the best experience possible for everyone.</li>
+    <li>You may not disturb people in any other hotel rooms.</li>
+</ul>
+<h3>Weapons, Look-Alikes, and Dangerous Items</h3>
+<ul>
+    <li>Please be aware of the strict Belgian weapons laws and that even look-alike weapons may be problematic.</li>
+    <li>All weapons, including look-alikes, replicas, tools, and toys must be approved by the safety staff immediately following your registration on site.</li>
+    <li>Water guns, nerf guns, and similar items are prohibited inside the buildings, except at designated locations and times for specific events, pre-approved in writing by our events department. Contact the events department well in advance if you wish to arrange an event involving these items. Such events are evaluated on a case-by-case basis. Even outside, care should be taken to avoid hitting any bystanders and/or damaging anyone's property.</li>
+    <li>Mock fights, swordplay, fire breathing, or any other activities that may adversely affect bystanders or hotel property are not allowed without explicit permission by the Head of Safety.</li>
+    <li>The Head of Safety may require your weapon to be peace-bound. Tampering with the peace-bonding is not allowed.</li>
+</ul>
+<h3>Commercial Activity</h3>
+<ul>
+    <li>All commercial activity at Flüüfff, including Artists’ Alley / Dealers' Den, is subject to the rules described here.</li>
+    <li>The head of the Dealers’ Den has the final say on all matters that pertain to commercial activity at Flüüfff, inside and outside the Artists’ Alley / Dealers' Den.</li>
+</ul>
+<h3>Photography and Video</h3>
+<ul>
+    <li>By doing photography and videography at Flüüfff you grant us the rights to use your work in connection with our event. Footage from private rooms is exempt.</li>
+    <li>Flüüfff grants you the right to use videos and photos you have taken at the convention for private and/or non-commercial purposes only.</li>
+    <li>Publication in for-profit media (such as press, television, or other commercial mass media) requires written permission by the Head of Public Relations.</li>
+    <li>Official Flüüfff camera teams may record video and take photos in the public areas of the convention and during events to be used in various publications. By attending the convention, you agree that videos and pictures taken of you may be used in such publications without release or compensation. A release will only be required for material acquired in situations where a reasonable expectation of privacy exists.</li>
+    <li>You have the right to have your image blurred or removed from the video recordings and photos made by Flüüfff. You will have to contact the Media Team and provide them all the information and details necessary for that.</li>
+    <li>Photographing in the Dealers’ Den, Artists’ Alley, and Art Show is prohibited. Cameras are not permitted at all in the Art Show.</li>
+    <li>Other restrictions or rules may apply for certain events, and will be announced on location.</li>
+</ul>
+<h3>Pets and Animals</h3>
+<ul>
+    <li>Unfortunately the hotel doesn’t allow pets. Only service dogs are allowed at Flüüfff, and you are required to notify registration prior to the convention.</li>
+    <li>Having a service dog in your room might incur extra cleaning fees.</li>
+</ul>
+<h3>The Bottom Line</h3>
+<ul>
+    <li>When in doubt, please ask – preferably before the convention starts. We will gladly answer all your questions.</li>
+    <li>The Head of Safety or his deputy reserves the right to impose any and all sanctions against violators of these rules or those persons involved in any other unacceptable behaviour. The definition of unacceptable behaviour remains at the sole discretion of the Head of Safety and the Convention Board.</li>
+    <li>Sanctions for violating the rules may range from a friendly reminder to a permanent ban from the convention.</li>
+    <li>If you have any problems with other attendees or Staff/Crew, please contact a ConOps or Safety staff member.</li>
+</ul>
+<p>Please use the <a href="https://fluufff.org/profile/contact/">contact form</a> for all inquiries regarding our policies and terms and conditions.</p>
+<p>We hope you will have a great time!</p>
+			</div>
+		</div>
+	</div>
+	<div class="window window--dyn-info">
+		<div class="light-box content-box">
+			<div class="form padding-box">
+				<h2 id="privacy">Privacy policies</h2>
+				<p>Last update on: March 13, 2020</p>
+<h2>Terms and Definitions</h2>
+<ul>
+<li>“We”, "Flüüfff website", "Flüüfff", "Flüüfff non profit" all refer to Flüüfff ASBL, which is the non profit organisation that organises the Flüüfff convention and owns the fluufff.org website. </li>
+<li>Cookies: cookies are files generated by your browser and stored on your computer at a website's request.</li>
+<li>Registration: refers to the way or process of getting your tickets for the convention.</li>
+</ul>
+<h2>Policies</h2>
+<p>You are giving us your consent to process and store some personal information about yourself. The information you are communicating to fluufff.org is required for your registration.</p>
+
+<p>Some of this data is transmitted to third parties:</p>
+<ul>
+<li>Your name, email and address are sent to the Bedford Hotel.</li>
+<li>Your name, address and email are sent to Stripe to process your online payment (if you pay by Credit or Debit Card).</li>
+</ul>
+<p>
+The same personal data is used for your registration for the convention itself and to generate your invoice.
+</p>
+<p>
+Your birthdate is necessary so that we can ensure that you are over 18 years old at the start of the convention.
+</p>
+<p>
+Even if you haven’t completed the registration process, your data will be stored to allow you to end the registration process later.
+</p>
+<h3>Contact</h3>
+<p>
+We will also use your email to send you important messages about your registration at Flüüfff, like updates on our terms and policies or changes in the convention schedule.
+</p>
+<h3>Cookies</h3>
+<p>The cookies we use have for sole purpose to identify you on the website. They are not used to track your activity or retrieve any meaningful data. And they are essential for the website to work correctly.</p>
+
+<p>Flüüfff's website uses cookies for:</p>
+<ul>
+<li>Storing your favorite language: the default language of the website is english, this cookie allows you to change the default language.</li>
+<li>Sessions management: sessions allow you to login to your profile and select the products during the registration.</li>
+</ul>
+<h2>Your rights</h2>
+<p>You have the right to:</p>
+<ul>
+<li>Request that we remove any personal data if it is not necessary any more.</li>
+<li>Request that we correct any faulty data.</li>
+<li>Request a copy of all the personal data you provided us in an electronic format.</li>
+<li>Please use the <a href="https://fluufff.org/profile/contact/Registration">contact form</a> if you wish to make one of those requests, or for more information on the matter.</li>
+</ul>
+<h2>Automated Decision Making</h2>
+<p>The data assessed is not used for any kind of automated decision making by Flüüfff.</p>
+<h2>Data security</h2>
+<p>No software or hardware can be said to be completely secured against data breach, but we are doing our best to keep it as secure as possible from malevolent third parties.</p>
+
+<p>Should any data be stolen, we will notify you about the incident and post a notice on the website as soon as we are able to.</p>
+<h2>Retention of Personal Information</h2>
+<p>All personal information saved on our databases will be removed one month after the end of the convention.</p>
+
+<p>Invoicing data will be kept as long as legally obligated by the Belgian law.</p>
+
+<p>Your personal data is stored in a database in France.</p>
+			</div>
+		</div>
+	</div>
+	<div class="window window--dyn-info">
+		<div class="light-box content-box">
+			<div class="form padding-box">
+				<h2 id="dealers">Dealer's Den terms and Conditions</h2>
+				 <p>
+To ensure a smooth and pleasant Dealer’s Den for everyone, we ask you to respect the following terms and conditions.
+</p>
+<ol>
+
+<li>This goes without saying, but be courteous and polite towards the other artists and attendees.</li>
+<li>A table and seating will be provided free of charge. Additional tables and other materials will also be provided free of charge, but may be in limited supply. Materials will be provided on a first come, first serve basis. (E.g, if you ask for stuff a week before the convention, we might be unable to fulfill that request.)</li>
+<li>You are completely responsible for any and all financial transactions you happen to make in your position as artist in the dealer’s den. This concerns the calculation of added taxes (if applicable), keeping your money safe, etc. We recommend that you set up some kind of online payment option for your customers (for example, a paypal account) as it’s safer and more practical than cashboxes.</li>
+<li>The original creator of your merch must always be obvious (i.e. no plagiarism). You may resell art/merchandise, but label it appropriately, especially if you’re selling it along with your own creations.</li>
+<li>There are regular non-attendees in the building who could potentially stumble into the convention space. For this reason, we ask that all your openly displayed material is SFW only. You are free to sell NSFW material as long as it’s not openly displayed, put it in a folder or map or something like that. For extreme fetish material (vore, gore, inflation,diaper, watersports, etc) we recommend that you label the container appropriately. Illegal content or merchandise is explicitly forbidden.<br>
+The final decision on these matters rests with the Dealer’s Den team. In case of doubt, ask the Dealers' Den team ahead of time via the <a href="https://fluufff.org/profile/contact/">contact form</a>.</li>
+<li>We’d kindly request that you keep activism to a minimum. The Dealers Den is not a political forum, your table is not a recruitment office. Slogans/stickers/symbolism without added artistic value will are not allowed.</li>
+</li>
+<p>
+A violation of these terms will result in a verbal warning from the Dealer’s Den Team. Should you continue to violate the terms in spite of this warning, you may be banned from the Dealer’s Den for the remainder of the convention.
+</p>			</div>
+		</div>
+	</div>
+</section>
+	</main>
+		<footer class="footer">
+		<!--<span>
+			<a href="" title="Back" class="resetlink fs--14 text--white back"><i class="fas fa-arrow-left"></i> Previous step</a>
+		</span>-->
+		<span class="poweredby text fs--14">
+			<a href="https://fluufff.org" class="resetlink text--white">Website</a>			| <a href="https://2021.fluufff.org/register/terms#privacy" target="_blank" class="resetlink text--white">Privacy</a>			| <a href="https://2021.fluufff.org/register/terms#terms" target="_blank" class="resetlink text--white">Terms and Conditions</a>			| <a href="https://2021.fluufff.org/profile/contact" class="resetlink text--white">Contact us</a>		| Powered by Platy+</span>
+	</footer>
+	<script>
+
+		document.getElementsByClassName('current-lang')[0].addEventListener('click', function(){
+			if(!document.getElementsByClassName('language-popup')[0].classList.contains('language-popup--active')){
+				document.getElementsByClassName('language-popup')[0].classList.add('language-popup--active');
+			}else{
+				document.getElementsByClassName('language-popup')[0].classList.remove('language-popup--active');
+			}
+		});
+
+		function hamburgerToggle(hamburger) {
+			hamburger.classList.toggle("change");
+			document.getElementsByClassName('registration-header')[0].classList.toggle('mobile-nav-expanded');
+		}
+
+	</script>
+	<!-- <script src="https://2021.fluufff.org/assets/js/registration.js"></script> -->
+</body>
+</html>

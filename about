@@ -1,0 +1,1162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>About | Grand Casino - Going all-in!</title>
+	<meta name="description" content="Spinning wheels, dices, slotmachines, are you ready to be the big player in a casino full of fur?! Join us in the 4th edition of the Belgian Furry Convention, a convention dedicated to anthropomorphic characters!" />
+	<meta property="og:title" content="Flüüfff 2021 | Grand Casino - Going all-in!" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="Spinning wheels, dices, slotmachines, are you ready to be the big player in a casino full of fur?! Join us in the 4th edition of the Belgian Furry Convention, a convention dedicated to anthropomorphic characters!" />
+	<meta property="og:url" content="https://2021.fluufff.org/about" />
+	<meta property="og:site_name" content="Flüüfff 2021 | Grand Casino - Going all-in!" />
+	<meta property="og:image" content="https://2021.fluufff.org/website/assets/images/og/open-graph.png">
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Flüüfff 2021 | Grand Casino - Going all-in!" />
+	<meta name="twitter:description" content="Spinning wheels, dices, slotmachines, are you ready to be the big player in a casino full of fur?! Join us in the 4th edition of the Belgian Furry Convention, a convention dedicated to anthropomorphic characters!" />
+	<meta name="twitter:image" content="https://2021.fluufff.org/website/assets/images/og/open-graph.png" />
+	<meta itemprop="name" content="Flüüfff 2021 | Grand Casino - Going all-in!" />
+	<meta itemprop="description" content="Spinning wheels, dices, slotmachines, are you ready to be the big player in a casino full of fur?! Join us in the 4th edition of the Belgian Furry Convention, a convention dedicated to anthropomorphic characters!" />
+	<meta name="robots" content="index,follow,noodp,noydir" />
+	<meta http-equiv="Content-Language" content="en" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Expires" content="never" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+	<meta name="format-detection" content="telephone=no" />
+	<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://2021.fluufff.org/website/assets/css/app.css" type="text/css" media="all" />
+	<link rel="apple-touch-icon" sizes="180x180" href="https://2021.fluufff.org/website/assets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://2021.fluufff.org/website/assets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://2021.fluufff.org/website/assets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="https://2021.fluufff.org/website/assets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="https://2021.fluufff.org/website/assets/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
+	<link rel="shortcut icon" href="https://2021.fluufff.org/website/assets/images/favicons/favicon.ico">
+	<meta name="apple-mobile-web-app-title" content="Flüüfff 2021 | Grand Casino - Going all-in!">
+	<meta name="application-name" content="Flüüfff 2021 | Grand Casino - Going all-in!">
+	<meta name="msapplication-config" content="https://2021.fluufff.org/website/assets/images/favicons/browserconfig.xml">
+	<meta name="theme-color" content="#1d2435">
+</head>
+<body>
+		<header id="header" class="relative header bg--primary p-sides-1x p-ends-0.5x" itemscope itemtype="http://schema.org/WPHeader">
+		<meta itemprop="headline name" content="Flüüfff" />
+		<meta itemprop="description" content="Furry Convention Belgium" />
+		<div class="navbar flex flex-align-center flex-space-between">
+			<a href="https://2021.fluufff.org/" title="Back to homepage" class="resetlink header-logo">
+				<img src="https://2021.fluufff.org/website/assets/images/logos/full_logo_casino.png" alt="Logo Flüüfff">
+			</a>
+			<div class="nav-wrapper flex flex-align-center flex-end">
+				<nav class="nav" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+					<ul class="no-list-style flex flex-end flex-align-center">
+						<li class="nav__item p-sides-1x hide@3 tablet-ls:p-sides-0.75x ">
+							<a href="https://2021.fluufff.org/" title="Home" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+								Home							</a>
+						</li>
+						<li class="nav__item p-sides-1x hide@3 tablet-ls:p-sides-0.75x ">
+							<a href="https://2021.fluufff.org/covid-19" title="Covid-19" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+								Covid-19							</a>
+						</li>
+						<li class="nav__item p-sides-1x tablet-ls:p-sides-0.75x nav__item--active">
+							<a href="https://2021.fluufff.org/about" title="About" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+								About							</a>
+						</li>
+						<li class="nav__item p-sides-1x tablet-ls:p-sides-0.75x ">
+							<a href="https://2021.fluufff.org/venue" title="Venue" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+								Venue							</a>
+						</li>
+						<li class="nav__item p-sides-1x tablet-ls:p-sides-0.75x ">
+							<a href="https://2021.fluufff.org/activities" title="Activities" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+								Activities							</a>
+						</li>
+						<li class="nav__item p-sides-1x tablet-ls:p-sides-0.75x ">
+							<a href="https://2021.fluufff.org/contact" title="Contact" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+								Contact							</a>
+						</li>
+						<li class="nav__item p-sides-1x tablet-ls:p-sides-0.75x ">
+							<a href="https://2021.fluufff.org/tickets" title="Tickets" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+								Tickets							</a>
+						</li>
+													<li class="nav__item p-l-1x ">
+								<a href="https://2021.fluufff.org/profile/login?from=about" title="Login" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+									Login								</a>
+							</li>
+							
+					</ul>
+				</nav>
+				<div class="sass-burger">
+					<span class="sass-burger__icon sass-burger__icon--"></span>
+				</div>
+			</div>
+		</div>
+	</header>
+<main class="about">
+	<section class="about-hero bg--primary">
+		<div class="container">
+			<div class="row">
+				<div class="col-7 col-12@2 tablet-ls:m-b-2x">
+					<img class="big-logo" src="https://2021.fluufff.org/website/assets/images/logos/logo-big.png" alt="Big flüüfff logo">
+				</div>
+				<div class="col-5 col-12@2">
+					<div class="flex flex-column flex-justify-center">
+						<h1 class="block fs--50 color--white lnh-150">
+							Flüüfff
+						</h1>
+						<div class="m-b-2x">
+							<p class="p-spacing fs--16 color--white">
+								Flüüfff 2021 is the 4th edition of the Flüüfff convention. It is all about bringing furries together in one place to share friendship, fun and creativity (values our community can be proud of). You don‘t have to be a furry to come party with us!							</p>
+							<p class="p-spacing fs--16 color--white">
+								The convention lasts 5 days and can be enjoyed in many ways : dancing like a party animal, lounging, playing video-games and board-games, attend panels or participate in one of the activities that are proposed. 							</p>
+							<div class="flex m-t-1x">
+								<a href="#faq" title="FAQ" class="resetlink inline-block fs--18 bold color--primary bg--white hover-bg--darkprimary hover-color--white p-ends-0.5x p-sides-1x m-r-0.5x">
+									More info								</a>
+															<a href="#staff" title="Dreamteam" class="resetlink inline-block fs--18 bold color--primary bg--white hover-bg--darkprimary hover-color--white p-ends-0.5x p-sides-1x m-r-0.5x">
+									Dreamteam								</a>
+														</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="about-faq p-ends-4x" id="faq">
+		<div class="container p-ends-2x tablet-p:p-ends-0x">
+			<div class="row">
+				<div class="col-1 hide@2">
+				</div>
+				<div class="col-10 col-12@2">
+					<div class="row">
+						<div class="col-6 col-12@3">
+							<div class="p-r-2x tablet-ls:p-r-0x">
+								<div class="m-b-2x">
+									<h3 class="fs--24 m-b-0.5x montserrat">
+										What is the furry fandom?									</h3>
+									<p class="fs--16 p-spacing">
+										The furry fandom is a community inspired by anthropomorphic animals (animals with human traits). People who are part of the fandom are called furries.									</p>
+									<p class="fs--16 p-spacing">
+										You can compare it to other communities with a fanbase like Star Wars, anime and fantasy fandom. The furry fandom is mainly about creativity and is also known as a very social community.									</p>
+									<p class="fs--16 p-spacing">
+										Most furries create their own character (also called fursona), based upon a certain animal. There are normal animals, hybrids, mythical creatures and some even create their own species.									</p>
+									<p class="fs--16 p-spacing">
+										If there's a meetup or a convention, you could find some people wearing fursuits. These fursuits are mostly costumes based upon someone's fursona. The fursuiters not only provide a hug, but also want to put a smile on the faces of children and adults alike.									</p>
+									<p class="fs--16 p-spacing">
+										In the community and during conventions, it is all about making art, writing stories, roleplaying, socializing and also making and wearing fursuits. Most furry conventions and several furry community groups collect money or organize panels for various charities!									</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-6 col-12@3">
+							<div class="p-r-2x tablet-ls:p-r-0x">
+								<div class="m-b-2x">
+									<h3 class="fs--24 m-b-0.5x montserrat">
+										Can I help with Flüüfff 2021?									</h3>
+									<p class="fs--16 p-spacing">
+										Of course! You can <a href="https://2021.fluufff.org/contact?contact=Info" title="Contact HR" class="color--primary hover-color--black">contact us by email</a> through our contact form and we’ll look into it. <br/>But the best way to support the Flüüfff is simply to attend it!									</p>
+								</div>
+								<div class="m-b-2x">
+									<h3 class="fs--24 m-b-0.5x montserrat">
+										Are there certain rules at the convention?									</h3>
+									<p class="fs--16 p-spacing">
+										You can find the convention rules <a target="_blank" href="https://2021.fluufff.org/terms" title="Rules" class="color--primary hover-color--black">here</a>.									</p>
+								</div>
+								<div class="m-b-2x">
+									<h3 class="fs--24 m-b-0.5x montserrat">
+										Previous editions:									</h3>
+									<p class="fs--16 p-spacing">
+										<a href="http://2017.fluufff.org" title="Fluufff 2017" class="lnh-150 color--primary hover-color--black">
+											Flüüfff 2017
+										</a><br/>
+										<a href="http://2018.fluufff.org" title="Fluufff 2018" class="lnh-150 color--primary hover-color--black">
+											Flüüfff 2018
+										</a><br/>
+										<a href="http://2019.fluufff.org" title="Fluufff 2019" class="lnh-150 color--primary hover-color--black">
+											Flüüfff 2019
+										</a><br/>
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="bg--whitealt color--black p-ends-2x m-b-4x">
+		<div class="container">
+			<div class="row">
+				<div class="col-1 hide@2"></div>
+				<div class="col-10 col-12@2">
+					<h2 class="fs--20 m-b-0.5x">
+						Flüüfff ASBL					</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-1 hide@2"></div>
+				<div class="col-5 col-12@2 m-b-1x">
+					<p class="p-spacing fs--14">
+						Flüüfff ASBL is a registered Belgian Non Profit Organisation with organisation number 0662.498.716 (see more on the Belgian Crossroads Bank for Enterprises Database).					</p>
+					<p class="p-spacing fs--14">
+						The administrators of the NPO are Thierry Dognié, Jan Taverniers, Meghann Poncin and Benoît Volckaert.					</p>
+				</div>
+				<div class="col-5 col-12@2 m-b-1x">
+
+					<p class="p-spacing fs--14 italic">
+						Flüüfff, asbl <br/> Rue Félicien Rops, 35B, boîte 01 <br/>1070, Anderlecht <br/>Belgium					</p>
+					<p class="p-spacing fs--14 italic">
+						All the revenue made during the event will be entirely used in equipement or services to improve the next edition or given to charity.					</p>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="p-b-4x about-team" id="staff">
+			<div class="container">
+				<div class="row">
+					<div class="col-12 ta--center">
+						<h2 class="block fs--50 lnh-150 m-b-2x">
+							The dreamteam						</h2>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-1 hide@2"></div>
+						<div class="col-10 col-12@2">
+							<div class="row">
+								<div class="col-3 col-4@2 col-6@1">
+									<a
+									href="#filter"
+									data-group=""
+									class="resetlink about-team__filter block p-ends-0.5x m-b-0.5x fs--14 bold color--white border--primary hover-border--darkprimary bg--primary hover-bg--darkprimary ta--center"
+									>
+									All								</a>
+							</div>
+															<div class="col-3 col-4@2 col-6@1">
+									<a
+										href="#filter"
+										data-group="Accounting"
+										class="resetlink about-team__filter block fs--14 p-ends-0.5x m-b-0.5x bold color--primary hover-color--darkprimary border--primary hover-border--darkprimary ta--center"
+									>
+										Accounting									</a>
+								</div>
+															<div class="col-3 col-4@2 col-6@1">
+									<a
+										href="#filter"
+										data-group="Bar"
+										class="resetlink about-team__filter block fs--14 p-ends-0.5x m-b-0.5x bold color--primary hover-color--darkprimary border--primary hover-border--darkprimary ta--center"
+									>
+										Bar									</a>
+								</div>
+															<div class="col-3 col-4@2 col-6@1">
+									<a
+										href="#filter"
+										data-group="Board"
+										class="resetlink about-team__filter block fs--14 p-ends-0.5x m-b-0.5x bold color--primary hover-color--darkprimary border--primary hover-border--darkprimary ta--center"
+									>
+										Board									</a>
+								</div>
+															<div class="col-3 col-4@2 col-6@1">
+									<a
+										href="#filter"
+										data-group="Stewards &amp; Safety"
+										class="resetlink about-team__filter block fs--14 p-ends-0.5x m-b-0.5x bold color--primary hover-color--darkprimary border--primary hover-border--darkprimary ta--center"
+									>
+										Stewards &amp; Safety									</a>
+								</div>
+															<div class="col-3 col-4@2 col-6@1">
+									<a
+										href="#filter"
+										data-group="Dealers' Den"
+										class="resetlink about-team__filter block fs--14 p-ends-0.5x m-b-0.5x bold color--primary hover-color--darkprimary border--primary hover-border--darkprimary ta--center"
+									>
+										Dealers' Den									</a>
+								</div>
+															<div class="col-3 col-4@2 col-6@1">
+									<a
+										href="#filter"
+										data-group="Decoration"
+										class="resetlink about-team__filter block fs--14 p-ends-0.5x m-b-0.5x bold color--primary hover-color--darkprimary border--primary hover-border--darkprimary ta--center"
+									>
+										Decoration									</a>
+								</div>
+															<div class="col-3 col-4@2 col-6@1">
+									<a
+										href="#filter"
+										data-group="Entertainment"
+										class="resetlink about-team__filter block fs--14 p-ends-0.5x m-b-0.5x bold color--primary hover-color--darkprimary border--primary hover-border--darkprimary ta--center"
+									>
+										Entertainment									</a>
+								</div>
+															<div class="col-3 col-4@2 col-6@1">
+									<a
+										href="#filter"
+										data-group="Feedback"
+										class="resetlink about-team__filter block fs--14 p-ends-0.5x m-b-0.5x bold color--primary hover-color--darkprimary border--primary hover-border--darkprimary ta--center"
+									>
+										Feedback									</a>
+								</div>
+															<div class="col-3 col-4@2 col-6@1">
+									<a
+										href="#filter"
+										data-group="Fursuit Affairs"
+										class="resetlink about-team__filter block fs--14 p-ends-0.5x m-b-0.5x bold color--primary hover-color--darkprimary border--primary hover-border--darkprimary ta--center"
+									>
+										Fursuit Affairs									</a>
+								</div>
+															<div class="col-3 col-4@2 col-6@1">
+									<a
+										href="#filter"
+										data-group="Graphic"
+										class="resetlink about-team__filter block fs--14 p-ends-0.5x m-b-0.5x bold color--primary hover-color--darkprimary border--primary hover-border--darkprimary ta--center"
+									>
+										Graphic									</a>
+								</div>
+															<div class="col-3 col-4@2 col-6@1">
+									<a
+										href="#filter"
+										data-group="Hotel Relations"
+										class="resetlink about-team__filter block fs--14 p-ends-0.5x m-b-0.5x bold color--primary hover-color--darkprimary border--primary hover-border--darkprimary ta--center"
+									>
+										Hotel Relations									</a>
+								</div>
+															<div class="col-3 col-4@2 col-6@1">
+									<a
+										href="#filter"
+										data-group="Human Ressources"
+										class="resetlink about-team__filter block fs--14 p-ends-0.5x m-b-0.5x bold color--primary hover-color--darkprimary border--primary hover-border--darkprimary ta--center"
+									>
+										Human Ressources									</a>
+								</div>
+															<div class="col-3 col-4@2 col-6@1">
+									<a
+										href="#filter"
+										data-group="Logistics"
+										class="resetlink about-team__filter block fs--14 p-ends-0.5x m-b-0.5x bold color--primary hover-color--darkprimary border--primary hover-border--darkprimary ta--center"
+									>
+										Logistics									</a>
+								</div>
+															<div class="col-3 col-4@2 col-6@1">
+									<a
+										href="#filter"
+										data-group="Photo"
+										class="resetlink about-team__filter block fs--14 p-ends-0.5x m-b-0.5x bold color--primary hover-color--darkprimary border--primary hover-border--darkprimary ta--center"
+									>
+										Photo									</a>
+								</div>
+															<div class="col-3 col-4@2 col-6@1">
+									<a
+										href="#filter"
+										data-group="Public Relations"
+										class="resetlink about-team__filter block fs--14 p-ends-0.5x m-b-0.5x bold color--primary hover-color--darkprimary border--primary hover-border--darkprimary ta--center"
+									>
+										Public Relations									</a>
+								</div>
+															<div class="col-3 col-4@2 col-6@1">
+									<a
+										href="#filter"
+										data-group="Registration"
+										class="resetlink about-team__filter block fs--14 p-ends-0.5x m-b-0.5x bold color--primary hover-color--darkprimary border--primary hover-border--darkprimary ta--center"
+									>
+										Registration									</a>
+								</div>
+															<div class="col-3 col-4@2 col-6@1">
+									<a
+										href="#filter"
+										data-group="Stage crew"
+										class="resetlink about-team__filter block fs--14 p-ends-0.5x m-b-0.5x bold color--primary hover-color--darkprimary border--primary hover-border--darkprimary ta--center"
+									>
+										Stage crew									</a>
+								</div>
+															<div class="col-3 col-4@2 col-6@1">
+									<a
+										href="#filter"
+										data-group="Website"
+										class="resetlink about-team__filter block fs--14 p-ends-0.5x m-b-0.5x bold color--primary hover-color--darkprimary border--primary hover-border--darkprimary ta--center"
+									>
+										Website									</a>
+								</div>
+													</div>
+						<div class="row m-t-2x">
+																								<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Board,Stewards &amp; Safety,Human Ressources,Public Relations,Registration,Website">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_1.png') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											1										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Tachgon</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Board</strong> - Secretary<br/>
+																					<strong>Stewards &amp; Safety</strong> - Head<br/>
+																					<strong>Human Ressources</strong> - Head<br/>
+																					<strong>Public Relations</strong> - Press<br/>
+																					<strong>Registration</strong> - Support<br/>
+																					<strong>Website</strong> - Head<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Registration">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_2.png') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											2										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Akylian</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Registration</strong> - Deputy<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Board,Dealers' Den,Public Relations,Registration">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_3.png') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											3										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Faelan</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Board</strong> - Vice-president<br/>
+																					<strong>Dealers' Den</strong> - Head<br/>
+																					<strong>Public Relations</strong> - Social Networks<br/>
+																					<strong>Registration</strong> - Head<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Decoration,Registration">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_4.png') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											4										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Jenky</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Decoration</strong> - Head<br/>
+																					<strong>Registration</strong> - Staff<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Website">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_5.png') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											5										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Hypi The Fox</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Website</strong> - Front-end<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Bar,Entertainment">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_6.png') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											6										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Jules</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Bar</strong> - Volunteer<br/>
+																					<strong>Entertainment</strong> - Head<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Accounting,Bar,Decoration">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_7.png') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											7										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">vrydi</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Accounting</strong> - Deputy<br/>
+																					<strong>Bar</strong> - Volunteer<br/>
+																					<strong>Decoration</strong> - Staff<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Stewards &amp; Safety">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_9.png') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											9										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Narf</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Stewards &amp; Safety</strong> - Deputy<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Accounting,Bar,Board,Dealers' Den,Human Ressources">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_11.png') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											11										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">StanLuckBun</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Accounting</strong> - Head<br/>
+																					<strong>Bar</strong> - Volunteer<br/>
+																					<strong>Board</strong> - President<br/>
+																					<strong>Dealers' Den</strong> - Staff<br/>
+																					<strong>Human Ressources</strong> - Deputy<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Stewards &amp; Safety">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_13.png') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											13										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Youna</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Stewards &amp; Safety</strong> - Steward<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Entertainment,Website">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_14.png') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											14										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Kasil</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Entertainment</strong> - Staff<br/>
+																					<strong>Website</strong> - Server<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Bar,Entertainment">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_default.png') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											15										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Nimalen</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Bar</strong> - Volunteer<br/>
+																					<strong>Entertainment</strong> - Staff<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Photo">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_16.jpg') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											16										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">VulcanWolfy</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Photo</strong> - Head<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Website">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_17.png') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											17										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Felikx</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Website</strong> - Front-end<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Graphic">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_18.png') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											18										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Kosse</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Graphic</strong> - Conbook<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Photo">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_19.png') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											19										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Peachy</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Photo</strong> - Staff<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Bar,Entertainment,Graphic,Logistics">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_20.png') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											20										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Fumps</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Bar</strong> - Volunteer<br/>
+																					<strong>Entertainment</strong> - Staff<br/>
+																					<strong>Graphic</strong> - Commissions<br/>
+																					<strong>Logistics</strong> - Head<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Fursuit Affairs">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_21.jpg') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											21										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Hell Charm</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Fursuit Affairs</strong> - Head<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Stage crew">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_22.png') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											22										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">FurBendji</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Stage crew</strong> - Head<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Entertainment">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_23.jpg') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											23										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Floere T. Pillowcase</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Entertainment</strong> - Staff<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Bar,Decoration,Entertainment">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_24.png') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											24										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Kanosint</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Bar</strong> - Volunteer<br/>
+																					<strong>Decoration</strong> - Staff<br/>
+																					<strong>Entertainment</strong> - Staff<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Bar,Stage crew">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_25.png') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											25										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Thinder</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Bar</strong> - Volunteer<br/>
+																					<strong>Stage crew</strong> - Deputy<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Bar">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_26.jpg') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											26										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Damien LeBlanc</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Bar</strong> - Staff<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Stage crew">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_27.jpg') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											27										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Kanso</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Stage crew</strong> - Staff<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Stewards &amp; Safety">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_default.png') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											29										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Leith</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Stewards &amp; Safety</strong> - Steward<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Board,Hotel Relations,Public Relations">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_30.jpg') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											30										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Laddian</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Board</strong> - Hotel Relations<br/>
+																					<strong>Hotel Relations</strong> - Head<br/>
+																					<strong>Public Relations</strong> - Head<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Public Relations">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_31.jpg') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											31										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Spyrawr (\\V//)</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Public Relations</strong> - Social Networks<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Stewards &amp; Safety">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_42.jpg') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											42										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Milo'Clock</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Stewards &amp; Safety</strong> - Steward<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Photo">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_55.png') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											55										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Axel The Stallion</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Photo</strong> - Staff<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Bar,Dealers' Den,Stage crew">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_57.jpg') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											57										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Wikke</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Bar</strong> - Volunteer<br/>
+																					<strong>Dealers' Den</strong> - Staff<br/>
+																					<strong>Stage crew</strong> - Staff<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Bar">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_default.png') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											60										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Amaroq</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Bar</strong> - Head<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Website">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_68.png') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											68										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">furexa</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Website</strong> - App<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Stewards &amp; Safety">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_70.png') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											70										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Kazuma</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Stewards &amp; Safety</strong> - Steward<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Bar,Dealers' Den">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_75.png') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											75										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Neeky</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Bar</strong> - Volunteer<br/>
+																					<strong>Dealers' Den</strong> - Staff<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Bar">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_91.png') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											91										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Dave.exe</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Bar</strong> - Volunteer<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Bar,Website">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_98.png') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											98										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Niki</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Bar</strong> - Volunteer<br/>
+																					<strong>Website</strong> - Deputy<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Decoration,Graphic,Website">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_102.png') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											102										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Dawn</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Decoration</strong> - Staff<br/>
+																					<strong>Graphic</strong> - Rebranding<br/>
+																					<strong>Website</strong> - Design<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Bar">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_104.png') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											104										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">DD</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Bar</strong> - Deputy<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Photo">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_105.jpg') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											105										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Tosh</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Photo</strong> - Staff<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Entertainment,Feedback,Public Relations">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_107.jpg') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											107										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Lezari</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Entertainment</strong> - Deputy<br/>
+																					<strong>Feedback</strong> - Head<br/>
+																					<strong>Public Relations</strong> - Press<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Dealers' Den,Registration">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_116.jpg') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											116										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Ziggu the Rat</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Dealers' Den</strong> - Staff<br/>
+																					<strong>Registration</strong> - Staff<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Fursuit Affairs">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_121.png') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											121										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Missy the Mouse</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Fursuit Affairs</strong> - Staff<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Bar">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_128.jpg') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											128										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Don Nut</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Bar</strong> - Volunteer<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Stewards &amp; Safety">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_165.png') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											165										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Trib</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Stewards &amp; Safety</strong> - Steward<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Stewards &amp; Safety">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_200.jpg') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											200										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Kuro</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Stewards &amp; Safety</strong> - Steward<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Entertainment">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_215.png') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											215										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Minty</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Entertainment</strong> - Staff<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Bar">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_265.jpg') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											265										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Iron Sunsetscales</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Bar</strong> - Volunteer<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Bar">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_default.png') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											295										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Drib</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Bar</strong> - Volunteer<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Bar,Stage crew">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_320.jpeg') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											320										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Raug</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Bar</strong> - Volunteer<br/>
+																					<strong>Stage crew</strong> - Staff<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Photo">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_379.jpeg') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											379										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">CaptainChaotika</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Photo</strong> - Staff<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Bar,Stewards &amp; Safety">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_395.jpg') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											395										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Hav</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Bar</strong> - Volunteer<br/>
+																					<strong>Stewards &amp; Safety</strong> - Steward<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Dealers' Den,Registration">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_424.jpg') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											424										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Lily_lynx</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Dealers' Den</strong> - Deputy<br/>
+																					<strong>Registration</strong> - Staff<br/>
+																			</p>
+								</div>
+																														<div class="team-member col-3 col-4@3 col-6@2 col-12@1" data-roles="Bar">
+										<div
+										class="team-member__avatar relative m-b-1x"
+										style="background: url('assets/avatars/thumbnail_default.png') center center; background-size: cover; padding-bottom: 100%;"
+										alt="Avatar">
+										<div class="team-member__number bg--primary color--white bold p-ends-0.25x p-sides-0.5x">
+											592										</div>
+									</div>
+									<h3 class="fs--30 bold m-b-1x">Carl The Feesh</h3>
+									<p class="desc fs--16 m-b-1.5x">
+																					<strong>Bar</strong> - Volunteer<br/>
+																			</p>
+								</div>
+																		</div>
+				</div>
+			</div>
+		</div>
+	</section>
+</main>
+<!--  -->
+		<footer class="footer bg--primary color--white ta--center">
+			<div class="container">
+				<div class="row p-b-2x">
+					<div class="col-4 col-12@3 footer-part">
+						<span class="block fs--24 vag bold tt--uc m-b-1x">
+							Opening						</span>
+						<span class="block fs--16 m-b-0.25x p-t-0.5x">
+							<strong>10th</strong> to the <strong>14th</strong> of November 2021						</span>
+					</div>
+					<div class="col-4 col-12@3 footer-part">
+						<span class="block fs--24 vag bold tt--uc m-b-1x">
+							Follow us						</span>
+						<div class="flex flex-justify-center flex-wrap socials p-b-0.5x">
+							<a target="_blank" href="https://twitter.com/FluufffCon" class="resetlink color--primary bg--white hover-bg--darkprimary hover-color--white fs--24 socials__item" title="Twitter">
+								<i class="fab fa-twitter"></i>
+							</a>
+							<a target="_blank" href="http://www.furaffinity.net/user/fluufff/" class="resetlink color--primary bg--white hover-bg--darkprimary hover-color--white fs--24 socials__item" title="Furaffinity">
+								<i class="fas fa-paw"></i>
+							</a>
+							<a target="_blank" href="https://www.facebook.com/fluufff/" class="resetlink color--primary bg--white hover-bg--darkprimary hover-color--white fs--24 socials__item" title="Facebook">
+								<i class="fab fa-facebook-f"></i>
+							</a>
+							<a target="_blank" href="https://beta.furrynetwork.com/fluufff/" class="resetlink color--primary bg--white hover-bg--darkprimary hover-color--white fs--24 socials__item" title="Furry Network">
+								<i class="fas fa-paw"></i>
+							</a>
+							<a target="_blank" href="https://t.me/fluufff_announcements" class="resetlink color--primary bg--white hover-bg--darkprimary hover-color--white fs--24 socials__item" title="Telegram">
+								<i class="fab fa-telegram-plane"></i>
+							</a>
+						</div>
+					</div>
+					<div class="col-4 col-12@3 footer-part">
+						<span class="block fs--24 vag bold tt--uc m-b-1x">
+							Contact us						</span>
+						<a href="https://2021.fluufff.org/contact" class="resetlink inline-block fs--16 lnh-150 m-t-0.5x color--white" title="Contact us">
+							Via the <span class="td--underline">contact form</span>						</a>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-12">
+						<span class="fs--12 color--white">
+							&copy;2024 - Flüüfff ABSL - All rights reserved. | <a href="https://2021.fluufff.org/terms#privacy" target="_blank" class="resetlink">Privacy</a>					| <a href="https://2021.fluufff.org/terms#terms" target="_blank" class="resetlink">Terms and Conditions</a>						</span>
+					</div>
+				</div>
+			</div>
+		</footer>
+					<div class="cookie-bar p-sides-0.5x p-ends-0.25x bg--white color--black flex flex-space-between flex-align-center tablet-ls:block">
+				<span>This site uses essential cookies, you can learn <a href="https://2021.fluufff.org/terms#privacy" target="_blank" class="color--primary">more about the cookies</a> used in our Privacy policies.</span>
+				<a href="https://2021.fluufff.org/about?cookiesAccepted=true" class="resetlink cookielink inline-block fs--16 bold bg--primary color--white hover-bg--black p-ends-0.25x p-sides-0.5x  tablet-ls:block ta--center tablet-ls:m-t-0.5x">I understand</a>
+			</div>
+				<script src="https://2021.fluufff.org/website/assets/js/app.bundle.js"></script>
+			</body>
+	</html>

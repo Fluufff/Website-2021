@@ -1,0 +1,568 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>Tickets | Grand Casino - Going all-in!</title>
+	<meta name="description" content="Spinning wheels, dices, slotmachines, are you ready to be the big player in a casino full of fur?! Join us in the 4th edition of the Belgian Furry Convention, a convention dedicated to anthropomorphic characters!" />
+	<meta property="og:title" content="Flüüfff 2021 | Grand Casino - Going all-in!" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="Spinning wheels, dices, slotmachines, are you ready to be the big player in a casino full of fur?! Join us in the 4th edition of the Belgian Furry Convention, a convention dedicated to anthropomorphic characters!" />
+	<meta property="og:url" content="https://2021.fluufff.org/tickets" />
+	<meta property="og:site_name" content="Flüüfff 2021 | Grand Casino - Going all-in!" />
+	<meta property="og:image" content="https://2021.fluufff.org/website/assets/images/og/open-graph.png">
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Flüüfff 2021 | Grand Casino - Going all-in!" />
+	<meta name="twitter:description" content="Spinning wheels, dices, slotmachines, are you ready to be the big player in a casino full of fur?! Join us in the 4th edition of the Belgian Furry Convention, a convention dedicated to anthropomorphic characters!" />
+	<meta name="twitter:image" content="https://2021.fluufff.org/website/assets/images/og/open-graph.png" />
+	<meta itemprop="name" content="Flüüfff 2021 | Grand Casino - Going all-in!" />
+	<meta itemprop="description" content="Spinning wheels, dices, slotmachines, are you ready to be the big player in a casino full of fur?! Join us in the 4th edition of the Belgian Furry Convention, a convention dedicated to anthropomorphic characters!" />
+	<meta name="robots" content="index,follow,noodp,noydir" />
+	<meta http-equiv="Content-Language" content="en" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Expires" content="never" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+	<meta name="format-detection" content="telephone=no" />
+	<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://2021.fluufff.org/website/assets/css/app.css" type="text/css" media="all" />
+	<link rel="apple-touch-icon" sizes="180x180" href="https://2021.fluufff.org/website/assets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://2021.fluufff.org/website/assets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://2021.fluufff.org/website/assets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="https://2021.fluufff.org/website/assets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="https://2021.fluufff.org/website/assets/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
+	<link rel="shortcut icon" href="https://2021.fluufff.org/website/assets/images/favicons/favicon.ico">
+	<meta name="apple-mobile-web-app-title" content="Flüüfff 2021 | Grand Casino - Going all-in!">
+	<meta name="application-name" content="Flüüfff 2021 | Grand Casino - Going all-in!">
+	<meta name="msapplication-config" content="https://2021.fluufff.org/website/assets/images/favicons/browserconfig.xml">
+	<meta name="theme-color" content="#1d2435">
+</head>
+<body>
+		<header id="header" class="relative header bg--primary p-sides-1x p-ends-0.5x" itemscope itemtype="http://schema.org/WPHeader">
+		<meta itemprop="headline name" content="Flüüfff" />
+		<meta itemprop="description" content="Furry Convention Belgium" />
+		<div class="navbar flex flex-align-center flex-space-between">
+			<a href="https://2021.fluufff.org/" title="Back to homepage" class="resetlink header-logo">
+				<img src="https://2021.fluufff.org/website/assets/images/logos/full_logo_casino.png" alt="Logo Flüüfff">
+			</a>
+			<div class="nav-wrapper flex flex-align-center flex-end">
+				<nav class="nav" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+					<ul class="no-list-style flex flex-end flex-align-center">
+						<li class="nav__item p-sides-1x hide@3 tablet-ls:p-sides-0.75x ">
+							<a href="https://2021.fluufff.org/" title="Home" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+								Home							</a>
+						</li>
+						<li class="nav__item p-sides-1x hide@3 tablet-ls:p-sides-0.75x ">
+							<a href="https://2021.fluufff.org/covid-19" title="Covid-19" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+								Covid-19							</a>
+						</li>
+						<li class="nav__item p-sides-1x tablet-ls:p-sides-0.75x ">
+							<a href="https://2021.fluufff.org/about" title="About" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+								About							</a>
+						</li>
+						<li class="nav__item p-sides-1x tablet-ls:p-sides-0.75x ">
+							<a href="https://2021.fluufff.org/venue" title="Venue" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+								Venue							</a>
+						</li>
+						<li class="nav__item p-sides-1x tablet-ls:p-sides-0.75x ">
+							<a href="https://2021.fluufff.org/activities" title="Activities" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+								Activities							</a>
+						</li>
+						<li class="nav__item p-sides-1x tablet-ls:p-sides-0.75x ">
+							<a href="https://2021.fluufff.org/contact" title="Contact" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+								Contact							</a>
+						</li>
+						<li class="nav__item p-sides-1x tablet-ls:p-sides-0.75x nav__item--active">
+							<a href="https://2021.fluufff.org/tickets" title="Tickets" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+								Tickets							</a>
+						</li>
+													<li class="nav__item p-l-1x ">
+								<a href="https://2021.fluufff.org/profile/login?from=tickets" title="Login" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+									Login								</a>
+							</li>
+							
+					</ul>
+				</nav>
+				<div class="sass-burger">
+					<span class="sass-burger__icon sass-burger__icon--"></span>
+				</div>
+			</div>
+		</div>
+	</header>
+<main class="tickets">
+	<section class="tickets-intro">
+		<div class="container">
+			<div class="row">
+				<div class="col-3 col-2@3 col-1@2 hide@1"></div>
+				<div class="col-6 col-8@3 col-10@2 col-12@1 ta--center">
+					<h1 class="block fs--50 lnh-150 m-b-1x">
+						Tickets					</h1>
+					<span class="block fs--20 bold m-b-0.5x">
+						The convention has been postponed to 2021.					</span>
+					<p class="fs--16 m-b-1.5x">
+						All the tickets bought in 2020 for the fourth edition are <strong>valid for 2021</strong>. You can buy refunded spots (if available) or buy over tickets from another attendee.					</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-12">
+					<div class="flex flex-justify-center">
+						<a href="#residential" title="More info residential" class="resetlink inline-block fs--18 bold color--white bg--primary hover-bg--darkprimary p-ends-0.5x p-sides-0.5x m-r-0.5x">
+							Residential tickets						</a>
+						<a href="#daytickets" title="More info day tickets" class="resetlink inline-block fs--18 bold color--white bg--primary hover-bg--darkprimary p-ends-0.5x p-sides-0.5x m-r-0.25x">
+							Day tickets						</a>
+						<a href="#extras" title="Goodies & extras" class="resetlink inline-block fs--18 bold color--white bg--primary hover-bg--darkprimary p-ends-0.5x p-sides-0.5x m-r-0.25x">
+							Goodies & extras						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="tickets-reg">
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<h2 class="block fs--50 lnh-150 m-b-1x ta--center">
+						Buy a ticket					</h2>
+					<iframe
+						class="tickets-iframe"
+						frameborder="0"
+						onload="this.style.height=(this.contentWindow.document.body.scrollHeight+20)+'px'";
+						scrolling="yes"
+						title="Registration"
+						src="https://2021.fluufff.org/register?iframe">
+					</iframe>
+					<div class="bg--whitealt p-sides-1x p-ends-1x">
+					<div class="payment-methods flex p-b-1x">
+						<i class="m-r-0.5x fs--50 color--gray hover-color--primary fab fa-cc-stripe"></i>
+						<i class="m-r-0.5x fs--50 color--gray hover-color--primary fas fa-money-check-alt"></i>
+						<i class="m-r-0.5x fs--50 color--gray hover-color--primary fab fa-cc-mastercard"></i>
+						<i class="m-r-0.5x fs--50 color--gray hover-color--primary fab fa-cc-visa"></i>
+					</div>
+					<div class="row">
+						<div class="col-8 col-12@3">
+						<p class="p-spacing fs--16">
+							All payments go through the Stripe platform. <br/>You can pay by <strong>Bank Transfer, Bancontact, Maestro, Credit Card (Mastercard/Visa)</strong>.						</p>
+						<p class="p-spacing fs--16">
+							Payment in up to <strong>3 installments</strong> is available, with a down payment of <strong>€120</strong> being due within 10 days after registration. Please note that the full payment should be completed within two months.						</p>
+						</div>
+					</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="tickets-info p-ends-4x">
+		<div class="container">
+			<div class="row">
+				<div class="col-12 ta--center">
+					<h2 class="block fs--50 lnh-150 m-b-2x ta--center">
+						Ticket info					</h2>
+				</div>
+			</div>
+			<div class="row p-b-4x" id="residential">
+				<div class="col-5 col-12@3">
+					<h3 class="fs--30 bold m-b-1x montserrat">
+						Residential ticket					</h3>
+					<p class="p-spacing fs--16">
+						The best way to enjoy the convention to its full potential, is with a residential ticket! <br/>
+					</p>
+					<p class="p-spacing fs--16">
+						Please note that all prices listed here are for <strong>ONE spot in a shared bedroom and ONE convention spot</strong>.						Reserving an entire room is possible, but at double price.					</p>
+					<p>
+						Residential registrations close on October 17th, 2021.					</p>
+					<p class="p-spacing fs--16">
+						<strong>Residential tickets include:</strong>
+					</p>
+					<ul class="no-list-style list list--bullet m-t-0.5x m-b-1.5x">
+						<li class="list__item fs--16">
+							Con area access						</li>
+						<li class="list__item fs--16">
+							Access to all events						</li>
+						<li class="list__item fs--16">
+							Sleeping at the hotel						</li>
+						<li class="list__item fs--16">
+							Breakfast						</li>
+						<li class="list__item fs--16">
+							Daily room cleaning						</li>
+					</ul>
+					<p class="p-spacing fs--16">
+						Check-in on your first day is at 16:00. <br/>Check-out on the last day is at 12:00. <br/>					</p>
+					<p class="p-spacing fs--16">
+						<strong>Info about the different room types can be found <a href="https://2021.fluufff.org/venue#rooms" title="here" class="color--primary hover-color--black">here</a></strong>. This year we have single and two person bedrooms					</p>
+					<p class="p-spacing fs--16">
+						You can add an extra day before and after the convention, called 'early arrival' and 'late departure' respectively.					</p>
+				</div>
+				<div class="col-7 col-12@3">
+					<div class="price-table p-t-2x m-t-0.75x m-b-1x">
+						<div class="price-table__row">
+							<div class="price-table__cell"></div>
+							<div class="price-table__cell">
+								<div class="block ta--center">
+									<span class="fs--16 bold">
+										Standard room									</span>
+									<span class="fs--12">
+										/person									</span>
+								</div>
+							</div>
+							<div class="price-table__cell">
+								<div class="block ta--center">
+									<span class="fs--16 bold">
+										Business room									</span>
+									<span class="fs--12">
+										/person									</span>
+								</div>
+							</div>
+							<div class="price-table__cell">
+								<div class="block ta--center">
+									<span class="fs--16 bold">
+										Executive room									</span>
+									<span class="fs--12">
+										/person									</span>
+								</div>
+							</div>
+						</div>
+						<div class="price-table__row">
+							<div class="price-table__cell">
+								<span class="block fs--16 bold ta--right">
+									5 days								</span>
+							</div>
+							<div class="price-table__cell">
+								<span class="block bg--primary color--white fs--16 bold ta--center p-ends-0.25x p-sides-0.25x">
+									€ 260
+								</span>
+							</div>
+							<div class="price-table__cell">
+								<span class="block bg--primary color--white fs--16 bold ta--center p-ends-0.25x p-sides-0.25x">
+									€ 310
+								</span>
+							</div>
+							<div class="price-table__cell">
+								<span class="block bg--primary color--white fs--16 bold ta--center p-ends-0.25x p-sides-0.25x">
+									€ 360
+								</span>
+							</div>
+						</div>
+						<div class="price-table__row">
+							<div class="price-table__cell">
+								<span class="block fs--16 bold ta--right">
+									+ 1 day <br/>(early arrival)								</span>
+							</div>
+							<div class="price-table__cell">
+								<span class="block bg--primary color--white fs--16 bold ta--center p-ends-0.25x p-sides-0.25x">
+									€ 37.50
+								</span>
+							</div>
+							<div class="price-table__cell">
+								<span class="block bg--primary color--white fs--16 bold ta--center p-ends-0.25x p-sides-0.25x">
+									€ 50.00
+								</span>
+							</div>
+							<div class="price-table__cell">
+								<span class="block bg--primary color--white fs--16 bold ta--center p-ends-0.25x p-sides-0.25x">
+									€ 62.50
+								</span>
+							</div>
+						</div>
+						<div class="price-table__row">
+							<div class="price-table__cell">
+								<span class="block fs--16 bold ta--right">
+									+ 1 day<br/> (late departure)								</span>
+							</div>
+							<div class="price-table__cell">
+								<span class="block bg--primary color--white fs--16 bold ta--center p-ends-0.25x p-sides-0.25x">
+									€ 37.50
+								</span>
+							</div>
+							<div class="price-table__cell">
+								<span class="block bg--primary color--white fs--16 bold ta--center p-ends-0.25x p-sides-0.25x">
+									€ 50.00
+								</span>
+							</div>
+							<div class="price-table__cell">
+								<span class="block bg--primary color--white fs--16 bold ta--center p-ends-0.25x p-sides-0.25x">
+									€ 62.50
+								</span>
+							</div>
+						</div>
+						<div class="price-table__row">
+							<div class="price-table__cell"></div>
+							<div class="price-table__cell">
+								<span class="block fs--16 bold ta--center">
+									Single								</span>
+							</div>
+							<div class="price-table__cell">
+								<span class="block fs--16 bold ta--center">
+									Single								</span>
+							</div>
+							<div class="price-table__cell">
+								<span class="block fs--16 bold ta--center">
+									Single								</span>
+							</div>
+						</div>
+						<div class="price-table__row">
+							<div class="price-table__cell">
+								<span class="block fs--16 bold ta--right">
+									5 days								</span>
+							</div>
+							<div class="price-table__cell">
+								<span class="block bg--primary color--white fs--16 bold ta--center p-ends-0.25x p-sides-0.25x">
+									€ 388.50
+								</span>
+							</div>
+							<div class="price-table__cell">
+								<span class="block bg--primary color--white fs--16 bold ta--center p-ends-0.25x p-sides-0.25x">
+									€ 488.50
+								</span>
+							</div>
+							<div class="price-table__cell">
+								<span class="block bg--primary color--white fs--16 bold ta--center p-ends-0.25x p-sides-0.25x">
+									<!--€ 588.50-->-
+								</span>
+							</div>
+						</div>
+						<div class="price-table__row">
+							<div class="price-table__cell">
+								<span class="block fs--16 bold ta--right">
+									+ 1 day <br/>(early arrival)								</span>
+							</div>
+							<div class="price-table__cell">
+								<span class="block bg--primary color--white fs--16 bold ta--center p-ends-0.25x p-sides-0.25x">
+									€ 69.50
+								</span>
+							</div>
+							<div class="price-table__cell">
+								<span class="block bg--primary color--white fs--16 bold ta--center p-ends-0.25x p-sides-0.25x">
+									€ 94.50
+								</span>
+							</div>
+							<div class="price-table__cell">
+								<span class="block bg--primary color--white fs--16 bold ta--center p-ends-0.25x p-sides-0.25x">
+									<!--€ 119.50-->-
+								</span>
+							</div>
+						</div>
+						<div class="price-table__row">
+							<div class="price-table__cell">
+								<span class="block fs--16 bold ta--right">
+									+ 1 day<br/> (late departure)								</span>
+							</div>
+							<div class="price-table__cell">
+								<span class="block bg--primary color--white fs--16 bold ta--center p-ends-0.25x p-sides-0.25x">
+									€ 69.50
+								</span>
+							</div>
+							<div class="price-table__cell">
+								<span class="block bg--primary color--white fs--16 bold ta--center p-ends-0.25x p-sides-0.25x">
+									€ 94.50
+								</span>
+							</div>
+							<div class="price-table__cell">
+								<span class="block bg--primary color--white fs--16 bold ta--center p-ends-0.25x p-sides-0.25x">
+									<!--€ 119.50-->-
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row p-b-4x" id="daytickets">
+				<div class="col-5 col-12@3">
+					<h3 class="fs--30 bold m-b-1x montserrat">
+						Day ticket					</h3>
+					<p class="p-spacing fs--16">
+						<strong>Day tickets sale start begin of September.</strong>					</p>
+					<p class="p-spacing fs--16">
+						Do you want to experience our fluffy event, but have no need for accommodation? We have just the thing for you! We offer convention tickets for any given day, the full event, or weekend tickets.					</p>
+					<p class="p-spacing fs--16">
+						<strong>Day tickets include:</strong>					</p>
+					<ul class="no-list-style list list--bullet m-t-0.5x m-b-1.5x">
+						<li class="list__item fs--16">
+							Con area access						</li>
+						<li class="list__item fs--16">
+							Access to all events of the chosen day						</li>
+					</ul>
+					<p class="p-spacing fs--16">
+						Please note that day tickets allow you to stay from the first planned event, until the end of the last one.					</p>
+				</div>
+				<div class="col-7 col-12@3">
+					<div class="price-table p-t-2x m-t-0.75x m-b-1x">
+						<div class="price-table__row">
+							<div class="price-table__cell"></div>
+							<div class="price-table__cell">
+								<span class="block fs--16 bold ta--center">
+									Wed								</span>
+							</div>
+							<div class="price-table__cell">
+								<span class="block fs--16 bold ta--center">
+									Thu								</span>
+							</div>
+							<div class="price-table__cell">
+								<span class="block fs--16 bold ta--center">
+									Fri								</span>
+							</div>
+							<div class="price-table__cell">
+								<span class="block fs--16 bold ta--center">
+									Sat								</span>
+							</div>
+							<div class="price-table__cell">
+								<span class="block fs--16 bold ta--center">
+									Sun								</span>
+							</div>
+						</div>
+						<div class="price-table__row">
+							<div class="price-table__cell">
+								<span class="block fs--16 bold ta--right">
+									days								</span>
+							</div>
+							<div class="price-table__cell">
+								<span class="block bg--primary color--white fs--16 bold ta--center p-ends-0.25x p-sides-0.25x">
+									€ 28
+								</span>
+							</div>
+							<div class="price-table__cell">
+								<span class="block bg--primary color--white fs--16 bold ta--center p-ends-0.25x p-sides-0.25x">
+									€ 28
+								</span>
+							</div>
+							<div class="price-table__cell">
+								<span class="block bg--primary color--white fs--16 bold ta--center p-ends-0.25x p-sides-0.25x">
+									€ 28
+								</span>
+							</div>
+							<div class="price-table__cell">
+								<span class="block bg--primary color--white fs--16 bold ta--center p-ends-0.25x p-sides-0.25x">
+									€ 28
+								</span>
+							</div>
+							<div class="price-table__cell">
+								<span class="block bg--primary color--white fs--16 bold ta--center p-ends-0.25x p-sides-0.25x">
+									€ 10
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row p-b-4x" id="extras">
+				<div class="col-5 col-12@3">
+					<h3 class="fs--30 bold m-b-1x montserrat">
+						Extras					</h3>
+					<p class="p-spacing fs--16">
+						Do you like our event and want to support Flüüfff to ensure we can keep on improving your experience in the future? Consider becoming a sponsor!					</p>
+					<p class="p-spacing fs--16">
+						<strong>The sponsor package includes:</strong>
+					</p>
+					<ul class="no-list-style list list--bullet m-t-0.5x m-b-1.5x">
+						<li class="list__item fs--16">
+							Con t-shirt						</li>
+						<li class="list__item fs--16">
+							Custom badge art						</li>
+						<li class="list__item fs--16">
+							Custom lanyard						</li>
+						<li class="list__item fs--16">
+							Some bonus goodies						</li>
+						<li class="list__item fs--16">
+							Our eternal gratitude						</li>
+					</ul>
+				</div>
+				<div class="col-7 col-12@3">
+					<div class="price-table p-t-2x m-t-0.75x m-b-1x">
+						<div class="price-table__row">
+							<div class="price-table__cell"></div>
+							<div class="price-table__cell">
+								<span class="block fs--16 bold ta--center">
+									T-shirt								</span>
+							</div>
+							<div class="price-table__cell">
+								<span class="block fs--16 bold ta--center">
+									Sponsor Pack								</span>
+							</div>
+							<div class="price-table__cell">
+								<span class="block fs--16 bold ta--center">
+									Parking Ticket*								</span>
+							</div>
+						</div>
+						<div class="price-table__row">
+							<div class="price-table__cell">
+								<span class="block fs--16 bold ta--right">
+
+								</span>
+							</div>
+							<div class="price-table__cell">
+								<span class="block bg--primary color--white fs--16 bold ta--center p-ends-0.25x p-sides-0.25x">
+									€ 15
+								</span>
+							</div>
+							<div class="price-table__cell">
+								<span class="block bg--primary color--white fs--16 bold ta--center p-ends-0.25x p-sides-0.25x">
+									€ 35
+								</span>
+							</div>
+							<div class="price-table__cell">
+								<span class="block bg--primary color--white fs--16 bold ta--center p-ends-0.25x p-sides-0.25x">
+									€ 13 / day								</span>
+							</div>
+						</div>
+						<span class="fs--14 p-ends-0.5x ta--right">
+							* Ask for a parking ticket at the hotel desk.						</span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+</main>
+<!--  -->
+		<footer class="footer bg--primary color--white ta--center">
+			<div class="container">
+				<div class="row p-b-2x">
+					<div class="col-4 col-12@3 footer-part">
+						<span class="block fs--24 vag bold tt--uc m-b-1x">
+							Opening						</span>
+						<span class="block fs--16 m-b-0.25x p-t-0.5x">
+							<strong>10th</strong> to the <strong>14th</strong> of November 2021						</span>
+					</div>
+					<div class="col-4 col-12@3 footer-part">
+						<span class="block fs--24 vag bold tt--uc m-b-1x">
+							Follow us						</span>
+						<div class="flex flex-justify-center flex-wrap socials p-b-0.5x">
+							<a target="_blank" href="https://twitter.com/FluufffCon" class="resetlink color--primary bg--white hover-bg--darkprimary hover-color--white fs--24 socials__item" title="Twitter">
+								<i class="fab fa-twitter"></i>
+							</a>
+							<a target="_blank" href="http://www.furaffinity.net/user/fluufff/" class="resetlink color--primary bg--white hover-bg--darkprimary hover-color--white fs--24 socials__item" title="Furaffinity">
+								<i class="fas fa-paw"></i>
+							</a>
+							<a target="_blank" href="https://www.facebook.com/fluufff/" class="resetlink color--primary bg--white hover-bg--darkprimary hover-color--white fs--24 socials__item" title="Facebook">
+								<i class="fab fa-facebook-f"></i>
+							</a>
+							<a target="_blank" href="https://beta.furrynetwork.com/fluufff/" class="resetlink color--primary bg--white hover-bg--darkprimary hover-color--white fs--24 socials__item" title="Furry Network">
+								<i class="fas fa-paw"></i>
+							</a>
+							<a target="_blank" href="https://t.me/fluufff_announcements" class="resetlink color--primary bg--white hover-bg--darkprimary hover-color--white fs--24 socials__item" title="Telegram">
+								<i class="fab fa-telegram-plane"></i>
+							</a>
+						</div>
+					</div>
+					<div class="col-4 col-12@3 footer-part">
+						<span class="block fs--24 vag bold tt--uc m-b-1x">
+							Contact us						</span>
+						<a href="https://2021.fluufff.org/contact" class="resetlink inline-block fs--16 lnh-150 m-t-0.5x color--white" title="Contact us">
+							Via the <span class="td--underline">contact form</span>						</a>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-12">
+						<span class="fs--12 color--white">
+							&copy;2024 - Flüüfff ABSL - All rights reserved. | <a href="https://2021.fluufff.org/terms#privacy" target="_blank" class="resetlink">Privacy</a>					| <a href="https://2021.fluufff.org/terms#terms" target="_blank" class="resetlink">Terms and Conditions</a>						</span>
+					</div>
+				</div>
+			</div>
+		</footer>
+					<div class="cookie-bar p-sides-0.5x p-ends-0.25x bg--white color--black flex flex-space-between flex-align-center tablet-ls:block">
+				<span>This site uses essential cookies, you can learn <a href="https://2021.fluufff.org/terms#privacy" target="_blank" class="color--primary">more about the cookies</a> used in our Privacy policies.</span>
+				<a href="https://2021.fluufff.org/tickets?cookiesAccepted=true" class="resetlink cookielink inline-block fs--16 bold bg--primary color--white hover-bg--black p-ends-0.25x p-sides-0.5x  tablet-ls:block ta--center tablet-ls:m-t-0.5x">I understand</a>
+			</div>
+				<script src="https://2021.fluufff.org/website/assets/js/app.bundle.js"></script>
+			</body>
+	</html>

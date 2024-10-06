@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8" />
+	<title>Login/Create an account —  Flüüfff 2020 | Grand Casino - Going all-in!</title>
+	<meta name="keywords" content="Furry, Convention">
+	<meta name="author" content="Flüüfff">
+	<meta name="description" content="Welcome to Flüüfff's registration, a furry convention in Brussels, Belgium." />
+	<meta property="og:title" content="Login/Create an account" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="Welcome to Flüüfff's registration, a furry convention in Brussels, Belgium." />
+	<meta property="og:site_name" content="Login/Create an account" />
+	<meta property="og:image" content="https://2021.fluufff.org/assets/style/registration/img/og/open-graph.jpg">
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Login/Create an account" />
+	<meta name="twitter:description" content="Welcome to Flüüfff's registration, a furry convention in Brussels, Belgium." />
+	<meta name="twitter:image" content="https://2021.fluufff.org/assets/style/registration/img/og/open-graph.jpg" />
+	<meta itemprop="name" content="Login/Create an account" />
+	<meta itemprop="description" content="Welcome to Flüüfff's registration, a furry convention in Brussels, Belgium." />
+	<meta name="robots" content="index,follow,noodp,noydir" />
+	<meta http-equiv="Content-Language" content="en-GB" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Expires" content="never" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+	<meta name="format-detection" content="telephone=no" />
+	<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+	<link rel="apple-touch-icon" sizes="180x180" href="https://2021.fluufff.org/assets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://2021.fluufff.org/assets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://2021.fluufff.org/assets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="https://2021.fluufff.org/assets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="https://2021.fluufff.org/assets/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
+	<link rel="shortcut icon" href="https://2021.fluufff.org/assets/images/favicons/favicon.ico">
+	<meta name="apple-mobile-web-app-title" content="Login/Create an account">
+	<meta name="application-name" content="Login/Create an account">
+	<meta name="msapplication-config" content="https://2021.fluufff.org/assets/images/favicons/browserconfig.xml">
+	<meta name="theme-color" content="#1d2435">
+
+	<link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
+
+	<link rel="stylesheet" type="text/css" href="https://2021.fluufff.org/assets/style/registration/reset.css">
+	<link rel="stylesheet" type="text/css" href="https://2021.fluufff.org/assets/style/registration/registration.css">
+	<link rel="stylesheet" type="text/css" href="https://2021.fluufff.org/assets/style/registration/theme.css">
+	<link rel="stylesheet" type="text/css" href="https://2021.fluufff.org/website/assets/css/platyplus.css" />
+</head>
+<body>
+	<main class="registration-screen">
+<div class="breadcrumbs">
+<a href="https://2021.fluufff.org/register/step/2?iframe=true" class="resetlink fs--14 text--white breadcrumbs__item" style="font-weight: bolder;">1 - Login/Create an account</a> <script>
+var countDownInit = Date.now() +  * 1000;
+
+var x = setInterval(function() {
+  var counter = countDownInit - Date.now() ;
+
+  var minutes = Math.floor(counter / (1000 * 60));
+  var seconds = Math.floor((counter % (1000 * 60)) / 1000);
+
+	if (minutes <= 0 && seconds < 0) {
+		minutes = 0;
+		seconds = 0;
+    clearInterval(x);
+  }
+
+  document.getElementById("countDown").innerHTML = "Session expires in " + ("00" + minutes).slice(-2)  + ":" + ("00" + seconds).slice(-2);
+}, 1000);
+</script>
+</div>
+<section class="registration-screen">
+	<div class="window__header">
+		<h1 class="title title--white fs--30">Login/Create an account</h1>
+		<p class="text text--white fs--18">
+							Hey! Registration is closed but you can login or create an account.					</p>
+	</div>
+	<div class="padding-box" style="padding-top: 0;">
+		<div class="info-box light-box content-box">
+			<div class="padding-box">
+				<h2>The registration steps</h2>
+				Create an account and buy your convention tickets now or later.			</div>
+		</div>
+	</div>
+	<div class="window window--login">
+		<div class="left">
+			<div class=" window--login__inner light-box content-box">
+				<h2 class="title box-title">
+					Login with an existing account				</h2>
+
+				<div class="form padding-box">
+					<form action="https://2021.fluufff.org/profile/login/?from=register&iframe=true" method="post" accept-charset="utf-8">
+					<div class="input-field">
+						<label for="email">
+							Email						</label>
+						<input type="text" name="email" value=""  class="input-field--text" id="email" />
+											</div>
+					<div class="input-field">
+						<label for="password">
+							Password						</label>
+						<input type="password" name="password" value=""  class="input-field--text" id="password" />
+											</div>
+					<button type="submit" name="send" class="btn btn-submit">
+						Log in						<i class="fas fa-arrow-right"></i>
+					</button>
+				</form>
+			</div>
+		</div>
+
+
+	</div>
+	<div class="right">
+		<div class="window--login__inner light-box content-box">
+			<h2 class="title box-title">
+				Create an account			</h2>
+			<div class="padding-box">
+				<form action="https://2021.fluufff.org/register/step/2?iframe=true" method="post" accept-charset="utf-8">
+				<div class="form-section">
+					<span class="label">
+						Email*
+					</span>
+					<div class="input-wrapper-flex">
+						<div class="input-field">
+							<input type="text" class="input-field--text" name="email" value="" placeholder="your_email@example.org">
+													</div>
+						<div class="input-field">
+							<input type="text" class="input-field--text" name="email_bis" value="" placeholder="repeat email">
+													</div>
+					</div>
+					<span class="label">
+						Password*
+					</span>
+					<div class="input-wrapper-flex">
+						<div class="input-field">
+							<input type="password" name="password" value=""  class="input-field--text" placeholder="********" />
+						</div>
+						<div class="input-field">
+							<input type="password" name="password_bis" value=""  class="input-field--text" placeholder="repeat password" />
+													</div>
+					</div>
+				</div>
+
+				<div class="form-section">
+					<div class="input-wrapper-flex">
+						<div class="input-field">
+							<label for="firstname">
+								First name*
+							</label>
+							<input type="text" class="input-field--text" id="firstname" name="firstname" value="">
+													</div>
+						<div class="input-field">
+							<label for="lastname">
+								Last name*
+							</label>
+							<input type="text" class="input-field--text" id="lastname" name="lastname" value="">
+													</div>
+					</div>
+					<div class="input-field">
+						<label for="nick">
+							Nickname (optional)						</label>
+						<input type="text" class="input-field--text" id="nick" name="nick" value="">
+											</div>
+					<div class="input-field  mt-m">
+						<div class="custom-checkbox">
+							<input type="checkbox" id="privacy" name="privacy" />
+							<label for="privacy" class="label">
+								<span class="custom-desc">I confirm I have read and accept <a href="https://2021.fluufff.org/register/terms?iframe=true" targe="_blank">the privacy policies</a>.</span>
+							</label>
+						</div>
+												<div class="custom-checkbox">
+							<input type="checkbox" id="terms" name="terms"  />
+							<label for="terms" class="label">
+								<span class="custom-desc">I confirm I have read and accept <a href="https://2021.fluufff.org/register/terms?iframe=true" target="_blank">the terms and conditions</a>.</span>
+							</label>
+						</div>
+												<label for="birthdate[day]" class="label">
+							Day of birth						</label>
+						<div class="bday-field">
+							<div class="custom-select">
+								<select id="birthdate[day]" name="birthdate[day]">
+									<option>Day</option>
+								<option value="1" >1</option>
+								<option value="2" >2</option>
+								<option value="3" >3</option>
+								<option value="4" >4</option>
+								<option value="5" >5</option>
+								<option value="6" >6</option>
+								<option value="7" >7</option>
+								<option value="8" >8</option>
+								<option value="9" >9</option>
+								<option value="10" >10</option>
+								<option value="11" >11</option>
+								<option value="12" >12</option>
+								<option value="13" >13</option>
+								<option value="14" >14</option>
+								<option value="15" >15</option>
+								<option value="16" >16</option>
+								<option value="17" >17</option>
+								<option value="18" >18</option>
+								<option value="19" >19</option>
+								<option value="20" >20</option>
+								<option value="21" >21</option>
+								<option value="22" >22</option>
+								<option value="23" >23</option>
+								<option value="24" >24</option>
+								<option value="25" >25</option>
+								<option value="26" >26</option>
+								<option value="27" >27</option>
+								<option value="28" >28</option>
+								<option value="29" >29</option>
+								<option value="30" >30</option>
+								<option value="31" >31</option>
+								</select>
+							</div>
+							<div class="custom-select">
+								<select id="birthdate[month]" name="birthdate[month]">
+									<option>Month</option>
+									<option value="1" >1</option>
+									<option value="2" >2</option>
+									<option value="3" >3</option>
+									<option value="4" >4</option>
+									<option value="5" >5</option>
+									<option value="6" >6</option>
+									<option value="7" >7</option>
+									<option value="8" >8</option>
+									<option value="9" >9</option>
+									<option value="10" >10</option>
+									<option value="11" >11</option>
+									<option value="12" >12</option>
+								</select>
+							</div>
+							<div class="custom-select">
+								<select id="birthdate[year]" name="birthdate[year]">
+									<option>Year</option>
+									<option value="2004" >2004</option>
+									<option value="2003" >2003</option>
+									<option value="2002" >2002</option>
+									<option value="2001" >2001</option>
+									<option value="2000" >2000</option>
+									<option value="1999" >1999</option>
+									<option value="1998" >1998</option>
+									<option value="1997" >1997</option>
+									<option value="1996" >1996</option>
+									<option value="1995" >1995</option>
+									<option value="1994" >1994</option>
+									<option value="1993" >1993</option>
+									<option value="1992" >1992</option>
+									<option value="1991" >1991</option>
+									<option value="1990" >1990</option>
+									<option value="1989" >1989</option>
+									<option value="1988" >1988</option>
+									<option value="1987" >1987</option>
+									<option value="1986" >1986</option>
+									<option value="1985" >1985</option>
+									<option value="1984" >1984</option>
+									<option value="1983" >1983</option>
+									<option value="1982" >1982</option>
+									<option value="1981" >1981</option>
+									<option value="1980" >1980</option>
+									<option value="1979" >1979</option>
+									<option value="1978" >1978</option>
+									<option value="1977" >1977</option>
+									<option value="1976" >1976</option>
+									<option value="1975" >1975</option>
+									<option value="1974" >1974</option>
+									<option value="1973" >1973</option>
+									<option value="1972" >1972</option>
+									<option value="1971" >1971</option>
+									<option value="1970" >1970</option>
+									<option value="1969" >1969</option>
+									<option value="1968" >1968</option>
+									<option value="1967" >1967</option>
+									<option value="1966" >1966</option>
+									<option value="1965" >1965</option>
+									<option value="1964" >1964</option>
+									<option value="1963" >1963</option>
+									<option value="1962" >1962</option>
+									<option value="1961" >1961</option>
+									<option value="1960" >1960</option>
+									<option value="1959" >1959</option>
+									<option value="1958" >1958</option>
+									<option value="1957" >1957</option>
+									<option value="1956" >1956</option>
+									<option value="1955" >1955</option>
+									<option value="1954" >1954</option>
+									<option value="1953" >1953</option>
+									<option value="1952" >1952</option>
+									<option value="1951" >1951</option>
+									<option value="1950" >1950</option>
+									<option value="1949" >1949</option>
+									<option value="1948" >1948</option>
+									<option value="1947" >1947</option>
+									<option value="1946" >1946</option>
+									<option value="1945" >1945</option>
+									<option value="1944" >1944</option>
+									<option value="1943" >1943</option>
+									<option value="1942" >1942</option>
+									<option value="1941" >1941</option>
+									<option value="1940" >1940</option>
+									<option value="1939" >1939</option>
+									<option value="1938" >1938</option>
+									<option value="1937" >1937</option>
+									<option value="1936" >1936</option>
+									<option value="1935" >1935</option>
+									<option value="1934" >1934</option>
+									<option value="1933" >1933</option>
+									<option value="1932" >1932</option>
+									<option value="1931" >1931</option>
+									<option value="1930" >1930</option>
+									<option value="1929" >1929</option>
+									<option value="1928" >1928</option>
+									<option value="1927" >1927</option>
+									<option value="1926" >1926</option>
+									<option value="1925" >1925</option>
+									<option value="1924" >1924</option>
+									<option value="1923" >1923</option>
+									<option value="1922" >1922</option>
+								</select>
+							</div>
+						</div>
+											</div>
+				</div>
+
+				<button type="submit" name="create" class="btn btn-submit">
+					Create account					<i class="fas fa-arrow-right"></i>
+				</button>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
+</section>
+	</main>
+	<footer class="footer">
+		<!--<span>
+			<a href="" title="Back" class="resetlink fs--14 text--white back"><i class="fas fa-arrow-left"></i> Previous step</a>
+		</span>-->
+		<span class="poweredby text fs--14">
+			<a href="https://2021.fluufff.org/register/terms#privacy" target="_blank" class="resetlink text--white">Privacy</a>			| <a href="https://2021.fluufff.org/register/terms#terms" target="_blank" class="resetlink text--white">Terms and Conditions</a>			| Powered by Platy+</span>
+	</footer>
+	<script>
+
+		document.getElementsByClassName('current-lang')[0].addEventListener('click', function(){
+			if(!document.getElementsByClassName('language-popup')[0].classList.contains('language-popup--active')){
+				document.getElementsByClassName('language-popup')[0].classList.add('language-popup--active');
+			}else{
+				document.getElementsByClassName('language-popup')[0].classList.remove('language-popup--active');
+			}
+		});
+
+		function hamburgerToggle(hamburger) {
+			hamburger.classList.toggle("change");
+			document.getElementsByClassName('registration-header')[0].classList.toggle('mobile-nav-expanded');
+		}
+
+	</script>
+	<!-- <script src="https://2021.fluufff.org/assets/js/registration.js"></script> -->
+</body>
+</html>

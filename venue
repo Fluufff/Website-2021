@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>Venue | Grand Casino - Going all-in!</title>
+	<meta name="description" content="Spinning wheels, dices, slotmachines, are you ready to be the big player in a casino full of fur?! Join us in the 4th edition of the Belgian Furry Convention, a convention dedicated to anthropomorphic characters!" />
+	<meta property="og:title" content="Flüüfff 2021 | Grand Casino - Going all-in!" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="Spinning wheels, dices, slotmachines, are you ready to be the big player in a casino full of fur?! Join us in the 4th edition of the Belgian Furry Convention, a convention dedicated to anthropomorphic characters!" />
+	<meta property="og:url" content="https://2021.fluufff.org/venue" />
+	<meta property="og:site_name" content="Flüüfff 2021 | Grand Casino - Going all-in!" />
+	<meta property="og:image" content="https://2021.fluufff.org/website/assets/images/og/open-graph.png">
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Flüüfff 2021 | Grand Casino - Going all-in!" />
+	<meta name="twitter:description" content="Spinning wheels, dices, slotmachines, are you ready to be the big player in a casino full of fur?! Join us in the 4th edition of the Belgian Furry Convention, a convention dedicated to anthropomorphic characters!" />
+	<meta name="twitter:image" content="https://2021.fluufff.org/website/assets/images/og/open-graph.png" />
+	<meta itemprop="name" content="Flüüfff 2021 | Grand Casino - Going all-in!" />
+	<meta itemprop="description" content="Spinning wheels, dices, slotmachines, are you ready to be the big player in a casino full of fur?! Join us in the 4th edition of the Belgian Furry Convention, a convention dedicated to anthropomorphic characters!" />
+	<meta name="robots" content="index,follow,noodp,noydir" />
+	<meta http-equiv="Content-Language" content="en" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Expires" content="never" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+	<meta name="format-detection" content="telephone=no" />
+	<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://2021.fluufff.org/website/assets/css/app.css" type="text/css" media="all" />
+	<link rel="apple-touch-icon" sizes="180x180" href="https://2021.fluufff.org/website/assets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://2021.fluufff.org/website/assets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://2021.fluufff.org/website/assets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="https://2021.fluufff.org/website/assets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="https://2021.fluufff.org/website/assets/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
+	<link rel="shortcut icon" href="https://2021.fluufff.org/website/assets/images/favicons/favicon.ico">
+	<meta name="apple-mobile-web-app-title" content="Flüüfff 2021 | Grand Casino - Going all-in!">
+	<meta name="application-name" content="Flüüfff 2021 | Grand Casino - Going all-in!">
+	<meta name="msapplication-config" content="https://2021.fluufff.org/website/assets/images/favicons/browserconfig.xml">
+	<meta name="theme-color" content="#1d2435">
+</head>
+<body>
+		<header id="header" class="relative header bg--primary p-sides-1x p-ends-0.5x" itemscope itemtype="http://schema.org/WPHeader">
+		<meta itemprop="headline name" content="Flüüfff" />
+		<meta itemprop="description" content="Furry Convention Belgium" />
+		<div class="navbar flex flex-align-center flex-space-between">
+			<a href="https://2021.fluufff.org/" title="Back to homepage" class="resetlink header-logo">
+				<img src="https://2021.fluufff.org/website/assets/images/logos/full_logo_casino.png" alt="Logo Flüüfff">
+			</a>
+			<div class="nav-wrapper flex flex-align-center flex-end">
+				<nav class="nav" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+					<ul class="no-list-style flex flex-end flex-align-center">
+						<li class="nav__item p-sides-1x hide@3 tablet-ls:p-sides-0.75x ">
+							<a href="https://2021.fluufff.org/" title="Home" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+								Home							</a>
+						</li>
+						<li class="nav__item p-sides-1x hide@3 tablet-ls:p-sides-0.75x ">
+							<a href="https://2021.fluufff.org/covid-19" title="Covid-19" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+								Covid-19							</a>
+						</li>
+						<li class="nav__item p-sides-1x tablet-ls:p-sides-0.75x ">
+							<a href="https://2021.fluufff.org/about" title="About" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+								About							</a>
+						</li>
+						<li class="nav__item p-sides-1x tablet-ls:p-sides-0.75x nav__item--active">
+							<a href="https://2021.fluufff.org/venue" title="Venue" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+								Venue							</a>
+						</li>
+						<li class="nav__item p-sides-1x tablet-ls:p-sides-0.75x ">
+							<a href="https://2021.fluufff.org/activities" title="Activities" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+								Activities							</a>
+						</li>
+						<li class="nav__item p-sides-1x tablet-ls:p-sides-0.75x ">
+							<a href="https://2021.fluufff.org/contact" title="Contact" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+								Contact							</a>
+						</li>
+						<li class="nav__item p-sides-1x tablet-ls:p-sides-0.75x ">
+							<a href="https://2021.fluufff.org/tickets" title="Tickets" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+								Tickets							</a>
+						</li>
+													<li class="nav__item p-l-1x ">
+								<a href="https://2021.fluufff.org/profile/login?from=venue" title="Login" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+									Login								</a>
+							</li>
+							
+					</ul>
+				</nav>
+				<div class="sass-burger">
+					<span class="sass-burger__icon sass-burger__icon--"></span>
+				</div>
+			</div>
+		</div>
+	</header>
+<main class="venue">
+	<section class="venue-intro">
+		<div class="container">
+			<div class="row">
+				<div class="col-4 hide@3">
+					<div class="p-r-2x">
+						<div class="atmos-image" style="background-image: url('https://2021.fluufff.org/website/assets/images/venue/exterior.jpg')"></div>
+					</div>
+				</div>
+				<div class="col-6 col-10@3 col-12@2">
+					<h1 class="block fs--50 m-b-1x">
+						Bedford Hotel in Brussels					</h1>
+					<div class="m-b-2x">
+						<p class="p-spacing fs--18">
+							This year's hotel is the awesome <strong>Bedford Hotel in Brussels</strong>! <br/>						</p>
+						<p class="p-spacing fs--18">
+							It's a stone's throw away from the Brussels centre, the station, a ton of food places and the vibrant, glorious shiny nightlife. <br/>We're excited to welcome you, we're excited to have you! We're excited to be taken out to dinner when you lose your bets and have to pay us back and ... 						</p>
+						<p class="p-spacing fs--18 m-b-1.5x">
+							Oh, I got carried away. Welcome!						</p>
+						<div class="flex flex-wrap mobile:block">
+						<a href="#travels" title="Travel instructions" class="resetlink inline-block fs--18 bold color--white bg--primary hover-bg--darkprimary p-ends-0.5x p-sides-0.5x m-r-0.25x mobile:block ta--center m-b-0.5x">
+							Travel instructions						</a>
+						<a href="#restaurant" title="Restaurant" class="resetlink inline-block fs--18 bold color--white bg--primary hover-bg--darkprimary p-ends-0.5x p-sides-0.5x m-r-0.25x mobile:block ta--center m-b-0.5x">
+							Restaurant						</a>
+						<a href="#rooms" title="Rooms" class="resetlink inline-block fs--18 bold color--white bg--primary hover-bg--darkprimary p-ends-0.5x p-sides-0.5x m-r-0.25x mobile:block ta--center m-b-0.5x">
+							Rooms						</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="venue-travel" id="travels">
+		<div class="container">
+			<div class="row">
+				<div class="col-4 hide@3"></div>
+				<div class="col-6 col-12@3">
+					<div class="venue-travel__item p-b-4x">
+						<div class="travel-icon">
+							<i class="fas fa-plane"></i>
+							<span class="type fs--15 bold ta--center">
+								By plane							</span>
+						</div>
+						<div class="content p-t-2.5x">
+							<ul class="no-list-style list list--numbered">
+								<li class="list__item fs--18 lnh-150">
+									Go to the <strong>Brussels Airport-Zaventem station</strong>.								</li>
+								<li class="list__item fs--18 lnh-150">
+									Take the train from <strong>Brussels Airport-Zaventem</strong> to <strong>Brussels Central Station</strong>.									There's a train every 15 minutes.								</li>
+								<li class="list__item fs--18 lnh-150">
+									<strong>Walk 10 minutes</strong> (845 meters) from the station to <strong>Bedford Hotel & Congress Centre</strong>.								</li>
+							</ul>
+							<p class="fs--16 italic p-sides-2x">
+								All travel instructions and actual timetables for the trainsystem (depending on your location) can be found on the <a target="_blank" href="https://www.belgiantrain.be/en" title="Belgian Train" class="color--primary hover-color--black">Belgian Train website</a>.							</p>
+						</div>
+					</div>
+					<div class="venue-travel__item p-b-4x">
+						<div class="travel-icon">
+							<i class="fas fa-train"></i>
+							<span class="type fs--15 bold ta--center">
+								By train							</span>
+						</div>
+						<div class="content p-t-2.5x">
+							<ul class="no-list-style list list--numbered">
+								<li class="list__item fs--18 lnh-150">
+									Take the train to <strong>Brussels Central Station</strong>.								</li>
+								<li class="list__item fs--18 lnh-150">
+									<strong>Walk 10 minutes</strong> (845 meters) from the station to <strong>Bedford Hotel & Congress Centre</strong>.								</li>
+							</ul>
+							<p class="fs--16 italic p-sides-2x">
+								All travel instructions and actual timetables for the trainsystem (depending on your location) can be found on the <a target="_blank" href="https://www.belgiantrain.be/en" title="Belgian Train" class="color--primary hover-color--black">Belgian Train website</a>.							</p>
+						</div>
+					</div>
+					<div class="venue-travel__item p-b-4x">
+						<div class="travel-icon">
+							<i class="fas fa-car"></i>
+							<span class="type fs--15 bold ta--center">
+								By car							</span>
+						</div>
+						<div class="content p-t-2.5x">
+							<ul class="no-list-style list list--numbered">
+								<li class="list__item fs--18 lnh-150">
+									The hotel is located in the center of Brussels, which means you have to cross the <strong>LEZ</strong> (Low Emission Zone). This means that older cars, diesel and other very polluting cars can't enter the city. Registration is mandatory for all vehicles registered abroad (except for vehicles registered in the Netherlands). Not doing so can lead to big fines (350 euros). <br/>More info at <a target="_blank" href="https://lez.brussels/mytax/en/practical?tab=Controls" title="LEZ info" class="color--primary hover-color--black bold">lez.brussels</a>.								</li>
+								<li class="list__item fs--18 lnh-150">
+									The <strong>parking</strong> at the hotel is owned by the city. Normal price is €16, but Flüüfff attendees can go for <strong>€13 per day</strong>. <br/><strong>Ask for the reduction at the hotel reception!</strong> <br/>Parking spots are very tiny and the parking isn't that big!								</li>
+								<li class="list__item fs--18 lnh-150">
+									Hotel address:<br/><strong>Bedford Hotel & Congress Center</strong><br/><strong>Zuidstraat 135, 1000 Brussel <br/>									Rue du Midi 135, 1000 Bruxelles</strong>.<br/><br/>Adresse du parking: <br/><strong> Parking Panorama</strong><br/><strong>Van Helmontstraat 19, 1000 Brussel <br/>									Rue Van Helmont 19, 1000 Bruxelles</strong>								</li>
+							</ul>
+							<p class="fs--16 italic m-t-1x p-sides-2x">
+								Safe travels! Be sure to check out the driving rules of Belgium, they can be quite complicated! Good luck! <br/><br/>Urban speed limit for Belgium is 50kph. <br/>Rural speed limit for Flanders is 70kph. <br/>Rural speed limit for Wallonie is 90kph.							</p>
+						</div>
+					</div>
+					<div class="venue-travel__item p-b-4x">
+						<div class="travel-icon">
+							<i class="fas fa-map-marker-alt"></i>
+							<span class="type fs--15 bold ta--center">
+								Bedford Hotel							</span>
+						</div>
+						<div class="content p-t-2.5x">
+							<p class="p-sides-2x bold fs--18 lnh-150">
+								Welcome to the <a target="_blank" href="https://www.hotelbedford.be/en/" title="Bedford Hotel" class="resetlink color--primary hover-color--black">Bedford Hotel & Congress Centre</a>!							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section id="restaurant" class="venue-restaurant p-b-4x">
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-6 col-12@2 p-ends-2x">
+					<div class="p-r-2x tablet-p:p-r-0x">
+						<div class="atmos-image m-b-1x" style="background-image: url('https://2021.fluufff.org/website/assets/images/venue/restaurant.jpg')"></div>
+						<h2 class="fs--36 m-b-1x">
+							Restaurant Le Magellan						</h2>
+						<p class="p-spacing fs--18 lnh-150">
+							Dine in style and at its finest in the Magellan Restaurant. There is seating for 240 guests and the restaurant is divided into a buffet and "à la Carte" restaurant to serve a wide range of tastes and dietary needs. All ingredients are from suppliers in the surrounding area.						</p>
+						<p class="p-spacing fs--18 lnh-150">
+							The hotel's restaurant is a super shiny area, with good food for decent prices! It's definitely the dealer's table, the house always wins.						</p>
+						<p class="p-spacing fs--18 lnh-150">
+							You can find the menu <a target="_blank" href="https://www.hotelbedford.be/en/an-la-carte-restaurant-menu" title="Menu Bedford Hotel" class="color--primary hover-color--black">here</a>.						</p>
+					</div>
+				</div>
+				<div class="col-6 col-12@2 p-ends-2x">
+					<div class="p-l-2x tablet-p:p-l-0x">
+						<div class="atmos-image m-b-1x" style="background-image: url('https://2021.fluufff.org/website/assets/images/venue/brussels.jpg')"></div>
+					<h2 class="fs--36 m-b-1x">
+						Low budget					</h2>
+					<p class="p-spacing fs--18 lnh-150 m-b-1x">
+						There are many nice food places nearby, if you're out on a walk.					</p>
+					<ul class="no-list-style list list--bullet">
+						<li class="list__item fs--18">
+							There's two nice kebap places (one on each side of the road) within 5 minutes of walking out the hotel front door (go left!).						</li>
+						<li class="list__item fs--18">
+							There's a very advisable pastabar a little ahead, a good choice there is the spicy pasta with extra cheese!						</li>
+						<li class="list__item fs--18">
+							If the spicy pasta isn't Exotic enough for you, there's a Vietnamese corner on the .. end of the street if you keep walking left.						</li>
+						<li class="list__item fs--18">
+							And if you're a tasteless animal, you can go to a McDonalds. It's only a 10 minute walk.						</li>
+					</ul>
+				</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section id="rooms" class="venue-rooms bg--primary p-ends-4x">
+		<div class="container">
+			<div class="row">
+				<div class="col-12 ta--center">
+					<h2 class="fs--36 color--white p-b-2x">
+						The rooms					</h2>
+				</div>
+			</div>
+			<div class="row room-types">
+				<div class="col-4 col-12@2 room-types__item tablet-p:p-b-2x">
+					<div class="bg--white room-types__item__inner">
+						<div class="atmos-image" style="background-image: url('https://2021.fluufff.org/website/assets/images/venue/standard-room.jpg')"></div>
+						<div class="content p-ends-1.5x p-sides-1x">
+							<h3 class="fs--24 m-b-1x">
+								Standard rooms							</h3>
+							<p class="fs--16 lnh-150 m-b-0.5x">
+								All Standard rooms are stylish and offer a range of amenities. They are available as Single, Double or Twin for 1 or 2 people.							</p>
+							<ul class="no-list-style list list--bullet list--bullet--small">
+								<li class="list__item fs--14">
+									Comfortable beds with white soft duvets								</li>
+								<li class="list__item fs--14">
+									Air conditioning								</li>
+								<li class="list__item fs--14">
+									Bathtub with shower								</li>
+								<li class="list__item fs--14">
+									Hairdryer								</li>
+								<li class="list__item fs--14">
+									In-room safe								</li>
+								<li class="list__item fs--14">
+									Mini-fridge								</li>
+								<li class="list__item fs--14">
+									Same day dry cleaning and laundry (weekdays only)								</li>
+								<li class="list__item fs--14">
+									Free access to the fitness centre								</li>
+								<li class="list__item fs--14">
+									Free luggage storage								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="col-4 col-12@2 room-types__item tablet-p:p-b-2x">
+					<div class="bg--white room-types__item__inner">
+						<div class="atmos-image" style="background-image: url('https://2021.fluufff.org/website/assets/images/venue/business-room.jpg')"></div>
+						<div class="content p-ends-1.5x p-sides-1x">
+							<h3 class="fs--24 m-b-1x">
+								Business rooms							</h3>
+							<p class="fs--16 lnh-150 m-b-0.5x">
+								Business Rooms are available as Double or Twin for 1 or 2 people and offer guests additional benefits:							</p>
+							<ul class="no-list-style list list--bullet list--bullet--small">
+								<li class="list__item fs--14">
+									Seating area with leather armchairs or a sofa bed								</li>
+								<li class="list__item fs--14">
+									Extra living space								</li>
+								<li class="list__item fs--14">
+									Long wooden desk								</li>
+								<li class="list__item fs--14">
+									Everything mentioned in Standard Rooms								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="col-4 col-12@2 room-types__item tablet-p:p-b-2x">
+					<div class="bg--white room-types__item__inner">
+						<div class="atmos-image" style="background-image: url('https://2021.fluufff.org/website/assets/images/venue/executive-room.jpg')"></div>
+						<div class="content p-ends-1.5x p-sides-1x">
+							<h3 class="fs--24 m-b-1x">
+								Executive rooms							</h3>
+							<p class="fs--16 lnh-150 m-b-0.5x">
+								Recently refurbished to meet high standards these rooms are available as Double for 1 or 2 people.							</p>
+							<ul class="no-list-style list list--bullet list--bullet--small">
+								<li class="list__item fs--14">
+									Free WIFI connection in the room								</li>
+								<li class="list__item fs--14">
+									35 square metres								</li>
+								<li class="list__item fs--14">
+									Spacious seating area with comfortable seats								</li>
+								<li class="list__item fs--14">
+									Everything mentioned in the Standard Rooms								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="slider-section">
+		<div class="glide">
+			<div class="glide__track" data-glide-el="track">
+				<ul class="glide__slides">
+					<li class="glide__slide">
+						<div style="background-image: url('https://2021.fluufff.org/website/assets/images/venue/hotel/3.jpg');"></div>
+					</li>
+					<li class="glide__slide">
+						<div style="background-image: url('https://2021.fluufff.org/website/assets/images/venue/hotel/2.jpg');"></div>
+					</li>
+					<li class="glide__slide">
+						<div style="background-image: url('https://2021.fluufff.org/website/assets/images/venue/hotel/1.jpg');"></div>
+					</li>
+					<li class="glide__slide">
+						<div style="background-image: url('https://2021.fluufff.org/website/assets/images/venue/hotel/4.jpg');"></div>
+					</li>
+				</ul>
+				<div class="glide__bullets" data-glide-el="controls[nav]">
+					<button class="glide__bullet" data-glide-dir="=0"></button>
+					<button class="glide__bullet" data-glide-dir="=1"></button>
+					<button class="glide__bullet" data-glide-dir="=2"></button>
+					<button class="glide__bullet" data-glide-dir="=3"></button>
+				</div>
+				<div class="glide__arrows" data-glide-el="controls">
+					<button class="glide__arrow glide__arrow--left" data-glide-dir="<"><i class="fas fa-angle-left"></i></button>
+					<button class="glide__arrow glide__arrow--right" data-glide-dir=">"><i class="fas fa-angle-right"></i></button>
+				</div>
+			</div>
+		</div>
+	</section>
+</main>
+<!--  -->
+		<footer class="footer bg--primary color--white ta--center">
+			<div class="container">
+				<div class="row p-b-2x">
+					<div class="col-4 col-12@3 footer-part">
+						<span class="block fs--24 vag bold tt--uc m-b-1x">
+							Opening						</span>
+						<span class="block fs--16 m-b-0.25x p-t-0.5x">
+							<strong>10th</strong> to the <strong>14th</strong> of November 2021						</span>
+					</div>
+					<div class="col-4 col-12@3 footer-part">
+						<span class="block fs--24 vag bold tt--uc m-b-1x">
+							Follow us						</span>
+						<div class="flex flex-justify-center flex-wrap socials p-b-0.5x">
+							<a target="_blank" href="https://twitter.com/FluufffCon" class="resetlink color--primary bg--white hover-bg--darkprimary hover-color--white fs--24 socials__item" title="Twitter">
+								<i class="fab fa-twitter"></i>
+							</a>
+							<a target="_blank" href="http://www.furaffinity.net/user/fluufff/" class="resetlink color--primary bg--white hover-bg--darkprimary hover-color--white fs--24 socials__item" title="Furaffinity">
+								<i class="fas fa-paw"></i>
+							</a>
+							<a target="_blank" href="https://www.facebook.com/fluufff/" class="resetlink color--primary bg--white hover-bg--darkprimary hover-color--white fs--24 socials__item" title="Facebook">
+								<i class="fab fa-facebook-f"></i>
+							</a>
+							<a target="_blank" href="https://beta.furrynetwork.com/fluufff/" class="resetlink color--primary bg--white hover-bg--darkprimary hover-color--white fs--24 socials__item" title="Furry Network">
+								<i class="fas fa-paw"></i>
+							</a>
+							<a target="_blank" href="https://t.me/fluufff_announcements" class="resetlink color--primary bg--white hover-bg--darkprimary hover-color--white fs--24 socials__item" title="Telegram">
+								<i class="fab fa-telegram-plane"></i>
+							</a>
+						</div>
+					</div>
+					<div class="col-4 col-12@3 footer-part">
+						<span class="block fs--24 vag bold tt--uc m-b-1x">
+							Contact us						</span>
+						<a href="https://2021.fluufff.org/contact" class="resetlink inline-block fs--16 lnh-150 m-t-0.5x color--white" title="Contact us">
+							Via the <span class="td--underline">contact form</span>						</a>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-12">
+						<span class="fs--12 color--white">
+							&copy;2024 - Flüüfff ABSL - All rights reserved. | <a href="https://2021.fluufff.org/terms#privacy" target="_blank" class="resetlink">Privacy</a>					| <a href="https://2021.fluufff.org/terms#terms" target="_blank" class="resetlink">Terms and Conditions</a>						</span>
+					</div>
+				</div>
+			</div>
+		</footer>
+					<div class="cookie-bar p-sides-0.5x p-ends-0.25x bg--white color--black flex flex-space-between flex-align-center tablet-ls:block">
+				<span>This site uses essential cookies, you can learn <a href="https://2021.fluufff.org/terms#privacy" target="_blank" class="color--primary">more about the cookies</a> used in our Privacy policies.</span>
+				<a href="https://2021.fluufff.org/venue?cookiesAccepted=true" class="resetlink cookielink inline-block fs--16 bold bg--primary color--white hover-bg--black p-ends-0.25x p-sides-0.5x  tablet-ls:block ta--center tablet-ls:m-t-0.5x">I understand</a>
+			</div>
+				<script src="https://2021.fluufff.org/website/assets/js/app.bundle.js"></script>
+			</body>
+	</html>

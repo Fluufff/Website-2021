@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8" />
+	<title>Stats —  Flüüfff 2020 | Grand Casino - Going all-in!</title>
+	<meta name="keywords" content="">
+	<meta name="author" content="Flüüfff">
+	<meta name="description" content="Welcome to Flüüfff's registration, a furry convention in Brussels, Belgium." />
+	<meta property="og:title" content="Stats" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="Welcome to Flüüfff's registration, a furry convention in Brussels, Belgium." />
+	<meta property="og:site_name" content="Stats" />
+	<meta property="og:image" content="https://2021.fluufff.org/assets/style/registration/img/og/open-graph.jpg">
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Stats" />
+	<meta name="twitter:description" content="Welcome to Flüüfff's registration, a furry convention in Brussels, Belgium." />
+	<meta name="twitter:image" content="https://2021.fluufff.org/assets/style/registration/img/og/open-graph.jpg" />
+	<meta itemprop="name" content="Stats" />
+	<meta itemprop="description" content="Welcome to Flüüfff's registration, a furry convention in Brussels, Belgium." />
+	<meta name="robots" content="index,follow,noodp,noydir" />
+	<meta http-equiv="Content-Language" content="en-GB" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Expires" content="never" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+	<meta name="format-detection" content="telephone=no" />
+	<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+	<link rel="apple-touch-icon" sizes="180x180" href="https://2021.fluufff.org/assets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://2021.fluufff.org/assets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://2021.fluufff.org/assets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="https://2021.fluufff.org/assets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="https://2021.fluufff.org/assets/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
+	<link rel="shortcut icon" href="https://2021.fluufff.org/assets/images/favicons/favicon.ico">
+	<meta name="apple-mobile-web-app-title" content="Stats">
+	<meta name="application-name" content="Stats">
+	<meta name="msapplication-config" content="https://2021.fluufff.org/assets/images/favicons/browserconfig.xml">
+	<meta name="theme-color" content="#1d2435">
+
+	<link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
+
+	<link rel="stylesheet" type="text/css" href="https://2021.fluufff.org/assets/style/registration/reset.css">
+	<link rel="stylesheet" type="text/css" href="https://2021.fluufff.org/assets/style/registration/registration.css">
+	<link rel="stylesheet" type="text/css" href="https://2021.fluufff.org/website/assets/css/platyplus.css" />
+
+		<style>
+			svg{
+				max-width: 100%;
+				height: auto;
+			}
+
+#room_201,#room_202,#room_203,#room_204,#room_205,#room_206,#room_207,#room_208,#room_209,#room_210,#room_211,#room_212,#room_213,#room_214,#room_215{fill: red;}
+		</style>
+</head>
+<body>
+	<header class="registration-header">
+		<h1 class="registration-header__logo fs--22">
+			<a href="https://2021.fluufff.org/" class="resetlink text--white">Flüüfff</a> Registration		</h1>
+		<div class="nav">
+							<a href="https://fluufff.org" title="Website" class="resetlink otherlink text--white nav-item regular">
+					Website				</a>
+						<a href="https://2021.fluufff.org/profile/events" title="Schedule" class="resetlink otherlink text--white nav-item regular">
+				Schedule			</a>
+			<a href="https://2021.fluufff.org/attendees/stats" title="Stats" class="resetlink otherlink text--white nav-item regular">
+				Stats			</a>
+			<a href="https://2021.fluufff.org/attendees" title="Attendees" class="resetlink otherlink text--white nav-item regular">
+				Attendees			</a>
+			<a href="https://2021.fluufff.org/profile/login?from=register" title="Log in" class="resetlink otherlink text--white nav-item regular">
+				Login			</a>
+
+		</div>
+
+		<div class="hamburger" onclick="hamburgerToggle(this)">
+			<div class="bar1"></div>
+			<div class="bar2"></div>
+			<div class="bar3"></div>
+		</div>
+
+	</header>
+	<main class="registration-screen">
+<section class="registration-screen">
+	<div class="window__header">
+		<h1 class="title title--white fs--30">Stats</h1>
+		<p class="text text--white fs--18">
+		</p>
+	</div>
+	<div class="window window--dyn-info">
+		<div class="light-box content-box">
+			<div class="form padding-box">
+				<!--<h2 id="attendees">General</h2>-->
+				<table class="table table--autowidth table-bordered">
+					<thead>
+						<tr>
+							<th class="table-desc" colspan="2">Attendees</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td class="table-desc">Accounts</td>
+							<td>593</td>
+						</tr>
+						<tr>
+							<td class="table-desc">Confirmed attendees</td>
+							<td>325</td>
+						</tr>
+						<tr>
+							<td class="table-desc">Confirmed fursuiters</td>
+							<td>179</td>
+						</tr>
+					</tbody>
+				</table>
+				<table class="table table--autowidth table-bordered">
+					<thead>
+						<tr>
+							<th class="table-desc">
+								Countries (confirmed)							</th>
+							<th>
+							</th>
+						</tr>
+					</thead>
+					<tbody>
+								<tr>
+									<td class="table-desc">
+										<div class="table-desc--flex">
+											<img src="https://2021.fluufff.org/assets/images/flags-mini/be.png" height="20" width="30" alt="">
+											<span>Belgium</span>
+										</div>
+									</td>
+									<td>154</td>
+								</tr>
+																<tr>
+									<td class="table-desc">
+										<div class="table-desc--flex">
+											<img src="https://2021.fluufff.org/assets/images/flags-mini/nl.png" height="20" width="30" alt="">
+											<span>Netherlands</span>
+										</div>
+									</td>
+									<td>61</td>
+								</tr>
+																<tr>
+									<td class="table-desc">
+										<div class="table-desc--flex">
+											<img src="https://2021.fluufff.org/assets/images/flags-mini/de.png" height="20" width="30" alt="">
+											<span>Germany</span>
+										</div>
+									</td>
+									<td>27</td>
+								</tr>
+																<tr>
+									<td class="table-desc">
+										<div class="table-desc--flex">
+											<img src="https://2021.fluufff.org/assets/images/flags-mini/fr.png" height="20" width="30" alt="">
+											<span>France</span>
+										</div>
+									</td>
+									<td>24</td>
+								</tr>
+																<tr>
+									<td class="table-desc">
+										<div class="table-desc--flex">
+											<img src="https://2021.fluufff.org/assets/images/flags-mini/fi.png" height="20" width="30" alt="">
+											<span>Finland</span>
+										</div>
+									</td>
+									<td>6</td>
+								</tr>
+																<tr>
+									<td class="table-desc">
+										<div class="table-desc--flex">
+											<img src="https://2021.fluufff.org/assets/images/flags-mini/gb.png" height="20" width="30" alt="">
+											<span>United Kingdom</span>
+										</div>
+									</td>
+									<td>6</td>
+								</tr>
+																<tr>
+									<td class="table-desc">
+										<div class="table-desc--flex">
+											<img src="https://2021.fluufff.org/assets/images/flags-mini/ch.png" height="20" width="30" alt="">
+											<span>Switzerland</span>
+										</div>
+									</td>
+									<td>4</td>
+								</tr>
+																<tr>
+									<td class="table-desc">
+										<div class="table-desc--flex">
+											<img src="https://2021.fluufff.org/assets/images/flags-mini/us.png" height="20" width="30" alt="">
+											<span>United States</span>
+										</div>
+									</td>
+									<td>4</td>
+								</tr>
+																<tr>
+									<td class="table-desc">
+										<div class="table-desc--flex">
+											<img src="https://2021.fluufff.org/assets/images/flags-mini/dk.png" height="20" width="30" alt="">
+											<span>Denmark</span>
+										</div>
+									</td>
+									<td>3</td>
+								</tr>
+																<tr>
+									<td class="table-desc">
+										<div class="table-desc--flex">
+											<img src="https://2021.fluufff.org/assets/images/flags-mini/at.png" height="20" width="30" alt="">
+											<span>Austria</span>
+										</div>
+									</td>
+									<td>2</td>
+								</tr>
+																<tr>
+									<td class="table-desc">
+										<div class="table-desc--flex">
+											<img src="https://2021.fluufff.org/assets/images/flags-mini/hu.png" height="20" width="30" alt="">
+											<span>Hungary</span>
+										</div>
+									</td>
+									<td>2</td>
+								</tr>
+																<tr>
+									<td class="table-desc">
+										<div class="table-desc--flex">
+											<span>Unknown</span>
+										</div>
+									</td>
+									<td>2</td>
+								</tr>
+																<tr>
+									<td class="table-desc">
+										<div class="table-desc--flex">
+											<img src="https://2021.fluufff.org/assets/images/flags-mini/si.png" height="20" width="30" alt="">
+											<span>Slovenia</span>
+										</div>
+									</td>
+									<td>2</td>
+								</tr>
+																<tr>
+									<td class="table-desc">
+										<div class="table-desc--flex">
+											<img src="https://2021.fluufff.org/assets/images/flags-mini/pl.png" height="20" width="30" alt="">
+											<span>Poland</span>
+										</div>
+									</td>
+									<td>2</td>
+								</tr>
+																<tr>
+									<td class="table-desc">
+										<div class="table-desc--flex">
+											<img src="https://2021.fluufff.org/assets/images/flags-mini/lu.png" height="20" width="30" alt="">
+											<span>Luxembourg</span>
+										</div>
+									</td>
+									<td>2</td>
+								</tr>
+																<tr>
+									<td class="table-desc">
+										<div class="table-desc--flex">
+											<img src="https://2021.fluufff.org/assets/images/flags-mini/it.png" height="20" width="30" alt="">
+											<span>Italy</span>
+										</div>
+									</td>
+									<td>1</td>
+								</tr>
+																<tr>
+									<td class="table-desc">
+										<div class="table-desc--flex">
+											<img src="https://2021.fluufff.org/assets/images/flags-mini/lv.png" height="20" width="30" alt="">
+											<span>Latvia</span>
+										</div>
+									</td>
+									<td>1</td>
+								</tr>
+																<tr>
+									<td class="table-desc">
+										<div class="table-desc--flex">
+											<img src="https://2021.fluufff.org/assets/images/flags-mini/ro.png" height="20" width="30" alt="">
+											<span>Romania</span>
+										</div>
+									</td>
+									<td>1</td>
+								</tr>
+																<tr>
+									<td class="table-desc">
+										<div class="table-desc--flex">
+											<img src="https://2021.fluufff.org/assets/images/flags-mini/hr.png" height="20" width="30" alt="">
+											<span>Croatia</span>
+										</div>
+									</td>
+									<td>1</td>
+								</tr>
+																<tr>
+									<td class="table-desc">
+										<div class="table-desc--flex">
+											<img src="https://2021.fluufff.org/assets/images/flags-mini/es.png" height="20" width="30" alt="">
+											<span>Spain</span>
+										</div>
+									</td>
+									<td>1</td>
+								</tr>
+																<tr>
+									<td class="table-desc">
+										<div class="table-desc--flex">
+											<img src="https://2021.fluufff.org/assets/images/flags-mini/ie.png" height="20" width="30" alt="">
+											<span>Ireland</span>
+										</div>
+									</td>
+									<td>1</td>
+								</tr>
+																<tr>
+									<td class="table-desc">
+										<div class="table-desc--flex">
+											<img src="https://2021.fluufff.org/assets/images/flags-mini/se.png" height="20" width="30" alt="">
+											<span>Sweden</span>
+										</div>
+									</td>
+									<td>1</td>
+								</tr>
+																<tr>
+									<td class="table-desc">
+										<div class="table-desc--flex">
+											<img src="https://2021.fluufff.org/assets/images/flags-mini/cz.png" height="20" width="30" alt="">
+											<span>Czech Republic</span>
+										</div>
+									</td>
+									<td>1</td>
+								</tr>
+																<tr>
+									<td class="table-desc">
+										<div class="table-desc--flex">
+											<img src="https://2021.fluufff.org/assets/images/flags-mini/ca.png" height="20" width="30" alt="">
+											<span>Canada</span>
+										</div>
+									</td>
+									<td>1</td>
+								</tr>
+																<tr>
+									<td class="table-desc">
+										<div class="table-desc--flex">
+											<img src="https://2021.fluufff.org/assets/images/flags-mini/th.png" height="20" width="30" alt="">
+											<span>Thailand</span>
+										</div>
+									</td>
+									<td>1</td>
+								</tr>
+																<tr>
+									<td class="table-desc">
+										<div class="table-desc--flex">
+											<img src="https://2021.fluufff.org/assets/images/flags-mini/pt.png" height="20" width="30" alt="">
+											<span>Portugal</span>
+										</div>
+									</td>
+									<td>1</td>
+								</tr>
+																<tr>
+									<td class="table-desc">
+										<div class="table-desc--flex">
+											<img src="https://2021.fluufff.org/assets/images/flags-mini/by.png" height="20" width="30" alt="">
+											<span>Belarus</span>
+										</div>
+									</td>
+									<td>1</td>
+								</tr>
+													</tbody>
+				</table>
+			</div>
+		</div>
+	</div>
+	<div class="window window--dyn-info">
+		<div class="light-box content-box">
+			<div class="form padding-box">
+				<h2 id="hotel">Hotel Occupation</h2>
+				This is a real time update of the rooms occupation<br/>
+				<table class="table table--autowidth table-bordered">
+					<thead>
+						<tr>
+							<th class="table-desc">Room category</th>
+							<th>Number of spots</th>
+							<th>Spots left</th>
+						</tr>
+					</thead>
+					<tbody>
+														<tr>
+									<td class="table-desc">
+										<a href="https://2021.fluufff.org/attendees/stats?category=30#hotel" title="Standard Double BedroomOnly display " >Standard Double Bedroom</a>
+									</td>
+									<td>86</td>
+									<td>0</td>
+								</tr>
+																<tr>
+									<td class="table-desc">
+										<a href="https://2021.fluufff.org/attendees/stats?category=35#hotel" title="Standard Twin BedroomOnly display " >Standard Twin Bedroom</a>
+									</td>
+									<td>80</td>
+									<td>0</td>
+								</tr>
+																<tr>
+									<td class="table-desc">
+										<a href="https://2021.fluufff.org/attendees/stats?category=40#hotel" title="Business Double BedroomOnly display " >Business Double Bedroom</a>
+									</td>
+									<td>18</td>
+									<td>0</td>
+								</tr>
+																<tr>
+									<td class="table-desc">
+										<a href="https://2021.fluufff.org/attendees/stats?category=45#hotel" title="Executive bedroomOnly display " >Executive bedroom</a>
+									</td>
+									<td>30</td>
+									<td>0</td>
+								</tr>
+																<tr>
+									<td class="table-desc">
+										<a href="https://2021.fluufff.org/attendees/stats?category=50#hotel" title="Solo - Standard BedroomOnly display " >Solo - Standard Bedroom</a>
+									</td>
+									<td>2</td>
+									<td>0</td>
+								</tr>
+																<tr>
+									<td class="table-desc">
+										<a href="https://2021.fluufff.org/attendees/stats?category=55#hotel" title="Solo - Business BedroomOnly display " >Solo - Business Bedroom</a>
+									</td>
+									<td>2</td>
+									<td>0</td>
+								</tr>
+																<tr>
+									<td class="table-desc">
+										<a href="https://2021.fluufff.org/attendees/stats?category=60#hotel" title="Business Twin BedroomOnly display " >Business Twin Bedroom</a>
+									</td>
+									<td>48</td>
+									<td>0</td>
+								</tr>
+													</tbody>
+				</table>
+							</div>
+		</div>
+	</div>
+</section>
+	</main>
+		<footer class="footer">
+		<!--<span>
+			<a href="" title="Back" class="resetlink fs--14 text--white back"><i class="fas fa-arrow-left"></i> Previous step</a>
+		</span>-->
+		<span class="poweredby text fs--14">
+			<a href="https://fluufff.org" class="resetlink text--white">Website</a>			| <a href="https://2021.fluufff.org/register/terms#privacy" target="_blank" class="resetlink text--white">Privacy</a>			| <a href="https://2021.fluufff.org/register/terms#terms" target="_blank" class="resetlink text--white">Terms and Conditions</a>			| <a href="https://2021.fluufff.org/profile/contact" class="resetlink text--white">Contact us</a>		| Powered by Platy+</span>
+	</footer>
+	<script>
+
+		document.getElementsByClassName('current-lang')[0].addEventListener('click', function(){
+			if(!document.getElementsByClassName('language-popup')[0].classList.contains('language-popup--active')){
+				document.getElementsByClassName('language-popup')[0].classList.add('language-popup--active');
+			}else{
+				document.getElementsByClassName('language-popup')[0].classList.remove('language-popup--active');
+			}
+		});
+
+		function hamburgerToggle(hamburger) {
+			hamburger.classList.toggle("change");
+			document.getElementsByClassName('registration-header')[0].classList.toggle('mobile-nav-expanded');
+		}
+
+	</script>
+	<!-- <script src="https://2021.fluufff.org/assets/js/registration.js"></script> -->
+</body>
+</html>

@@ -1,0 +1,3203 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8" />
+	<title>Profile  — Schedule —  Flüüfff 2020 | Grand Casino - Going all-in!</title>
+	<meta name="keywords" content="">
+	<meta name="author" content="Flüüfff">
+	<meta name="description" content="Welcome to Flüüfff's registration, a furry convention in Brussels, Belgium." />
+	<meta property="og:title" content="Profile  — Schedule" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="Welcome to Flüüfff's registration, a furry convention in Brussels, Belgium." />
+	<meta property="og:site_name" content="Profile  — Schedule" />
+	<meta property="og:image" content="https://2021.fluufff.org/assets/style/registration/img/og/open-graph.jpg">
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Profile  — Schedule" />
+	<meta name="twitter:description" content="Welcome to Flüüfff's registration, a furry convention in Brussels, Belgium." />
+	<meta name="twitter:image" content="https://2021.fluufff.org/assets/style/registration/img/og/open-graph.jpg" />
+	<meta itemprop="name" content="Profile  — Schedule" />
+	<meta itemprop="description" content="Welcome to Flüüfff's registration, a furry convention in Brussels, Belgium." />
+	<meta name="robots" content="index,follow,noodp,noydir" />
+	<meta http-equiv="Content-Language" content="en-GB" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Expires" content="never" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+	<meta name="format-detection" content="telephone=no" />
+	<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+	<link rel="apple-touch-icon" sizes="180x180" href="https://2021.fluufff.org/assets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://2021.fluufff.org/assets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://2021.fluufff.org/assets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="https://2021.fluufff.org/assets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="https://2021.fluufff.org/assets/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
+	<link rel="shortcut icon" href="https://2021.fluufff.org/assets/images/favicons/favicon.ico">
+	<meta name="apple-mobile-web-app-title" content="Profile  — Schedule">
+	<meta name="application-name" content="Profile  — Schedule">
+	<meta name="msapplication-config" content="https://2021.fluufff.org/assets/images/favicons/browserconfig.xml">
+	<meta name="theme-color" content="#1d2435">
+
+	<link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
+
+	<link rel="stylesheet" type="text/css" href="https://2021.fluufff.org/assets/style/registration/reset.css">
+	<link rel="stylesheet" type="text/css" href="https://2021.fluufff.org/assets/style/registration/registration.css">
+	<link rel="stylesheet" type="text/css" href="https://2021.fluufff.org/website/assets/css/platyplus.css" />
+
+</head>
+<body>
+	<header class="registration-header">
+		<h1 class="registration-header__logo fs--22">
+			<a href="https://2021.fluufff.org/" class="resetlink text--white">Flüüfff</a> Registration		</h1>
+		<div class="nav">
+							<a href="https://fluufff.org" title="Website" class="resetlink otherlink text--white nav-item regular">
+					Website				</a>
+						<a href="https://2021.fluufff.org/profile/events" title="Schedule" class="resetlink otherlink text--white nav-item regular">
+				Schedule			</a>
+			<a href="https://2021.fluufff.org/attendees/stats" title="Stats" class="resetlink otherlink text--white nav-item regular">
+				Stats			</a>
+			<a href="https://2021.fluufff.org/attendees" title="Attendees" class="resetlink otherlink text--white nav-item regular">
+				Attendees			</a>
+			<a href="https://2021.fluufff.org/profile/login?from=register" title="Log in" class="resetlink otherlink text--white nav-item regular">
+				Login			</a>
+
+		</div>
+
+		<div class="hamburger" onclick="hamburgerToggle(this)">
+			<div class="bar1"></div>
+			<div class="bar2"></div>
+			<div class="bar3"></div>
+		</div>
+
+	</header>
+	<main class="registration-screen">
+<section class="registration-screen">
+	<div class="window__header">
+		<h1 class="title title--white fs--30">
+			Profile  — Schedule		</h1>
+	</div>
+	<div class="window window--dyn-info window--profile">
+		<div class="light-box content-box">
+			<h2 class="title box-title">Schedule</h2>
+			<div class="form padding-box">
+				<div class="events__table">
+<h3 >November 9</h3>
+</div><div class="table-responsive"><table class="eventTable">
+<thead>
+<tr>
+<th>Time</th>
+<th >Bar</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td id="eventTime:1636486200"><span>19:30</span></td>
+<td rowspan="30" colspan="1" class="IsEvent" id="eventId:1">
+<a href="https://2021.fluufff.org/profile/events#description:17">Bar</a><br>
+19:30 - 3:00<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/1?from=profile/events&amp;for=1636486200" title="Attend" class="empty_star">☆</a></span></td>
+</tr>
+<tr>
+<td id="eventTime:1636487100"><span>19:45</span></td>
+</tr>
+<tr>
+<td id="eventTime:1636488000"><span>20:00</span></td>
+</tr>
+<tr>
+<td id="eventTime:1636488900"><span>20:15</span></td>
+</tr>
+<tr>
+<td id="eventTime:1636489800"><span>20:30</span></td>
+</tr>
+<tr>
+<td id="eventTime:1636490700"><span>20:45</span></td>
+</tr>
+<tr>
+<td id="eventTime:1636491600"><span>21:00</span></td>
+</tr>
+<tr>
+<td id="eventTime:1636492500"><span>21:15</span></td>
+</tr>
+<tr>
+<td id="eventTime:1636493400"><span>21:30</span></td>
+</tr>
+<tr>
+<td id="eventTime:1636494300"><span>21:45</span></td>
+</tr>
+<tr>
+<td id="eventTime:1636495200"><span>22:00</span></td>
+</tr>
+<tr>
+<td id="eventTime:1636496100"><span>22:15</span></td>
+</tr>
+<tr>
+<td id="eventTime:1636497000"><span>22:30</span></td>
+</tr>
+<tr>
+<td id="eventTime:1636497900"><span>22:45</span></td>
+</tr>
+<tr>
+<td id="eventTime:1636498800"><span>23:00</span></td>
+</tr>
+<tr>
+<td id="eventTime:1636499700"><span>23:15</span></td>
+</tr>
+<tr>
+<td id="eventTime:1636500600"><span>23:30</span></td>
+</tr>
+<tr>
+<td id="eventTime:1636501500"><span>23:45</span></td>
+</tr>
+<tr>
+<td id="eventTime:1636502400"><span>0:00</span></td>
+</tr>
+<tr>
+<td id="eventTime:1636503300"><span>0:15</span></td>
+</tr>
+<tr>
+<td id="eventTime:1636504200"><span>0:30</span></td>
+</tr>
+<tr>
+<td id="eventTime:1636505100"><span>0:45</span></td>
+</tr>
+<tr>
+<td id="eventTime:1636506000"><span>1:00</span></td>
+</tr>
+<tr>
+<td id="eventTime:1636506900"><span>1:15</span></td>
+</tr>
+<tr>
+<td id="eventTime:1636507800"><span>1:30</span></td>
+</tr>
+<tr>
+<td id="eventTime:1636508700"><span>1:45</span></td>
+</tr>
+<tr>
+<td id="eventTime:1636509600"><span>2:00</span></td>
+</tr>
+<tr>
+<td id="eventTime:1636510500"><span>2:15</span></td>
+</tr>
+<tr>
+<td id="eventTime:1636511400"><span>2:30</span></td>
+</tr>
+<tr>
+<td id="eventTime:1636512300"><span>2:45</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+					 <div><h3 >November 10</h3>
+</div><div class="table-responsive"><table class="eventTable">
+<thead>
+<tr>
+<th>Time</th>
+<th >Mainstage</th>
+<th >Fursuit Lounge</th>
+<th >Mainstage Mezanine</th>
+<th >Bar</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td id="eventTime:1636545600"><span>12:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="20" colspan="1" class="IsEvent" id="eventId:7">
+<a href="https://2021.fluufff.org/profile/events#description:17">Bar</a><br>
+12:00 - 17:00<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/7?from=profile/events&amp;for=1636545600" title="Attend" class="empty_star">☆</a></span></td>
+</tr>
+<tr>
+<td id="eventTime:1636546500"><span>12:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636547400"><span>12:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636548300"><span>12:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636549200"><span>13:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="52" colspan="1" class="IsEvent" id="eventId:5">
+<a href="https://2021.fluufff.org/profile/events#description:33">Fursuit Lounge</a><br>
+13:00 - 2:00<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/5?from=profile/events&amp;for=1636549200" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636550100"><span>13:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636551000"><span>13:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636551900"><span>13:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636552800"><span>14:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636553700"><span>14:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636554600"><span>14:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636555500"><span>14:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636556400"><span>15:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636557300"><span>15:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636558200"><span>15:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636559100"><span>15:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636560000"><span>16:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636560900"><span>16:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636561800"><span>16:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636562700"><span>16:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636563600"><span>17:00</span></td>
+<td rowspan="4" colspan="1" class="IsEvent" id="eventId:2">
+<a href="https://2021.fluufff.org/profile/events#description:1">Opening Ceremony</a><br>
+17:00 - 18:00<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/2?from=profile/events&amp;for=1636563600" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636564500"><span>17:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636565400"><span>17:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636566300"><span>17:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636567200"><span>18:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636568100"><span>18:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636569000"><span>18:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636569900"><span>18:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636570800"><span>19:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636571700"><span>19:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636572600"><span>19:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="24" colspan="1" class="IsEvent" id="eventId:8">
+<a href="https://2021.fluufff.org/profile/events#description:17">Bar</a><br>
+19:30 - 1:30<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/8?from=profile/events&amp;for=1636572600" title="Attend" class="empty_star">☆</a></span></td>
+</tr>
+<tr>
+<td id="eventTime:1636573500"><span>19:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636574400"><span>20:00</span></td>
+<td rowspan="4" colspan="1" class="IsEvent" id="eventId:3">
+<a href="https://2021.fluufff.org/profile/events#description:2">My First Furcon</a><br>
+20:00 - 21:00<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/3?from=profile/events&amp;for=1636574400" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636575300"><span>20:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636576200"><span>20:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636577100"><span>20:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636578000"><span>21:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636578900"><span>21:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636579800"><span>21:30</span></td>
+<td rowspan="6" colspan="1" class="IsEvent" id="eventId:4">
+<a href="https://2021.fluufff.org/profile/events#description:3">Cheese and Wine</a><br>
+21:30 - 23:00<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/4?from=profile/events&amp;for=1636579800" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636580700"><span>21:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636581600"><span>22:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636582500"><span>22:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636583400"><span>22:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636584300"><span>22:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636585200"><span>23:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636586100"><span>23:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636587000"><span>23:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="8" colspan="1" class="IsEvent" id="eventId:6">
+<a href="https://2021.fluufff.org/profile/events#description:5">Return the Crown</a><br>
+23:30 - 1:30<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/6?from=profile/events&amp;for=1636587000" title="Attend" class="empty_star">☆</a></span></td>
+</tr>
+<tr>
+<td id="eventTime:1636587900"><span>23:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636588800"><span>0:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636589700"><span>0:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636590600"><span>0:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636591500"><span>0:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636592400"><span>1:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636593300"><span>1:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636594200"><span>1:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636595100"><span>1:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+					 <div><h3 >November 11</h3>
+</div><div class="table-responsive"><table class="eventTable">
+<thead>
+<tr>
+<th>Time</th>
+<th >Mainstage</th>
+<th >Panel Room</th>
+<th >Dealers' Den</th>
+<th >Fursuit Lounge</th>
+<th >Mainstage Mezanine</th>
+<th >Bar</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td id="eventTime:1636623000"><span>9:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="10" colspan="1" class="IsEvent" id="eventId:20">
+<a href="https://2021.fluufff.org/profile/events#description:16">Photoshoot</a><br>
+9:30 - 12:00<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/20?from=profile/events&amp;for=1636623000" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636623900"><span>9:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636624800"><span>10:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="12" colspan="1" class="IsEvent" id="eventId:13">
+<a href="https://2021.fluufff.org/profile/events#description:10">Brew It Yourself - A panel about homemade beer</a><br>
+10:00 - 13:00<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/13?from=profile/events&amp;for=1636624800" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636625700"><span>10:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636626600"><span>10:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="8" colspan="1" class="IsEvent" id="eventId:18">
+<a href="https://2021.fluufff.org/profile/events#description:15">Dealers' Den</a><br>
+10:30 - 12:30<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/18?from=profile/events&amp;for=1636626600" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="62" colspan="1" class="IsEvent" id="eventId:58">
+<a href="https://2021.fluufff.org/profile/events#description:33">Fursuit Lounge</a><br>
+10:30 - 2:00<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/58?from=profile/events&amp;for=1636626600" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636627500"><span>10:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636628400"><span>11:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636629300"><span>11:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636630200"><span>11:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636631100"><span>11:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636632000"><span>12:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="24" colspan="1" class="IsEvent" id="eventId:22">
+<a href="https://2021.fluufff.org/profile/events#description:17">Bar</a><br>
+12:00 - 18:00<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/22?from=profile/events&amp;for=1636632000" title="Attend" class="empty_star">☆</a></span></td>
+</tr>
+<tr>
+<td id="eventTime:1636632900"><span>12:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636633800"><span>12:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636634700"><span>12:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636635600"><span>13:00</span></td>
+<td rowspan="6" colspan="1" class="IsEvent" id="eventId:9">
+<a href="https://2021.fluufff.org/profile/events#description:6">Snack Exchange</a><br>
+13:00 - 14:30<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/9?from=profile/events&amp;for=1636635600" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636636500"><span>13:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636637400"><span>13:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636638300"><span>13:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636639200"><span>14:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636640100"><span>14:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636641000"><span>14:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="12" colspan="1" class="IsEvent" id="eventId:19">
+<a href="https://2021.fluufff.org/profile/events#description:15">Dealers' Den</a><br>
+14:30 - 17:30<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/19?from=profile/events&amp;for=1636641000" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636641900"><span>14:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636642800"><span>15:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636643700"><span>15:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636644600"><span>15:30</span></td>
+<td rowspan="4" colspan="1" class="IsEvent" id="eventId:10">
+<a href="https://2021.fluufff.org/profile/events#description:7">Charity - A Home for the Belgian Beaver</a><br>
+15:30 - 16:30<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/10?from=profile/events&amp;for=1636644600" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636645500"><span>15:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636646400"><span>16:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636647300"><span>16:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636648200"><span>16:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636649100"><span>16:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636650000"><span>17:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="6" colspan="1" class="IsEvent" id="eventId:15">
+<a href="https://2021.fluufff.org/profile/events#description:12">Enter the art of Anthro</a><br>
+17:00 - 18:30<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/15?from=profile/events&amp;for=1636650000" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="12" colspan="1" class="IsEvent" id="eventId:21">
+<a href="https://2021.fluufff.org/profile/events#description:16">Photoshoot</a><br>
+17:00 - 20:00<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/21?from=profile/events&amp;for=1636650000" title="Attend" class="empty_star">☆</a></span></td>
+</tr>
+<tr>
+<td id="eventTime:1636650900"><span>17:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636651800"><span>17:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636652700"><span>17:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636653600"><span>18:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636654500"><span>18:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636655400"><span>18:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636656300"><span>18:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636657200"><span>19:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="6" colspan="1" class="IsEvent" id="eventId:16">
+<a href="https://2021.fluufff.org/profile/events#description:13">Coffeeeeee</a><br>
+19:00 - 20:30<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/16?from=profile/events&amp;for=1636657200" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636658100"><span>19:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636659000"><span>19:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="26" colspan="1" class="IsEvent" id="eventId:23">
+<a href="https://2021.fluufff.org/profile/events#description:17">Bar</a><br>
+19:30 - 2:00<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/23?from=profile/events&amp;for=1636659000" title="Attend" class="empty_star">☆</a></span></td>
+</tr>
+<tr>
+<td id="eventTime:1636659900"><span>19:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636660800"><span>20:00</span></td>
+<td rowspan="6" colspan="1" class="IsEvent" id="eventId:11">
+<a href="https://2021.fluufff.org/profile/events#description:8">Fursuit Charades 2.0</a><br>
+20:00 - 21:30<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/11?from=profile/events&amp;for=1636660800" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636661700"><span>20:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636662600"><span>20:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636663500"><span>20:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636664400"><span>21:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636665300"><span>21:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636666200"><span>21:30</span></td>
+<td rowspan="6" colspan="1" class="IsEvent" id="eventId:47">
+<a href="https://2021.fluufff.org/profile/events#description:34">Fursuit Charades 2.0 - Run 2</a><br>
+21:30 - 23:00<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/47?from=profile/events&amp;for=1636666200" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636667100"><span>21:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636668000"><span>22:00</span></td>
+<td rowspan="12" colspan="1" class="IsEvent" id="eventId:17">
+<a href="https://2021.fluufff.org/profile/events#description:14">Blood on the Clocktower</a><br>
+22:00 - 1:00<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/17?from=profile/events&amp;for=1636668000" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636668900"><span>22:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636669800"><span>22:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636670700"><span>22:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636671600"><span>23:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636672500"><span>23:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636673400"><span>23:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636674300"><span>23:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636675200"><span>0:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636676100"><span>0:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636677000"><span>0:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636677900"><span>0:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636678800"><span>1:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636679700"><span>1:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636680600"><span>1:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636681500"><span>1:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+					 <div><h3 >November 12</h3>
+</div><div class="table-responsive"><table class="eventTable">
+<thead>
+<tr>
+<th>Time</th>
+<th >Mainstage</th>
+<th >Panel Room</th>
+<th >Dealers' Den</th>
+<th >Fursuit Lounge</th>
+<th >Mainstage Mezanine</th>
+<th >Bar</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td id="eventTime:1636711200"><span>10:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="6" colspan="1" class="IsEvent" id="eventId:27">
+<a href="https://2021.fluufff.org/profile/events#description:21">Advanced Animatronics Adventures</a><br>
+10:00 - 11:30<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/27?from=profile/events&amp;for=1636711200" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636712100"><span>10:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636713000"><span>10:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="8" colspan="1" class="IsEvent" id="eventId:31">
+<a href="https://2021.fluufff.org/profile/events#description:15">Dealers' Den</a><br>
+10:30 - 12:30<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/31?from=profile/events&amp;for=1636713000" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="62" colspan="1" class="IsEvent" id="eventId:57">
+<a href="https://2021.fluufff.org/profile/events#description:33">Fursuit Lounge</a><br>
+10:30 - 2:00<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/57?from=profile/events&amp;for=1636713000" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636713900"><span>10:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636714800"><span>11:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="4" colspan="1" class="IsEvent" id="eventId:51">
+<a href="https://2021.fluufff.org/profile/events#description:39">Christian Furs Panel</a><br>
+11:00 - 12:00<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/51?from=profile/events&amp;for=1636714800" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636715700"><span>11:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636716600"><span>11:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636717500"><span>11:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636718400"><span>12:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636719300"><span>12:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636720200"><span>12:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636721100"><span>12:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636722000"><span>13:00</span></td>
+<td rowspan="4" colspan="1" class="IsEvent" id="eventId:24">
+<a href="https://2021.fluufff.org/profile/events#description:18">Group Picture</a><br>
+13:00 - 14:00<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/24?from=profile/events&amp;for=1636722000" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636722900"><span>13:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636723800"><span>13:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636724700"><span>13:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636725600"><span>14:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="16" colspan="1" class="IsEvent" id="eventId:53">
+<a href="https://2021.fluufff.org/profile/events#description:17">Bar</a><br>
+14:00 - 18:00<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/53?from=profile/events&amp;for=1636725600" title="Attend" class="empty_star">☆</a></span></td>
+</tr>
+<tr>
+<td id="eventTime:1636726500"><span>14:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636727400"><span>14:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636728300"><span>14:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636729200"><span>15:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="6" colspan="1" class="IsEvent" id="eventId:29">
+<a href="https://2021.fluufff.org/profile/events#description:22">Intensitea</a><br>
+15:00 - 16:30<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/29?from=profile/events&amp;for=1636729200" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="10" colspan="1" class="IsEvent" id="eventId:32">
+<a href="https://2021.fluufff.org/profile/events#description:15">Dealers' Den</a><br>
+15:00 - 17:30<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/32?from=profile/events&amp;for=1636729200" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636730100"><span>15:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636731000"><span>15:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636731900"><span>15:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636732800"><span>16:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="12" colspan="1" class="IsEvent" id="eventId:56">
+<a href="https://2021.fluufff.org/profile/events#description:16">Photoshoot</a><br>
+16:00 - 19:00<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/56?from=profile/events&amp;for=1636732800" title="Attend" class="empty_star">☆</a></span></td>
+</tr>
+<tr>
+<td id="eventTime:1636733700"><span>16:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636734600"><span>16:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="6" colspan="1" class="IsEvent" id="eventId:48">
+<a href="https://2021.fluufff.org/profile/events#description:35">Intensitea - Run 2</a><br>
+16:30 - 18:00<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/48?from=profile/events&amp;for=1636734600" title="Attend" class="empty_star">☆</a></span></td>
+</tr>
+<tr>
+<td id="eventTime:1636735500"><span>16:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636736400"><span>17:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636737300"><span>17:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636738200"><span>17:30</span></td>
+<td rowspan="4" colspan="1" class="IsEvent" id="eventId:25">
+<a href="https://2021.fluufff.org/profile/events#description:19">Roll the Dice</a><br>
+17:30 - 18:30<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/25?from=profile/events&amp;for=1636738200" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636739100"><span>17:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636740000"><span>18:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636740900"><span>18:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636741800"><span>18:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636742700"><span>18:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636743600"><span>19:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="8" colspan="1" class="IsEvent" id="eventId:49">
+<a href="https://2021.fluufff.org/profile/events#description:36">Ace of speed, King of RNG</a><br>
+19:00 - 21:00<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/49?from=profile/events&amp;for=1636743600" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636744500"><span>19:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636745400"><span>19:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="28" colspan="1" class="IsEvent" id="eventId:54">
+<a href="https://2021.fluufff.org/profile/events#description:17">Bar</a><br>
+19:30 - 2:30<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/54?from=profile/events&amp;for=1636745400" title="Attend" class="empty_star">☆</a></span></td>
+</tr>
+<tr>
+<td id="eventTime:1636746300"><span>19:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636747200"><span>20:00</span></td>
+<td rowspan="6" colspan="1" class="IsEvent" id="eventId:52">
+<a href="https://2021.fluufff.org/profile/events#description:38">DiscoFox as the Joker Card</a><br>
+20:00 - 21:30<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/52?from=profile/events&amp;for=1636747200" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636748100"><span>20:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636749000"><span>20:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636749900"><span>20:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636750800"><span>21:00</span></td>
+<td rowspan="10" colspan="1" class="IsEvent" id="eventId:50">
+<a href="https://2021.fluufff.org/profile/events#description:37">Boardgames</a><br>
+21:00 - 23:30<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/50?from=profile/events&amp;for=1636750800" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636751700"><span>21:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636752600"><span>21:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636753500"><span>21:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636754400"><span>22:00</span></td>
+<td rowspan="16" colspan="1" class="IsEvent" id="eventId:26">
+<a href="https://2021.fluufff.org/profile/events#description:20">Jackpot Beats: Going All-In On the Dancefloor</a><br>
+22:00 - 2:00<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/26?from=profile/events&amp;for=1636754400" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636755300"><span>22:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636756200"><span>22:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636757100"><span>22:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636758000"><span>23:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636758900"><span>23:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636759800"><span>23:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636760700"><span>23:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636761600"><span>0:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636762500"><span>0:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636763400"><span>0:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636764300"><span>0:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636765200"><span>1:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636766100"><span>1:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636767000"><span>1:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636767900"><span>1:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636768800"><span>2:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636769700"><span>2:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+					 <div><h3 >November 13</h3>
+</div><div class="table-responsive"><table class="eventTable">
+<thead>
+<tr>
+<th>Time</th>
+<th >Mainstage</th>
+<th >Panel Room</th>
+<th >Dealers' Den</th>
+<th >Fursuit Lounge</th>
+<th >Bar</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td id="eventTime:1636797600"><span>10:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="12" colspan="1" class="IsEvent" id="eventId:35">
+<a href="https://2021.fluufff.org/profile/events#description:10">Brew It Yourself - A panel about homemade beer</a><br>
+10:00 - 13:00<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/35?from=profile/events&amp;for=1636797600" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636798500"><span>10:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636799400"><span>10:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="8" colspan="1" class="IsEvent" id="eventId:40">
+<a href="https://2021.fluufff.org/profile/events#description:15">Dealers' Den</a><br>
+10:30 - 12:30<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/40?from=profile/events&amp;for=1636799400" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="62" colspan="1" class="IsEvent" id="eventId:60">
+<a href="https://2021.fluufff.org/profile/events#description:33">Fursuit Lounge</a><br>
+10:30 - 2:00<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/60?from=profile/events&amp;for=1636799400" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636800300"><span>10:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636801200"><span>11:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636802100"><span>11:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636803000"><span>11:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636803900"><span>11:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636804800"><span>12:00</span></td>
+<td rowspan="8" colspan="1" class="IsEvent" id="eventId:33">
+<a href="https://2021.fluufff.org/profile/events#description:25">Fursuit Games</a><br>
+12:00 - 14:00<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/33?from=profile/events&amp;for=1636804800" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="24" colspan="1" class="IsEvent" id="eventId:42">
+<a href="https://2021.fluufff.org/profile/events#description:17">Bar</a><br>
+12:00 - 18:00<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/42?from=profile/events&amp;for=1636804800" title="Attend" class="empty_star">☆</a></span></td>
+</tr>
+<tr>
+<td id="eventTime:1636805700"><span>12:15</span></td>
+</tr>
+<tr>
+<td id="eventTime:1636806600"><span>12:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636807500"><span>12:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636808400"><span>13:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636809300"><span>13:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636810200"><span>13:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636811100"><span>13:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636812000"><span>14:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636812900"><span>14:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636813800"><span>14:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="4" colspan="1" class="IsEvent" id="eventId:36">
+<a href="https://2021.fluufff.org/profile/events#description:27">Furry Femmes</a><br>
+14:30 - 15:30<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/36?from=profile/events&amp;for=1636813800" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636814700"><span>14:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636815600"><span>15:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="10" colspan="1" class="IsEvent" id="eventId:41">
+<a href="https://2021.fluufff.org/profile/events#description:15">Dealers' Den</a><br>
+15:00 - 17:30<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/41?from=profile/events&amp;for=1636815600" title="Attend" class="empty_star">☆</a></span></td>
+</tr>
+<tr>
+<td id="eventTime:1636816500"><span>15:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636817400"><span>15:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636818300"><span>15:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636819200"><span>16:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636820100"><span>16:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636821000"><span>16:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="8" colspan="1" class="IsEvent" id="eventId:37">
+<a href="https://2021.fluufff.org/profile/events#description:5">Return the Crown</a><br>
+16:30 - 18:30<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/37?from=profile/events&amp;for=1636821000" title="Attend" class="empty_star">☆</a></span></td>
+</tr>
+<tr>
+<td id="eventTime:1636821900"><span>16:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636822800"><span>17:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636823700"><span>17:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636824600"><span>17:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636825500"><span>17:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636826400"><span>18:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636827300"><span>18:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636828200"><span>18:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636829100"><span>18:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636830000"><span>19:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="6" colspan="1" class="IsEvent" id="eventId:38">
+<a href="https://2021.fluufff.org/profile/events#description:28">Climate chat with Norr</a><br>
+19:00 - 20:30<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/38?from=profile/events&amp;for=1636830000" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636830900"><span>19:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636831800"><span>19:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="12" colspan="1" class="IsEvent" id="eventId:43">
+<a href="https://2021.fluufff.org/profile/events#description:17">Bar</a><br>
+19:30 - 22:30<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/43?from=profile/events&amp;for=1636831800" title="Attend" class="empty_star">☆</a></span></td>
+</tr>
+<tr>
+<td id="eventTime:1636832700"><span>19:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636833600"><span>20:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636834500"><span>20:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636835400"><span>20:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636836300"><span>20:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636837200"><span>21:00</span></td>
+<td rowspan="12" colspan="1" class="IsEvent" id="eventId:34">
+<a href="https://2021.fluufff.org/profile/events#description:26">SHOWNIGHT EXTRAVAGANZA</a><br>
+21:00 - 0:00<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/34?from=profile/events&amp;for=1636837200" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636838100"><span>21:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636839000"><span>21:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636839900"><span>21:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636840800"><span>22:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636841700"><span>22:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636842600"><span>22:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636843500"><span>22:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636844400"><span>23:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636845300"><span>23:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636846200"><span>23:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="12" colspan="1" class="IsEvent" id="eventId:55">
+<a href="https://2021.fluufff.org/profile/events#description:17">Bar</a><br>
+23:30 - 2:30<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/55?from=profile/events&amp;for=1636846200" title="Attend" class="empty_star">☆</a></span></td>
+</tr>
+<tr>
+<td id="eventTime:1636847100"><span>23:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636848000"><span>0:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636848900"><span>0:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636849800"><span>0:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="8" colspan="1" class="IsEvent" id="eventId:39">
+<a href="https://2021.fluufff.org/profile/events#description:14">Blood on the Clocktower</a><br>
+0:30 - 2:30<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/39?from=profile/events&amp;for=1636849800" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636850700"><span>0:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636851600"><span>1:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636852500"><span>1:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636853400"><span>1:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636854300"><span>1:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636855200"><span>2:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636856100"><span>2:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+					 <div><h3 >November 14</h3>
+</div><div class="table-responsive"><table class="eventTable">
+<thead>
+<tr>
+<th>Time</th>
+<th >Panel Room</th>
+<th >Fursuit Lounge</th>
+<th >Bar</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td id="eventTime:1636882200"><span>9:30</span></td>
+<td rowspan="4" colspan="1" class="IsEvent" id="eventId:44">
+<a href="https://2021.fluufff.org/profile/events#description:30">Feedback Panel</a><br>
+9:30 - 10:30<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/44?from=profile/events&amp;for=1636882200" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636883100"><span>9:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636884000"><span>10:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636884900"><span>10:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636885800"><span>10:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="62" colspan="1" class="IsEvent" id="eventId:59">
+<a href="https://2021.fluufff.org/profile/events#description:33">Fursuit Lounge</a><br>
+10:30 - 2:00<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/59?from=profile/events&amp;for=1636885800" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636886700"><span>10:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636887600"><span>11:00</span></td>
+<td rowspan="6" colspan="1" class="IsEvent" id="eventId:45">
+<a href="https://2021.fluufff.org/profile/events#description:31">Yardsale</a><br>
+11:00 - 12:30<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/45?from=profile/events&amp;for=1636887600" title="Attend" class="empty_star">☆</a></span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636888500"><span>11:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636889400"><span>11:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636890300"><span>11:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636891200"><span>12:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636892100"><span>12:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636893000"><span>12:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636893900"><span>12:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636894800"><span>13:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636895700"><span>13:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636896600"><span>13:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636897500"><span>13:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636898400"><span>14:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636899300"><span>14:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636900200"><span>14:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636901100"><span>14:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636902000"><span>15:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636902900"><span>15:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636903800"><span>15:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636904700"><span>15:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636905600"><span>16:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636906500"><span>16:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636907400"><span>16:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636908300"><span>16:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636909200"><span>17:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636910100"><span>17:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636911000"><span>17:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636911900"><span>17:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636912800"><span>18:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636913700"><span>18:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636914600"><span>18:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636915500"><span>18:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636916400"><span>19:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636917300"><span>19:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636918200"><span>19:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636919100"><span>19:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636920000"><span>20:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636920900"><span>20:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636921800"><span>20:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636922700"><span>20:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636923600"><span>21:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+<td rowspan="20" colspan="1" class="IsEvent" id="eventId:46">
+<a href="https://2021.fluufff.org/profile/events#description:32">Nearly-Dead Beaver Party</a><br>
+21:00 - 2:00<br>
+<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/46?from=profile/events&amp;for=1636923600" title="Attend" class="empty_star">☆</a></span></td>
+</tr>
+<tr>
+<td id="eventTime:1636924500"><span>21:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636925400"><span>21:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636926300"><span>21:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636927200"><span>22:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636928100"><span>22:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636929000"><span>22:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636929900"><span>22:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636930800"><span>23:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636931700"><span>23:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636932600"><span>23:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636933500"><span>23:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636934400"><span>0:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636935300"><span>0:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636936200"><span>0:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636937100"><span>0:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636938000"><span>1:00</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636938900"><span>1:15</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636939800"><span>1:30</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+<tr>
+<td id="eventTime:1636940700"><span>1:45</span></td>
+<td rowspan="1" colspan="1" id="eventId:">
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+					 <div>				</div>
+			</div>
+		</div>
+	</div>
+	<div class="window window--dyn-info window--profile window--events-overview">
+		<div class="light-box content-box">
+			<h2 class="title box-title">Description</h2>
+			<div class="form padding-box ">
+			<div class="event__item">
+				<div class="event__item--inner">
+					<h3 id="description:24">Ace of speed, King of RNG</h3>
+					<p>
+					Let’s talk about speed, RNG Manipulation, pixel and sub pixel! Welcome to the world of speedrunning, where the game of your childhood gets destroyed. Glitched or Glitchless, there is flavor for everyone! Hosted by Raug Dae
+				</p>
+				</div>
+			</div>
+			<div class="event__item">
+				<div class="event__item--inner">
+					<h3 id="description:36">Ace of speed, King of RNG</h3>
+					<p>
+					Let’s talk about speed, RNG Manipulation, pixel and sub pixel! Welcome to the world of speedrunning, where the game of your childhood gets destroyed. Glitched or Glitchless, there is flavor for everyone! Hosted by Raug Dae				</p>
+				</div>
+			</div>
+			<div class="event__item">
+				<div class="event__item--inner">
+					<h3 id="description:21">Advanced Animatronics Adventures</h3>
+					<p>
+					You got the style, you got the bling, you got the Flüüfff. You want to roar it from the roof tops, let the whole wide world hear your name! … Er, right. Got to do something about that costume voice. Rather too many unspeakable acts of questionable science later, there’s progress! And a cow for some reason… Hosted by Floere
+				</p>
+				</div>
+			</div>
+			<div class="event__item">
+				<div class="event__item--inner">
+					<h3 id="description:17">Bar</h3>
+					<p>
+									</p>
+				</div>
+			</div>
+			<div class="event__item">
+				<div class="event__item--inner">
+					<h3 id="description:14">Blood on the Clocktower</h3>
+					<p>
+					A bluffing game in the style of Werewolves or Mafia, but as everyone has a unique role, and participates even after death, it's a guaranteed fun time for everyone fond of being sus. Hosted by Kano				</p>
+				</div>
+			</div>
+			<div class="event__item">
+				<div class="event__item--inner">
+					<h3 id="description:37">Boardgames</h3>
+					<p>
+									</p>
+				</div>
+			</div>
+			<div class="event__item">
+				<div class="event__item--inner">
+					<h3 id="description:10">Brew It Yourself - A panel about homemade beer</h3>
+					<p>
+					Do you like Belgian Beer? Because we do! And we propose to introduce you to a delicious and fascinating hobby : homebrewing. We’ll have a presentation about the beer style we decided to showcase this year : the Belgian Saison, present some of the tools used and have a little tasting! Hosted by Stan 
+-Note: Both Brew It Yourself Panels are the same, this is done to make sure more people can enjoy this panel-				</p>
+				</div>
+			</div>
+			<div class="event__item">
+				<div class="event__item--inner">
+					<h3 id="description:7">Charity - A Home for the Belgian Beaver</h3>
+					<p>
+					This year and for the first time, we are excited to announce our partnership with Natagora (more info about them in the conbook)! We invite you to a little presentation of the beaver haven they're creating followed by a Q&A session. Donations welcome!				</p>
+				</div>
+			</div>
+			<div class="event__item">
+				<div class="event__item--inner">
+					<h3 id="description:3">Cheese and Wine</h3>
+					<p>
+					Birdy the Gryphon and Friendly Psychobatic invite everyone at Flüüfff to meet up, have a bit of conversation, and make some new friends! It's a Furry Mixer! Birdy will bring a large wheel of Amsterdamer Gouda, and we will have baguette and crackers! Psycobatic will contribute some more cheese to taste. Everyone is invited to bring a bottle of their favourite wine (it's optional). We will taste the cheeses and drink some wine. Everyone is welcome, in and out of fursuit.
+				</p>
+				</div>
+			</div>
+			<div class="event__item">
+				<div class="event__item--inner">
+					<h3 id="description:39">Christian Furs Panel</h3>
+					<p>
+					This panel is supposed as a small cozy meeting. The main idea is to just get to know each other and talk a bit about stuff that comes up. Everyone is welkom. Just drop by (^.^) Hosted by Nimalen				</p>
+				</div>
+			</div>
+			<div class="event__item">
+				<div class="event__item--inner">
+					<h3 id="description:28">Climate chat with Norr</h3>
+					<p>
+					Climate change is a topic that comes more and more to the forefront, and with that come questions, concerns, and sometimes even feelings of loss, panic, or doom. What should we be worried about? What can be done? What are efficient actions? How are y'all feeling? At this panel you'll get some information, but also a chill conversation. Hosted by Norr				</p>
+				</div>
+			</div>
+			<div class="event__item">
+				<div class="event__item--inner">
+					<h3 id="description:13">Coffeeeeee</h3>
+					<p>
+					Late night coffee with Laddian, Jazz, and some different types, tastes and types of making coffee, as well as a guided explanation to what can be expected! Hosted by Laddian
+				</p>
+				</div>
+			</div>
+			<div class="event__item">
+				<div class="event__item--inner">
+					<h3 id="description:15">Dealers' Den</h3>
+					<p>
+									</p>
+				</div>
+			</div>
+			<div class="event__item">
+				<div class="event__item--inner">
+					<h3 id="description:38">DiscoFox as the Joker Card</h3>
+					<p>
+					Wanna dance with somebody? Have no control over the music? Well, this dance is perfect for you then, as you can actually dance it on pretty every song (with a little bit of fantasy). You can kinda see it as a joker card, as it fits everywhere! You can dance it slow or fast, big or small, drunk or sober. Hosted by Nimalen				</p>
+				</div>
+			</div>
+			<div class="event__item">
+				<div class="event__item--inner">
+					<h3 id="description:12">Enter the art of Anthro</h3>
+					<p>
+					Always wanted to start drawing furries, but don't know how to? This panel is for entrance-level, upcoming artists. We'll cover the absolute basics as simply as possible. Starting from human and animal forms I will show a few simple techniques on how to draw anthro art. Every fur can draw, try it with me! Hosted by Fyn
+				</p>
+				</div>
+			</div>
+			<div class="event__item">
+				<div class="event__item--inner">
+					<h3 id="description:30">Feedback Panel</h3>
+					<p>
+					During this panel we would like to hear from you what we could improve for future editions but of course also what we should keep. We’ll talk about the events, the organisation, decoration etc. We will talk about various topics during this panel, but feel free to join anytime! Hosted by Lezari				</p>
+				</div>
+			</div>
+			<div class="event__item">
+				<div class="event__item--inner">
+					<h3 id="description:27">Furry Femmes</h3>
+					<p>
+					There are many things to celebrate, but today we shall celebrate female furries in our flourishing community. We invite several speakers that will share with us what they do in the community and how their gender and appearance affects this. Hosted by Lezari
+				</p>
+				</div>
+			</div>
+			<div class="event__item">
+				<div class="event__item--inner">
+					<h3 id="description:8">Fursuit Charades 2.0</h3>
+					<p>
+					Show, not tell. Use your paws and tail to explain to us the word you are given! If you are successful in this 2.0 charade of fortune, you might even proceed to the grand finale. The Charades will be held in two runs, to allow more fursuiters to compete. 				</p>
+				</div>
+			</div>
+			<div class="event__item">
+				<div class="event__item--inner">
+					<h3 id="description:34">Fursuit Charades 2.0 - Run 2</h3>
+					<p>
+					Show, not tell. Use your paws and tail to explain to us the word you are given! If you are successful in this 2.0 charade of fortune, you might even proceed to the grand finale. The Charades will be held in two runs, to allow more fursuiters to compete. 				</p>
+				</div>
+			</div>
+			<div class="event__item">
+				<div class="event__item--inner">
+					<h3 id="description:25">Fursuit Games</h3>
+					<p>
+					Skip the poker, come join us for our beloved fursuit games!. Suiters will engage in a friendly competition among various games that test their wits, skills and agility. Make sure to join if you want to partake in some fun fursuit friendly games!				</p>
+				</div>
+			</div>
+			<div class="event__item">
+				<div class="event__item--inner">
+					<h3 id="description:33">Fursuit Lounge</h3>
+					<p>
+									</p>
+				</div>
+			</div>
+			<div class="event__item">
+				<div class="event__item--inner">
+					<h3 id="description:18">Group Picture</h3>
+					<p>
+					Immortalise this moment of fame, fortune and phantasm in the one and only casino (over-)run by furries. 				</p>
+				</div>
+			</div>
+			<div class="event__item">
+				<div class="event__item--inner">
+					<h3 id="description:22">Intensitea</h3>
+					<p>
+					Need a break from the events, just a calm moment to drink a cup of tea? During this panel, Stan Luckbun and Lezari Astera will provide you with some soothing, intense ‘tea’. Well, actually they will be more of herbal and fruity infusions! As Lezari tells you more about these infusions, Stan will pour you the finest tea you’ve had till now. Hosted by Lezari
+-Note: Both Intensitea Panels are the same, this is done to make sure more people can enjoy this panel-
+				</p>
+				</div>
+			</div>
+			<div class="event__item">
+				<div class="event__item--inner">
+					<h3 id="description:35">Intensitea - Run 2</h3>
+					<p>
+					Need a break from the events, just a calm moment to drink a cup of tea? During this panel, Stan Luckbun and Lezari Astera will provide you with some soothing, intense ‘tea’. Well, actually they will be more of herbal and fruity infusions! As Lezari tells you more about these infusions, Stan will pour you the finest tea you’ve had till now. Hosted by Lezari
+-Note: Both Intensitea Panels are the same, this is done to make sure more people can enjoy this panel-				</p>
+				</div>
+			</div>
+			<div class="event__item">
+				<div class="event__item--inner">
+					<h3 id="description:20">Jackpot Beats: Going All-In On the Dancefloor</h3>
+					<p>
+					7-7-7, Are you the lucky one on the dancefloor tonight? Or are you still waiting for your moment to shine? Show us your dance moves in Flüüfff’s Fur-Dance. This edition with more music variety to make this a night to remember. 
+				</p>
+				</div>
+			</div>
+			<div class="event__item">
+				<div class="event__item--inner">
+					<h3 id="description:2">My First Furcon</h3>
+					<p>
+					It’s been a while since we’ve had a furcon to begin with, and for some of us its the FIRST furcon they’ve ever been to! What can I expect? What will the people be like? What's the venue like? What should I pay attention to? How do I hug a fursuiter? No two furcons are the same, but they all have a few basic things in common. This panel is meant to help first-time con visitors get through the wonderful Flüüfff experience. Hosted by Tixiefox				</p>
+				</div>
+			</div>
+			<div class="event__item">
+				<div class="event__item--inner">
+					<h3 id="description:32">Nearly-Dead Beaver Party</h3>
+					<p>
+					I’m sure the bar has some leftover booze right? The con is almost over, but the fun isn’t! Join us one last time in drinking a cocktail, a beer or something else. 				</p>
+				</div>
+			</div>
+			<div class="event__item">
+				<div class="event__item--inner">
+					<h3 id="description:1">Opening Ceremony</h3>
+					<p>
+					Are you ready to rumble?!?! Flüüfff 2020, eh we mean 2021 is about to start! Before we start some official people have asked to say a few words to everyone. Please join us at the mainstage for our Opening Ceremony!
+				</p>
+				</div>
+			</div>
+			<div class="event__item">
+				<div class="event__item--inner">
+					<h3 id="description:16">Photoshoot</h3>
+					<p>
+									</p>
+				</div>
+			</div>
+			<div class="event__item">
+				<div class="event__item--inner">
+					<h3 id="description:5">Return the Crown</h3>
+					<p>
+					A group of six players will run through a dangerous dungeon which only appears once every 25 years! Bring back the crown to the Deep Queen, or more likely die trying.
+				</p>
+				</div>
+			</div>
+			<div class="event__item">
+				<div class="event__item--inner">
+					<h3 id="description:19">Roll the Dice</h3>
+					<p>
+					Having a hard time getting acquainted with people? Looking for excuses to strike a conversation, but fear you will look awkward? Maybe you even want to look awkward for an hour? Then this is the perfect event for you: improvisation and conversation games are the way to go! Hosted by Tach				</p>
+				</div>
+			</div>
+			<div class="event__item">
+				<div class="event__item--inner">
+					<h3 id="description:26">SHOWNIGHT EXTRAVAGANZA</h3>
+					<p>
+					In 2019 we surprised you with a runway, this edition we will take all the covers off. We will put the extra in extravaganza. Join us on this night of laughter, music and showmanship to make this one night to remember. The curtain shall fall for Flüüfff 2021 after our closing ceremony. Be there. Don’t miss it. 
+
+No really. Don’t. We’ll even have an encore. 				</p>
+				</div>
+			</div>
+			<div class="event__item">
+				<div class="event__item--inner">
+					<h3 id="description:6">Snack Exchange</h3>
+					<p>
+					Thank you all for coming to our Vegas All You Can Eat Buffet. We shall present to you a great variety of our finest delicacies coming to you from all over the world. Walk around, savour in the soothing scents of dishes and drinks and drown yourselves in decadence!
+				</p>
+				</div>
+			</div>
+			<div class="event__item">
+				<div class="event__item--inner">
+					<h3 id="description:31">Yardsale</h3>
+					<p>
+					As a self-respecting Casino Resort, we too have some ways to help you get rid of your last chips. Our Sunday morning yardsale is a perfect opportunity to buy everything you desperately want. 				</p>
+				</div>
+			</div>
+			</div>
+		</div>
+	</div>
+</section>
+	</main>
+		<footer class="footer">
+		<!--<span>
+			<a href="" title="Back" class="resetlink fs--14 text--white back"><i class="fas fa-arrow-left"></i> Previous step</a>
+		</span>-->
+		<span class="poweredby text fs--14">
+			<a href="https://fluufff.org" class="resetlink text--white">Website</a>			| <a href="https://2021.fluufff.org/register/terms#privacy" target="_blank" class="resetlink text--white">Privacy</a>			| <a href="https://2021.fluufff.org/register/terms#terms" target="_blank" class="resetlink text--white">Terms and Conditions</a>			| <a href="https://2021.fluufff.org/profile/contact" class="resetlink text--white">Contact us</a>		| Powered by Platy+</span>
+	</footer>
+	<script>
+
+		document.getElementsByClassName('current-lang')[0].addEventListener('click', function(){
+			if(!document.getElementsByClassName('language-popup')[0].classList.contains('language-popup--active')){
+				document.getElementsByClassName('language-popup')[0].classList.add('language-popup--active');
+			}else{
+				document.getElementsByClassName('language-popup')[0].classList.remove('language-popup--active');
+			}
+		});
+
+		function hamburgerToggle(hamburger) {
+			hamburger.classList.toggle("change");
+			document.getElementsByClassName('registration-header')[0].classList.toggle('mobile-nav-expanded');
+		}
+
+	</script>
+	<!-- <script src="https://2021.fluufff.org/assets/js/registration.js"></script> -->
+</body>
+</html>

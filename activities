@@ -1,0 +1,2618 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>Activities | Grand Casino - Going all-in!</title>
+	<meta name="description" content="Spinning wheels, dices, slotmachines, are you ready to be the big player in a casino full of fur?! Join us in the 4th edition of the Belgian Furry Convention, a convention dedicated to anthropomorphic characters!" />
+	<meta property="og:title" content="Flüüfff 2021 | Grand Casino - Going all-in!" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="Spinning wheels, dices, slotmachines, are you ready to be the big player in a casino full of fur?! Join us in the 4th edition of the Belgian Furry Convention, a convention dedicated to anthropomorphic characters!" />
+	<meta property="og:url" content="https://2021.fluufff.org/activities" />
+	<meta property="og:site_name" content="Flüüfff 2021 | Grand Casino - Going all-in!" />
+	<meta property="og:image" content="https://2021.fluufff.org/website/assets/images/og/open-graph.png">
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Flüüfff 2021 | Grand Casino - Going all-in!" />
+	<meta name="twitter:description" content="Spinning wheels, dices, slotmachines, are you ready to be the big player in a casino full of fur?! Join us in the 4th edition of the Belgian Furry Convention, a convention dedicated to anthropomorphic characters!" />
+	<meta name="twitter:image" content="https://2021.fluufff.org/website/assets/images/og/open-graph.png" />
+	<meta itemprop="name" content="Flüüfff 2021 | Grand Casino - Going all-in!" />
+	<meta itemprop="description" content="Spinning wheels, dices, slotmachines, are you ready to be the big player in a casino full of fur?! Join us in the 4th edition of the Belgian Furry Convention, a convention dedicated to anthropomorphic characters!" />
+	<meta name="robots" content="index,follow,noodp,noydir" />
+	<meta http-equiv="Content-Language" content="en" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Expires" content="never" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+	<meta name="format-detection" content="telephone=no" />
+	<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://2021.fluufff.org/website/assets/css/app.css" type="text/css" media="all" />
+	<link rel="apple-touch-icon" sizes="180x180" href="https://2021.fluufff.org/website/assets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://2021.fluufff.org/website/assets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://2021.fluufff.org/website/assets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="https://2021.fluufff.org/website/assets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="https://2021.fluufff.org/website/assets/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
+	<link rel="shortcut icon" href="https://2021.fluufff.org/website/assets/images/favicons/favicon.ico">
+	<meta name="apple-mobile-web-app-title" content="Flüüfff 2021 | Grand Casino - Going all-in!">
+	<meta name="application-name" content="Flüüfff 2021 | Grand Casino - Going all-in!">
+	<meta name="msapplication-config" content="https://2021.fluufff.org/website/assets/images/favicons/browserconfig.xml">
+	<meta name="theme-color" content="#1d2435">
+</head>
+<body>
+		<header id="header" class="relative header bg--primary p-sides-1x p-ends-0.5x" itemscope itemtype="http://schema.org/WPHeader">
+		<meta itemprop="headline name" content="Flüüfff" />
+		<meta itemprop="description" content="Furry Convention Belgium" />
+		<div class="navbar flex flex-align-center flex-space-between">
+			<a href="https://2021.fluufff.org/" title="Back to homepage" class="resetlink header-logo">
+				<img src="https://2021.fluufff.org/website/assets/images/logos/full_logo_casino.png" alt="Logo Flüüfff">
+			</a>
+			<div class="nav-wrapper flex flex-align-center flex-end">
+				<nav class="nav" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+					<ul class="no-list-style flex flex-end flex-align-center">
+						<li class="nav__item p-sides-1x hide@3 tablet-ls:p-sides-0.75x ">
+							<a href="https://2021.fluufff.org/" title="Home" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+								Home							</a>
+						</li>
+						<li class="nav__item p-sides-1x hide@3 tablet-ls:p-sides-0.75x ">
+							<a href="https://2021.fluufff.org/covid-19" title="Covid-19" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+								Covid-19							</a>
+						</li>
+						<li class="nav__item p-sides-1x tablet-ls:p-sides-0.75x ">
+							<a href="https://2021.fluufff.org/about" title="About" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+								About							</a>
+						</li>
+						<li class="nav__item p-sides-1x tablet-ls:p-sides-0.75x ">
+							<a href="https://2021.fluufff.org/venue" title="Venue" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+								Venue							</a>
+						</li>
+						<li class="nav__item p-sides-1x tablet-ls:p-sides-0.75x nav__item--active">
+							<a href="https://2021.fluufff.org/activities" title="Activities" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+								Activities							</a>
+						</li>
+						<li class="nav__item p-sides-1x tablet-ls:p-sides-0.75x ">
+							<a href="https://2021.fluufff.org/contact" title="Contact" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+								Contact							</a>
+						</li>
+						<li class="nav__item p-sides-1x tablet-ls:p-sides-0.75x ">
+							<a href="https://2021.fluufff.org/tickets" title="Tickets" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+								Tickets							</a>
+						</li>
+													<li class="nav__item p-l-1x ">
+								<a href="https://2021.fluufff.org/profile/login?from=activities" title="Login" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+									Login								</a>
+							</li>
+							
+					</ul>
+				</nav>
+				<div class="sass-burger">
+					<span class="sass-burger__icon sass-burger__icon--"></span>
+				</div>
+			</div>
+		</div>
+	</header>
+<div class="modal__background hide">
+	<div class="modal p-2x">
+		<div class="modal__header">
+			<div class="modal__header-info">
+				<p class="bold fs--20 modal__header-title"></p>
+				<p class="modal__header-subtitle"></p>
+			</div>
+			<div class="modal__close">
+				<button class="resetbutton"><i class="fa fa-times"></i></button>
+			</div>
+		</div>
+		<div class="modal__content m-t-1x"></div>
+	</div>
+</div>
+<main class="activities">
+	<section class="activities-schedule p-ends-4x">
+		<div class="container p-ends-2x tablet-p:p-ends-0x">
+			<div class="row">
+				<div class="col-1 hide@2">
+				</div>
+				<div class="col-10 col-12@2">
+					<h2 class="block fs--50 lnh-150 m-b-2x ta--center">
+						Schedule					</h2>
+					<div class="schedule">
+						<div class="m-b-2x">
+							<div class="row flex-justify-center">
+																	<div class="col-2 col-4@2 col-6@1">
+										<a
+											href="#filter"
+											data-day="Day-1"
+																							class="resetlink schedule__selector block fs--14 p-ends-0.5x m-b-0.5x bold color--white border--primary bg--primary hover-bg--darkprimary hover-border--darkprimary ta--center"
+																					>
+											09/11										</a>
+									</div>
+																	<div class="col-2 col-4@2 col-6@1">
+										<a
+											href="#filter"
+											data-day="Day-2"
+																							class="resetlink schedule__selector block fs--14 p-ends-0.5x m-b-0.5x bold color--primary hover-color--darkprimary border--primary hover-border--darkprimary ta--center"
+																					>
+											10/11										</a>
+									</div>
+																	<div class="col-2 col-4@2 col-6@1">
+										<a
+											href="#filter"
+											data-day="Day-3"
+																							class="resetlink schedule__selector block fs--14 p-ends-0.5x m-b-0.5x bold color--primary hover-color--darkprimary border--primary hover-border--darkprimary ta--center"
+																					>
+											11/11										</a>
+									</div>
+																	<div class="col-2 col-4@2 col-6@1">
+										<a
+											href="#filter"
+											data-day="Day-4"
+																							class="resetlink schedule__selector block fs--14 p-ends-0.5x m-b-0.5x bold color--primary hover-color--darkprimary border--primary hover-border--darkprimary ta--center"
+																					>
+											12/11										</a>
+									</div>
+																	<div class="col-2 col-4@2 col-6@1">
+										<a
+											href="#filter"
+											data-day="Day-5"
+																							class="resetlink schedule__selector block fs--14 p-ends-0.5x m-b-0.5x bold color--primary hover-color--darkprimary border--primary hover-border--darkprimary ta--center"
+																					>
+											13/11										</a>
+									</div>
+																	<div class="col-2 col-4@2 col-6@1">
+										<a
+											href="#filter"
+											data-day="Day-6"
+																							class="resetlink schedule__selector block fs--14 p-ends-0.5x m-b-0.5x bold color--primary hover-color--darkprimary border--primary hover-border--darkprimary ta--center"
+																					>
+											14/11										</a>
+									</div>
+															</div>
+						</div>
+						<table class="schedule__table " data-day="Day-1">
+							<thead>
+								<tr>
+									<th></th>
+										<th>Bar</th>
+								</tr>
+							</thead>
+							<tbody>
+									<tr>
+										<td></td>
+
+											<td rowspan="15" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Bar"
+														data-description=""
+														data-duration="19:30 - 3:00"
+														data-background=""
+													>
+													<p class="bold fs--14">Bar</p>
+														<p class="fs--12">
+															19:30															-
+															3:00														</p>
+													</div>
+												</div>
+											</td>
+								</tr>
+									<tr>
+										<td>20:00</td>
+
+								</tr>
+									<tr>
+										<td></td>
+
+								</tr>
+									<tr>
+										<td>21:00</td>
+
+								</tr>
+									<tr>
+										<td></td>
+
+								</tr>
+									<tr>
+										<td>22:00</td>
+
+								</tr>
+									<tr>
+										<td></td>
+
+								</tr>
+									<tr>
+										<td>23:00</td>
+
+								</tr>
+									<tr>
+										<td></td>
+
+								</tr>
+									<tr>
+										<td>0:00</td>
+
+								</tr>
+									<tr>
+										<td></td>
+
+								</tr>
+									<tr>
+										<td>1:00</td>
+
+								</tr>
+									<tr>
+										<td></td>
+
+								</tr>
+									<tr>
+										<td>2:00</td>
+
+								</tr>
+									<tr>
+										<td></td>
+
+								</tr>
+							</tbody>
+						</table>
+						<table class="schedule__table hide" data-day="Day-2">
+							<thead>
+								<tr>
+									<th></th>
+										<th>Mainstage</th>
+										<th>Fursuit Lounge</th>
+										<th>Mainstage Mezanine</th>
+										<th>Bar</th>
+								</tr>
+							</thead>
+							<tbody>
+									<tr>
+										<td>12:00</td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+											<td rowspan="10" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Bar"
+														data-description=""
+														data-duration="12:00 - 17:00"
+														data-background=""
+													>
+													<p class="bold fs--14">Bar</p>
+														<p class="fs--12">
+															12:00															-
+															17:00														</p>
+													</div>
+												</div>
+											</td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>13:00</td>
+
+											<td></td>
+											<td rowspan="26" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Fursuit Lounge"
+														data-description=""
+														data-duration="13:00 - 2:00"
+														data-background=""
+													>
+													<p class="bold fs--14">Fursuit Lounge</p>
+														<p class="fs--12">
+															13:00															-
+															2:00														</p>
+													</div>
+												</div>
+											</td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>14:00</td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>15:00</td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>16:00</td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>17:00</td>
+
+											<td rowspan="2" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Opening Ceremony"
+														data-description="Are you ready to rumble?!?! Fl&uuml;&uuml;fff 2020, eh we mean 2021 is about to start! Before we start some official people have asked to say a few words to everyone. Please join us at the mainstage for our Opening Ceremony!
+"
+														data-duration="17:00 - 18:00"
+														data-background=""
+													>
+													<p class="bold fs--14">Opening Ceremony</p>
+														<p class="fs--12">
+															17:00															-
+															18:00														</p>
+													</div>
+												</div>
+											</td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>18:00</td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>19:00</td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+											<td rowspan="12" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Bar"
+														data-description=""
+														data-duration="19:30 - 1:30"
+														data-background=""
+													>
+													<p class="bold fs--14">Bar</p>
+														<p class="fs--12">
+															19:30															-
+															1:30														</p>
+													</div>
+												</div>
+											</td>
+								</tr>
+									<tr>
+										<td>20:00</td>
+
+											<td rowspan="2" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="My First Furcon"
+														data-description="It&rsquo;s been a while since we&rsquo;ve had a furcon to begin with, and for some of us its the FIRST furcon they&rsquo;ve ever been to! What can I expect? What will the people be like? What's the venue like? What should I pay attention to? How do I hug a fursuiter? No two furcons are the same, but they all have a few basic things in common. This panel is meant to help first-time con visitors get through the wonderful Fl&uuml;&uuml;fff experience. Hosted by Tixiefox"
+														data-duration="20:00 - 21:00"
+														data-background=""
+													>
+													<p class="bold fs--14">My First Furcon</p>
+														<p class="fs--12">
+															20:00															-
+															21:00														</p>
+													</div>
+												</div>
+											</td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+								</tr>
+									<tr>
+										<td>21:00</td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td rowspan="3" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Cheese and Wine"
+														data-description="Birdy the Gryphon and Friendly Psychobatic invite everyone at Fl&uuml;&uuml;fff to meet up, have a bit of conversation, and make some new friends! It's a Furry Mixer! Birdy will bring a large wheel of Amsterdamer Gouda, and we will have baguette and crackers! Psycobatic will contribute some more cheese to taste. Everyone is invited to bring a bottle of their favourite wine (it's optional). We will taste the cheeses and drink some wine. Everyone is welcome, in and out of fursuit.
+"
+														data-duration="21:30 - 23:00"
+														data-background=""
+													>
+													<p class="bold fs--14">Cheese and Wine</p>
+														<p class="fs--12">
+															21:30															-
+															23:00														</p>
+													</div>
+												</div>
+											</td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>22:00</td>
+
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+								</tr>
+									<tr>
+										<td>23:00</td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td rowspan="4" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Return the Crown"
+														data-description="A group of six players will run through a dangerous dungeon which only appears once every 25 years! Bring back the crown to the Deep Queen, or more likely die trying.
+"
+														data-duration="23:30 - 1:30"
+														data-background=""
+													>
+													<p class="bold fs--14">Return the Crown</p>
+														<p class="fs--12">
+															23:30															-
+															1:30														</p>
+													</div>
+												</div>
+											</td>
+								</tr>
+									<tr>
+										<td>0:00</td>
+
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+								</tr>
+									<tr>
+										<td>1:00</td>
+
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+							</tbody>
+						</table>
+						<table class="schedule__table hide" data-day="Day-3">
+							<thead>
+								<tr>
+									<th></th>
+										<th>Mainstage</th>
+										<th>Panel Room</th>
+										<th>Dealers' Den</th>
+										<th>Fursuit Lounge</th>
+										<th>Mainstage Mezanine</th>
+										<th>Bar</th>
+								</tr>
+							</thead>
+							<tbody>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
+											<td rowspan="5" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Photoshoot"
+														data-description=""
+														data-duration="9:30 - 12:00"
+														data-background=""
+													>
+													<p class="bold fs--14">Photoshoot</p>
+														<p class="fs--12">
+															9:30															-
+															12:00														</p>
+													</div>
+												</div>
+											</td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>10:00</td>
+
+											<td></td>
+											<td rowspan="6" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Brew It Yourself - A panel about homemade beer"
+														data-description="Do you like Belgian Beer? Because we do! And we propose to introduce you to a delicious and fascinating hobby : homebrewing. We&rsquo;ll have a presentation about the beer style we decided to showcase this year : the Belgian Saison, present some of the tools used and have a little tasting! Hosted by Stan 
+-Note: Both Brew It Yourself Panels are the same, this is done to make sure more people can enjoy this panel-"
+														data-duration="10:00 - 13:00"
+														data-background=""
+													>
+													<p class="bold fs--14">Brew It Yourself - A panel about homemade beer</p>
+														<p class="fs--12">
+															10:00															-
+															13:00														</p>
+													</div>
+												</div>
+											</td>
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td rowspan="4" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Dealers' Den"
+														data-description=""
+														data-duration="10:30 - 12:30"
+														data-background=""
+													>
+													<p class="bold fs--14">Dealers' Den</p>
+														<p class="fs--12">
+															10:30															-
+															12:30														</p>
+													</div>
+												</div>
+											</td>
+											<td rowspan="31" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Fursuit Lounge"
+														data-description=""
+														data-duration="10:30 - 2:00"
+														data-background=""
+													>
+													<p class="bold fs--14">Fursuit Lounge</p>
+														<p class="fs--12">
+															10:30															-
+															2:00														</p>
+													</div>
+												</div>
+											</td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>11:00</td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>12:00</td>
+
+											<td></td>
+											<td></td>
+											<td rowspan="12" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Bar"
+														data-description=""
+														data-duration="12:00 - 18:00"
+														data-background=""
+													>
+													<p class="bold fs--14">Bar</p>
+														<p class="fs--12">
+															12:00															-
+															18:00														</p>
+													</div>
+												</div>
+											</td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>13:00</td>
+
+											<td rowspan="3" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Snack Exchange"
+														data-description="Thank you all for coming to our Vegas All You Can Eat Buffet. We shall present to you a great variety of our finest delicacies coming to you from all over the world. Walk around, savour in the soothing scents of dishes and drinks and drown yourselves in decadence!
+"
+														data-duration="13:00 - 14:30"
+														data-background=""
+													>
+													<p class="bold fs--14">Snack Exchange</p>
+														<p class="fs--12">
+															13:00															-
+															14:30														</p>
+													</div>
+												</div>
+											</td>
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>14:00</td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+											<td rowspan="6" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Dealers' Den"
+														data-description=""
+														data-duration="14:30 - 17:30"
+														data-background=""
+													>
+													<p class="bold fs--14">Dealers' Den</p>
+														<p class="fs--12">
+															14:30															-
+															17:30														</p>
+													</div>
+												</div>
+											</td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>15:00</td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td rowspan="2" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Charity - A Home for the Belgian Beaver"
+														data-description="This year and for the first time, we are excited to announce our partnership with Natagora (more info about them in the conbook)! We invite you to a little presentation of the beaver haven they're creating followed by a Q&amp;A session. Donations welcome!"
+														data-duration="15:30 - 16:30"
+														data-background=""
+													>
+													<p class="bold fs--14">Charity - A Home for the Belgian Beaver</p>
+														<p class="fs--12">
+															15:30															-
+															16:30														</p>
+													</div>
+												</div>
+											</td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>16:00</td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>17:00</td>
+
+											<td></td>
+											<td rowspan="3" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Enter the art of Anthro"
+														data-description="Always wanted to start drawing furries, but don't know how to? This panel is for entrance-level, upcoming artists. We'll cover the absolute basics as simply as possible. Starting from human and animal forms I will show a few simple techniques on how to draw anthro art. Every fur can draw, try it with me! Hosted by Fyn
+"
+														data-duration="17:00 - 18:30"
+														data-background=""
+													>
+													<p class="bold fs--14">Enter the art of Anthro</p>
+														<p class="fs--12">
+															17:00															-
+															18:30														</p>
+													</div>
+												</div>
+											</td>
+											<td rowspan="6" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Photoshoot"
+														data-description=""
+														data-duration="17:00 - 20:00"
+														data-background=""
+													>
+													<p class="bold fs--14">Photoshoot</p>
+														<p class="fs--12">
+															17:00															-
+															20:00														</p>
+													</div>
+												</div>
+											</td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>18:00</td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>19:00</td>
+
+											<td></td>
+											<td rowspan="3" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Coffeeeeee"
+														data-description="Late night coffee with Laddian, Jazz, and some different types, tastes and types of making coffee, as well as a guided explanation to what can be expected! Hosted by Laddian
+"
+														data-duration="19:00 - 20:30"
+														data-background=""
+													>
+													<p class="bold fs--14">Coffeeeeee</p>
+														<p class="fs--12">
+															19:00															-
+															20:30														</p>
+													</div>
+												</div>
+											</td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+											<td rowspan="13" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Bar"
+														data-description=""
+														data-duration="19:30 - 2:00"
+														data-background=""
+													>
+													<p class="bold fs--14">Bar</p>
+														<p class="fs--12">
+															19:30															-
+															2:00														</p>
+													</div>
+												</div>
+											</td>
+								</tr>
+									<tr>
+										<td>20:00</td>
+
+											<td rowspan="3" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Fursuit Charades 2.0"
+														data-description="Show, not tell. Use your paws and tail to explain to us the word you are given! If you are successful in this 2.0 charade of fortune, you might even proceed to the grand finale. The Charades will be held in two runs, to allow more fursuiters to compete. "
+														data-duration="20:00 - 21:30"
+														data-background=""
+													>
+													<p class="bold fs--14">Fursuit Charades 2.0</p>
+														<p class="fs--12">
+															20:00															-
+															21:30														</p>
+													</div>
+												</div>
+											</td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>21:00</td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td rowspan="3" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Fursuit Charades 2.0 - Run 2"
+														data-description="Show, not tell. Use your paws and tail to explain to us the word you are given! If you are successful in this 2.0 charade of fortune, you might even proceed to the grand finale. The Charades will be held in two runs, to allow more fursuiters to compete. "
+														data-duration="21:30 - 23:00"
+														data-background=""
+													>
+													<p class="bold fs--14">Fursuit Charades 2.0 - Run 2</p>
+														<p class="fs--12">
+															21:30															-
+															23:00														</p>
+													</div>
+												</div>
+											</td>
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>22:00</td>
+
+											<td rowspan="6" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Blood on the Clocktower"
+														data-description="A bluffing game in the style of Werewolves or Mafia, but as everyone has a unique role, and participates even after death, it's a guaranteed fun time for everyone fond of being sus. Hosted by Kano"
+														data-duration="22:00 - 1:00"
+														data-background=""
+													>
+													<p class="bold fs--14">Blood on the Clocktower</p>
+														<p class="fs--12">
+															22:00															-
+															1:00														</p>
+													</div>
+												</div>
+											</td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>23:00</td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>0:00</td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>1:00</td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+							</tbody>
+						</table>
+						<table class="schedule__table hide" data-day="Day-4">
+							<thead>
+								<tr>
+									<th></th>
+										<th>Mainstage</th>
+										<th>Panel Room</th>
+										<th>Dealers' Den</th>
+										<th>Fursuit Lounge</th>
+										<th>Mainstage Mezanine</th>
+										<th>Bar</th>
+								</tr>
+							</thead>
+							<tbody>
+									<tr>
+										<td>10:00</td>
+
+											<td></td>
+											<td rowspan="3" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Advanced Animatronics Adventures"
+														data-description="You got the style, you got the bling, you got the Fl&uuml;&uuml;fff. You want to roar it from the roof tops, let the whole wide world hear your name! &hellip; Er, right. Got to do something about that costume voice. Rather too many unspeakable acts of questionable science later, there&rsquo;s progress! And a cow for some reason&hellip; Hosted by Floere
+"
+														data-duration="10:00 - 11:30"
+														data-background=""
+													>
+													<p class="bold fs--14">Advanced Animatronics Adventures</p>
+														<p class="fs--12">
+															10:00															-
+															11:30														</p>
+													</div>
+												</div>
+											</td>
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td rowspan="4" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Dealers' Den"
+														data-description=""
+														data-duration="10:30 - 12:30"
+														data-background=""
+													>
+													<p class="bold fs--14">Dealers' Den</p>
+														<p class="fs--12">
+															10:30															-
+															12:30														</p>
+													</div>
+												</div>
+											</td>
+											<td rowspan="31" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Fursuit Lounge"
+														data-description=""
+														data-duration="10:30 - 2:00"
+														data-background=""
+													>
+													<p class="bold fs--14">Fursuit Lounge</p>
+														<p class="fs--12">
+															10:30															-
+															2:00														</p>
+													</div>
+												</div>
+											</td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>11:00</td>
+
+											<td></td>
+											<td rowspan="2" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Christian Furs Panel"
+														data-description="This panel is supposed as a small cozy meeting. The main idea is to just get to know each other and talk a bit about stuff that comes up. Everyone is welkom. Just drop by (^.^) Hosted by Nimalen"
+														data-duration="11:00 - 12:00"
+														data-background=""
+													>
+													<p class="bold fs--14">Christian Furs Panel</p>
+														<p class="fs--12">
+															11:00															-
+															12:00														</p>
+													</div>
+												</div>
+											</td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>12:00</td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>13:00</td>
+
+											<td rowspan="2" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Group Picture"
+														data-description="Immortalise this moment of fame, fortune and phantasm in the one and only casino (over-)run by furries. "
+														data-duration="13:00 - 14:00"
+														data-background=""
+													>
+													<p class="bold fs--14">Group Picture</p>
+														<p class="fs--12">
+															13:00															-
+															14:00														</p>
+													</div>
+												</div>
+											</td>
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>14:00</td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
+											<td rowspan="8" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Bar"
+														data-description=""
+														data-duration="14:00 - 18:00"
+														data-background=""
+													>
+													<p class="bold fs--14">Bar</p>
+														<p class="fs--12">
+															14:00															-
+															18:00														</p>
+													</div>
+												</div>
+											</td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>15:00</td>
+
+											<td></td>
+											<td rowspan="3" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Intensitea"
+														data-description="Need a break from the events, just a calm moment to drink a cup of tea? During this panel, Stan Luckbun and Lezari Astera will provide you with some soothing, intense &lsquo;tea&rsquo;. Well, actually they will be more of herbal and fruity infusions! As Lezari tells you more about these infusions, Stan will pour you the finest tea you&rsquo;ve had till now. Hosted by Lezari
+-Note: Both Intensitea Panels are the same, this is done to make sure more people can enjoy this panel-
+"
+														data-duration="15:00 - 16:30"
+														data-background=""
+													>
+													<p class="bold fs--14">Intensitea</p>
+														<p class="fs--12">
+															15:00															-
+															16:30														</p>
+													</div>
+												</div>
+											</td>
+											<td rowspan="5" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Dealers' Den"
+														data-description=""
+														data-duration="15:00 - 17:30"
+														data-background=""
+													>
+													<p class="bold fs--14">Dealers' Den</p>
+														<p class="fs--12">
+															15:00															-
+															17:30														</p>
+													</div>
+												</div>
+											</td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>16:00</td>
+
+											<td></td>
+											<td rowspan="6" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Photoshoot"
+														data-description=""
+														data-duration="16:00 - 19:00"
+														data-background=""
+													>
+													<p class="bold fs--14">Photoshoot</p>
+														<p class="fs--12">
+															16:00															-
+															19:00														</p>
+													</div>
+												</div>
+											</td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td rowspan="3" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Intensitea - Run 2"
+														data-description="Need a break from the events, just a calm moment to drink a cup of tea? During this panel, Stan Luckbun and Lezari Astera will provide you with some soothing, intense &lsquo;tea&rsquo;. Well, actually they will be more of herbal and fruity infusions! As Lezari tells you more about these infusions, Stan will pour you the finest tea you&rsquo;ve had till now. Hosted by Lezari
+-Note: Both Intensitea Panels are the same, this is done to make sure more people can enjoy this panel-"
+														data-duration="16:30 - 18:00"
+														data-background=""
+													>
+													<p class="bold fs--14">Intensitea - Run 2</p>
+														<p class="fs--12">
+															16:30															-
+															18:00														</p>
+													</div>
+												</div>
+											</td>
+								</tr>
+									<tr>
+										<td>17:00</td>
+
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td rowspan="2" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Roll the Dice"
+														data-description="Having a hard time getting acquainted with people? Looking for excuses to strike a conversation, but fear you will look awkward? Maybe you even want to look awkward for an hour? Then this is the perfect event for you: improvisation and conversation games are the way to go! Hosted by Tach"
+														data-duration="17:30 - 18:30"
+														data-background=""
+													>
+													<p class="bold fs--14">Roll the Dice</p>
+														<p class="fs--12">
+															17:30															-
+															18:30														</p>
+													</div>
+												</div>
+											</td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>18:00</td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>19:00</td>
+
+											<td></td>
+											<td rowspan="4" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Ace of speed, King of RNG"
+														data-description="Let&rsquo;s talk about speed, RNG Manipulation, pixel and sub pixel! Welcome to the world of speedrunning, where the game of your childhood gets destroyed. Glitched or Glitchless, there is flavor for everyone! Hosted by Raug Dae"
+														data-duration="19:00 - 21:00"
+														data-background=""
+													>
+													<p class="bold fs--14">Ace of speed, King of RNG</p>
+														<p class="fs--12">
+															19:00															-
+															21:00														</p>
+													</div>
+												</div>
+											</td>
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+											<td rowspan="14" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Bar"
+														data-description=""
+														data-duration="19:30 - 2:30"
+														data-background=""
+													>
+													<p class="bold fs--14">Bar</p>
+														<p class="fs--12">
+															19:30															-
+															2:30														</p>
+													</div>
+												</div>
+											</td>
+								</tr>
+									<tr>
+										<td>20:00</td>
+
+											<td rowspan="3" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="DiscoFox as the Joker Card"
+														data-description="Wanna dance with somebody? Have no control over the music? Well, this dance is perfect for you then, as you can actually dance it on pretty every song (with a little bit of fantasy). You can kinda see it as a joker card, as it fits everywhere! You can dance it slow or fast, big or small, drunk or sober. Hosted by Nimalen"
+														data-duration="20:00 - 21:30"
+														data-background=""
+													>
+													<p class="bold fs--14">DiscoFox as the Joker Card</p>
+														<p class="fs--12">
+															20:00															-
+															21:30														</p>
+													</div>
+												</div>
+											</td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>21:00</td>
+
+											<td rowspan="5" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Boardgames"
+														data-description=""
+														data-duration="21:00 - 23:30"
+														data-background=""
+													>
+													<p class="bold fs--14">Boardgames</p>
+														<p class="fs--12">
+															21:00															-
+															23:30														</p>
+													</div>
+												</div>
+											</td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>22:00</td>
+
+											<td rowspan="8" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Jackpot Beats: Going All-In On the Dancefloor"
+														data-description="7-7-7, Are you the lucky one on the dancefloor tonight? Or are you still waiting for your moment to shine? Show us your dance moves in Fl&uuml;&uuml;fff&rsquo;s Fur-Dance. This edition with more music variety to make this a night to remember. 
+"
+														data-duration="22:00 - 2:00"
+														data-background=""
+													>
+													<p class="bold fs--14">Jackpot Beats: Going All-In On the Dancefloor</p>
+														<p class="fs--12">
+															22:00															-
+															2:00														</p>
+													</div>
+												</div>
+											</td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>23:00</td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>0:00</td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>1:00</td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>2:00</td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+							</tbody>
+						</table>
+						<table class="schedule__table hide" data-day="Day-5">
+							<thead>
+								<tr>
+									<th></th>
+										<th>Mainstage</th>
+										<th>Panel Room</th>
+										<th>Dealers' Den</th>
+										<th>Fursuit Lounge</th>
+										<th>Bar</th>
+								</tr>
+							</thead>
+							<tbody>
+									<tr>
+										<td>10:00</td>
+
+											<td></td>
+											<td rowspan="6" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Brew It Yourself - A panel about homemade beer"
+														data-description="Do you like Belgian Beer? Because we do! And we propose to introduce you to a delicious and fascinating hobby : homebrewing. We&rsquo;ll have a presentation about the beer style we decided to showcase this year : the Belgian Saison, present some of the tools used and have a little tasting! Hosted by Stan 
+-Note: Both Brew It Yourself Panels are the same, this is done to make sure more people can enjoy this panel-"
+														data-duration="10:00 - 13:00"
+														data-background=""
+													>
+													<p class="bold fs--14">Brew It Yourself - A panel about homemade beer</p>
+														<p class="fs--12">
+															10:00															-
+															13:00														</p>
+													</div>
+												</div>
+											</td>
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td rowspan="4" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Dealers' Den"
+														data-description=""
+														data-duration="10:30 - 12:30"
+														data-background=""
+													>
+													<p class="bold fs--14">Dealers' Den</p>
+														<p class="fs--12">
+															10:30															-
+															12:30														</p>
+													</div>
+												</div>
+											</td>
+											<td rowspan="31" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Fursuit Lounge"
+														data-description=""
+														data-duration="10:30 - 2:00"
+														data-background=""
+													>
+													<p class="bold fs--14">Fursuit Lounge</p>
+														<p class="fs--12">
+															10:30															-
+															2:00														</p>
+													</div>
+												</div>
+											</td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>11:00</td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>12:00</td>
+
+											<td rowspan="4" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Fursuit Games"
+														data-description="Skip the poker, come join us for our beloved fursuit games!. Suiters will engage in a friendly competition among various games that test their wits, skills and agility. Make sure to join if you want to partake in some fun fursuit friendly games!"
+														data-duration="12:00 - 14:00"
+														data-background=""
+													>
+													<p class="bold fs--14">Fursuit Games</p>
+														<p class="fs--12">
+															12:00															-
+															14:00														</p>
+													</div>
+												</div>
+											</td>
+											<td rowspan="12" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Bar"
+														data-description=""
+														data-duration="12:00 - 18:00"
+														data-background=""
+													>
+													<p class="bold fs--14">Bar</p>
+														<p class="fs--12">
+															12:00															-
+															18:00														</p>
+													</div>
+												</div>
+											</td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+								</tr>
+									<tr>
+										<td>13:00</td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>14:00</td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td rowspan="2" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Furry Femmes"
+														data-description="There are many things to celebrate, but today we shall celebrate female furries in our flourishing community. We invite several speakers that will share with us what they do in the community and how their gender and appearance affects this. Hosted by Lezari
+"
+														data-duration="14:30 - 15:30"
+														data-background=""
+													>
+													<p class="bold fs--14">Furry Femmes</p>
+														<p class="fs--12">
+															14:30															-
+															15:30														</p>
+													</div>
+												</div>
+											</td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>15:00</td>
+
+											<td></td>
+											<td rowspan="5" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Dealers' Den"
+														data-description=""
+														data-duration="15:00 - 17:30"
+														data-background=""
+													>
+													<p class="bold fs--14">Dealers' Den</p>
+														<p class="fs--12">
+															15:00															-
+															17:30														</p>
+													</div>
+												</div>
+											</td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>16:00</td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td rowspan="4" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Return the Crown"
+														data-description="A group of six players will run through a dangerous dungeon which only appears once every 25 years! Bring back the crown to the Deep Queen, or more likely die trying.
+"
+														data-duration="16:30 - 18:30"
+														data-background=""
+													>
+													<p class="bold fs--14">Return the Crown</p>
+														<p class="fs--12">
+															16:30															-
+															18:30														</p>
+													</div>
+												</div>
+											</td>
+								</tr>
+									<tr>
+										<td>17:00</td>
+
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>18:00</td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>19:00</td>
+
+											<td></td>
+											<td rowspan="3" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Climate chat with Norr"
+														data-description="Climate change is a topic that comes more and more to the forefront, and with that come questions, concerns, and sometimes even feelings of loss, panic, or doom. What should we be worried about? What can be done? What are efficient actions? How are y'all feeling? At this panel you'll get some information, but also a chill conversation. Hosted by Norr"
+														data-duration="19:00 - 20:30"
+														data-background=""
+													>
+													<p class="bold fs--14">Climate chat with Norr</p>
+														<p class="fs--12">
+															19:00															-
+															20:30														</p>
+													</div>
+												</div>
+											</td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+											<td rowspan="6" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Bar"
+														data-description=""
+														data-duration="19:30 - 22:30"
+														data-background=""
+													>
+													<p class="bold fs--14">Bar</p>
+														<p class="fs--12">
+															19:30															-
+															22:30														</p>
+													</div>
+												</div>
+											</td>
+								</tr>
+									<tr>
+										<td>20:00</td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>21:00</td>
+
+											<td rowspan="6" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="SHOWNIGHT EXTRAVAGANZA"
+														data-description="In 2019 we surprised you with a runway, this edition we will take all the covers off. We will put the extra in extravaganza. Join us on this night of laughter, music and showmanship to make this one night to remember. The curtain shall fall for Fl&uuml;&uuml;fff 2021 after our closing ceremony. Be there. Don&rsquo;t miss it. 
+
+No really. Don&rsquo;t. We&rsquo;ll even have an encore. "
+														data-duration="21:00 - 0:00"
+														data-background=""
+													>
+													<p class="bold fs--14">SHOWNIGHT EXTRAVAGANZA</p>
+														<p class="fs--12">
+															21:00															-
+															0:00														</p>
+													</div>
+												</div>
+											</td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>22:00</td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>23:00</td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+											<td rowspan="6" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Bar"
+														data-description=""
+														data-duration="23:30 - 2:30"
+														data-background=""
+													>
+													<p class="bold fs--14">Bar</p>
+														<p class="fs--12">
+															23:30															-
+															2:30														</p>
+													</div>
+												</div>
+											</td>
+								</tr>
+									<tr>
+										<td>0:00</td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td rowspan="4" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Blood on the Clocktower"
+														data-description="A bluffing game in the style of Werewolves or Mafia, but as everyone has a unique role, and participates even after death, it's a guaranteed fun time for everyone fond of being sus. Hosted by Kano"
+														data-duration="0:30 - 2:30"
+														data-background=""
+													>
+													<p class="bold fs--14">Blood on the Clocktower</p>
+														<p class="fs--12">
+															0:30															-
+															2:30														</p>
+													</div>
+												</div>
+											</td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>1:00</td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>2:00</td>
+
+											<td></td>
+											<td></td>
+											<td></td>
+								</tr>
+							</tbody>
+						</table>
+						<table class="schedule__table hide" data-day="Day-6">
+							<thead>
+								<tr>
+									<th></th>
+										<th>Panel Room</th>
+										<th>Fursuit Lounge</th>
+										<th>Bar</th>
+								</tr>
+							</thead>
+							<tbody>
+									<tr>
+										<td></td>
+
+											<td rowspan="2" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Feedback Panel"
+														data-description="During this panel we would like to hear from you what we could improve for future editions but of course also what we should keep. We&rsquo;ll talk about the events, the organisation, decoration etc. We will talk about various topics during this panel, but feel free to join anytime! Hosted by Lezari"
+														data-duration="9:30 - 10:30"
+														data-background=""
+													>
+													<p class="bold fs--14">Feedback Panel</p>
+														<p class="fs--12">
+															9:30															-
+															10:30														</p>
+													</div>
+												</div>
+											</td>
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>10:00</td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td rowspan="31" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Fursuit Lounge"
+														data-description=""
+														data-duration="10:30 - 2:00"
+														data-background=""
+													>
+													<p class="bold fs--14">Fursuit Lounge</p>
+														<p class="fs--12">
+															10:30															-
+															2:00														</p>
+													</div>
+												</div>
+											</td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>11:00</td>
+
+											<td rowspan="3" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Yardsale"
+														data-description="As a self-respecting Casino Resort, we too have some ways to help you get rid of your last chips. Our Sunday morning yardsale is a perfect opportunity to buy everything you desperately want. "
+														data-duration="11:00 - 12:30"
+														data-background=""
+													>
+													<p class="bold fs--14">Yardsale</p>
+														<p class="fs--12">
+															11:00															-
+															12:30														</p>
+													</div>
+												</div>
+											</td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+								</tr>
+									<tr>
+										<td>12:00</td>
+
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>13:00</td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>14:00</td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>15:00</td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>16:00</td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>17:00</td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>18:00</td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>19:00</td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>20:00</td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+											<td></td>
+								</tr>
+									<tr>
+										<td>21:00</td>
+
+											<td></td>
+											<td rowspan="10" colspan="1" class="schedule__table__event-wrapper">
+												<div
+													class="schedule__table__event-container schedule__table__event-container--scheduled"
+													style="height: 100%"
+												>
+													<div class="schedule__table__event-indicator"></div>
+													<div
+														class="schedule__table__event color--white"
+														data-name="Nearly-Dead Beaver Party"
+														data-description="I&rsquo;m sure the bar has some leftover booze right? The con is almost over, but the fun isn&rsquo;t! Join us one last time in drinking a cocktail, a beer or something else. "
+														data-duration="21:00 - 2:00"
+														data-background=""
+													>
+													<p class="bold fs--14">Nearly-Dead Beaver Party</p>
+														<p class="fs--12">
+															21:00															-
+															2:00														</p>
+													</div>
+												</div>
+											</td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+								</tr>
+									<tr>
+										<td>22:00</td>
+
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+								</tr>
+									<tr>
+										<td>23:00</td>
+
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+								</tr>
+									<tr>
+										<td>0:00</td>
+
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+								</tr>
+									<tr>
+										<td>1:00</td>
+
+											<td></td>
+								</tr>
+									<tr>
+										<td></td>
+
+											<td></td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="activities-general-facilities p-ends-4x bg--primary color--white">
+		<div class="container p-ends-1x tablet-p:p-ends-0x">
+			<div class="row">
+				<div class="col-1 hide@2">
+				</div>
+				<div class="col-10 col-12@2">
+					<h2 class="block fs--50 lnh-150 m-b-2x">
+						General Conveniences					</h2>
+					<div class="row">
+						<div class="col-3 col-6@2 col-12@1">
+							<div
+								class="m-b-1x bg activities-general-facilities__image"
+								style="background: url('https://2021.fluufff.org/website/assets/images/events/lounge.jpg') center center; background-size: cover;"
+								alt="Fursuit lounge"
+							></div>
+							<h3 class="fs--30 bold m-b-1x">Fursuit lounge</h3>
+							<p class="desc fs--16 m-b-1.5x">
+								Hellcharm and her team welcome you and your costume in a very convenient lounge. Fans will help you cool off and the mighty Garuda (a contraption created by Orthank) will dry your fursuit in the blink of an eye! Refreshments, small snacks and even a little repair station are available for all fursuiters.							</p>
+						</div>
+						<div class="col-3 col-6@2 col-12@1">
+							<div
+								class="m-b-1x  bg activities-general-facilities__image"
+								style="background: url('https://2021.fluufff.org/website/assets/images/events/dd.jpg') center center; background-size: cover;"
+								alt="Dealers' den"
+							></div>
+							<h3 class="fs--30 bold m-b-1x">Dealers' den</h3>
+							<p class="desc fs--16 m-b-1.5x">
+								Come discover the work of talented artists and artisans, a must go if you’re planning on bringing back a unique souvenir or would like to commission a piece. Zepto welcomes you in his den, the Dealers Den! A place of creativity that showcases the soul of our fandom; its creators!							</p>
+						</div>
+						<div class="col-3 col-6@2 col-12@1">
+							<div
+								class="m-b-1x bg activities-general-facilities__image"
+								style="background: url('https://2021.fluufff.org/website/assets/images/events/bar.jpg') center center; background-size: cover;"
+								alt="Bar"
+							></div>
+							<h3 class="fs--30 bold m-b-1x">Bar</h3>
+							<p class="desc fs--16 m-b-1.5x">
+								Convention life can be crazy and busy but one should always make time for a drink and a nice conversation in good company. Amaroq and his bartenders quench your thirst with fresh drinks, certified Belgian beers and cocktails made with love!							</p>
+						</div>
+						<div class="col-3 col-6@2 col-12@1">
+							<div
+								class="m-b-1x bg activities-general-facilities__image"
+								style="background: url('https://2021.fluufff.org/website/assets/images/events/breakfast.jpg') center center; background-size: cover;"
+								alt="Breakfast"
+							></div>
+							<h3 class="fs--30 bold m-b-1x">Breakfast</h3>
+							<p class="desc fs--16 m-b-1.5x">
+								Start the day with a happy and full stomach by visiting the hotel’s breakfast buffet! Time to get the energy you need to enjoy the convention to its fullest.							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="activities-schedule-otg p-ends-4x">
+		<div class="container p-ends-2x tablet-p:p-ends-0x">
+			<div class="row">
+				<div class="col-1 hide@2">
+				</div>
+				<div class="col-5 hide@2">
+					<img class="activities-schedule-app-image" src="https://2021.fluufff.org/website/assets/images/events/app.png">
+				</div>
+				<div class="col-5 col-12@2">
+					<h2 class="block fs--50 m-b-1x">
+						Schedule on the go					</h2>
+					<p class="desc fs--16 m-b-2x">
+						We have a handy app for you. You can now have the schedule and some basic convention info in your pocket whether you are using an Android phone or an Apple phone!					</p>
+					<a target="_blank" href="https://play.google.com/store/apps/details?id=org.fluufff.mobile" title="Play Store" class="resetlink inline-block fs--18 bold color--white bg--primary hover-bg--darkprimary p-ends-0.5x p-sides-0.5x m-r-0.25x">
+						Play Store					</a>
+					<a target="_blank" href="https://apps.apple.com/be/app/fluufff-companion-app/id1282968351" title="App Store" class="resetlink inline-block fs--18 bold color--white bg--primary hover-bg--darkprimary p-ends-0.5x p-sides-0.5x m-r-0.25x">
+						App Store					</a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="slider-section">
+		<div class="glide">
+			<div class="glide__track" data-glide-el="track">
+				<ul class="glide__slides">
+					<li class="glide__slide">
+						<div style="background-image: url('https://2021.fluufff.org/website/assets/images/events/slider/3.jpg');"></div>
+					</li>
+					<li class="glide__slide">
+						<div style="background-image: url('https://2021.fluufff.org/website/assets/images/events/slider/2.jpg');"></div>
+					</li>
+					<li class="glide__slide">
+						<div style="background-image: url('https://2021.fluufff.org/website/assets/images/events/slider/1.jpg');"></div>
+					</li>
+					<li class="glide__slide">
+						<div style="background-image: url('https://2021.fluufff.org/website/assets/images/events/slider/4.jpg');"></div>
+					</li>
+					<li class="glide__slide">
+						<div style="background-image: url('https://2021.fluufff.org/website/assets/images/events/slider/5.jpg');"></div>
+					</li>
+				</ul>
+				<div class="glide__bullets" data-glide-el="controls[nav]">
+					<button class="glide__bullet" data-glide-dir="0"></button>
+					<button class="glide__bullet" data-glide-dir="1"></button>
+					<button class="glide__bullet" data-glide-dir="2"></button>
+					<button class="glide__bullet" data-glide-dir="3"></button>
+					<button class="glide__bullet" data-glide-dir="4"></button>
+				</div>
+				<div class="glide__arrows" data-glide-el="controls">
+					<button class="glide__arrow glide__arrow--left" data-glide-dir="<"><i class="fas fa-angle-left"></i></button>
+					<button class="glide__arrow glide__arrow--right" data-glide-dir=">"><i class="fas fa-angle-right"></i></button>
+				</div>
+			</div>
+		</div>
+	</section>
+</main>
+<!--  -->
+		<footer class="footer bg--primary color--white ta--center">
+			<div class="container">
+				<div class="row p-b-2x">
+					<div class="col-4 col-12@3 footer-part">
+						<span class="block fs--24 vag bold tt--uc m-b-1x">
+							Opening						</span>
+						<span class="block fs--16 m-b-0.25x p-t-0.5x">
+							<strong>10th</strong> to the <strong>14th</strong> of November 2021						</span>
+					</div>
+					<div class="col-4 col-12@3 footer-part">
+						<span class="block fs--24 vag bold tt--uc m-b-1x">
+							Follow us						</span>
+						<div class="flex flex-justify-center flex-wrap socials p-b-0.5x">
+							<a target="_blank" href="https://twitter.com/FluufffCon" class="resetlink color--primary bg--white hover-bg--darkprimary hover-color--white fs--24 socials__item" title="Twitter">
+								<i class="fab fa-twitter"></i>
+							</a>
+							<a target="_blank" href="http://www.furaffinity.net/user/fluufff/" class="resetlink color--primary bg--white hover-bg--darkprimary hover-color--white fs--24 socials__item" title="Furaffinity">
+								<i class="fas fa-paw"></i>
+							</a>
+							<a target="_blank" href="https://www.facebook.com/fluufff/" class="resetlink color--primary bg--white hover-bg--darkprimary hover-color--white fs--24 socials__item" title="Facebook">
+								<i class="fab fa-facebook-f"></i>
+							</a>
+							<a target="_blank" href="https://beta.furrynetwork.com/fluufff/" class="resetlink color--primary bg--white hover-bg--darkprimary hover-color--white fs--24 socials__item" title="Furry Network">
+								<i class="fas fa-paw"></i>
+							</a>
+							<a target="_blank" href="https://t.me/fluufff_announcements" class="resetlink color--primary bg--white hover-bg--darkprimary hover-color--white fs--24 socials__item" title="Telegram">
+								<i class="fab fa-telegram-plane"></i>
+							</a>
+						</div>
+					</div>
+					<div class="col-4 col-12@3 footer-part">
+						<span class="block fs--24 vag bold tt--uc m-b-1x">
+							Contact us						</span>
+						<a href="https://2021.fluufff.org/contact" class="resetlink inline-block fs--16 lnh-150 m-t-0.5x color--white" title="Contact us">
+							Via the <span class="td--underline">contact form</span>						</a>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-12">
+						<span class="fs--12 color--white">
+							&copy;2024 - Flüüfff ABSL - All rights reserved. | <a href="https://2021.fluufff.org/terms#privacy" target="_blank" class="resetlink">Privacy</a>					| <a href="https://2021.fluufff.org/terms#terms" target="_blank" class="resetlink">Terms and Conditions</a>						</span>
+					</div>
+				</div>
+			</div>
+		</footer>
+					<div class="cookie-bar p-sides-0.5x p-ends-0.25x bg--white color--black flex flex-space-between flex-align-center tablet-ls:block">
+				<span>This site uses essential cookies, you can learn <a href="https://2021.fluufff.org/terms#privacy" target="_blank" class="color--primary">more about the cookies</a> used in our Privacy policies.</span>
+				<a href="https://2021.fluufff.org/activities?cookiesAccepted=true" class="resetlink cookielink inline-block fs--16 bold bg--primary color--white hover-bg--black p-ends-0.25x p-sides-0.5x  tablet-ls:block ta--center tablet-ls:m-t-0.5x">I understand</a>
+			</div>
+				<script src="https://2021.fluufff.org/website/assets/js/app.bundle.js"></script>
+			</body>
+	</html>
