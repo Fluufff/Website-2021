@@ -10,11 +10,11 @@
 	<meta property="og:type" content="website" />
 	<meta property="og:description" content="Welcome to Flüüfff's registration, a furry convention in Brussels, Belgium." />
 	<meta property="og:site_name" content="Profile  — Schedule" />
-	<meta property="og:image" content="https://2021.fluufff.org/assets/style/registration/img/og/open-graph.jpg">
+	<meta property="og:image" content="/assets/style/registration/img/og/open-graph.jpg">
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:title" content="Profile  — Schedule" />
 	<meta name="twitter:description" content="Welcome to Flüüfff's registration, a furry convention in Brussels, Belgium." />
-	<meta name="twitter:image" content="https://2021.fluufff.org/assets/style/registration/img/og/open-graph.jpg" />
+	<meta name="twitter:image" content="/assets/style/registration/img/og/open-graph.jpg" />
 	<meta itemprop="name" content="Profile  — Schedule" />
 	<meta itemprop="description" content="Welcome to Flüüfff's registration, a furry convention in Brussels, Belgium." />
 	<meta name="robots" content="index,follow,noodp,noydir" />
@@ -29,38 +29,38 @@
 	<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
 
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
-	<link rel="apple-touch-icon" sizes="180x180" href="https://2021.fluufff.org/assets/images/favicons/apple-touch-icon.png">
-	<link rel="icon" type="image/png" sizes="32x32" href="https://2021.fluufff.org/assets/images/favicons/favicon-32x32.png">
-	<link rel="icon" type="image/png" sizes="16x16" href="https://2021.fluufff.org/assets/images/favicons/favicon-16x16.png">
-	<link rel="manifest" href="https://2021.fluufff.org/assets/images/favicons/site.webmanifest">
-	<link rel="mask-icon" href="https://2021.fluufff.org/assets/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
-	<link rel="shortcut icon" href="https://2021.fluufff.org/assets/images/favicons/favicon.ico">
+	<link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/assets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/assets/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
+	<link rel="shortcut icon" href="/assets/images/favicons/favicon.ico">
 	<meta name="apple-mobile-web-app-title" content="Profile  — Schedule">
 	<meta name="application-name" content="Profile  — Schedule">
-	<meta name="msapplication-config" content="https://2021.fluufff.org/assets/images/favicons/browserconfig.xml">
+	<meta name="msapplication-config" content="/assets/images/favicons/browserconfig.xml">
 	<meta name="theme-color" content="#1d2435">
 
 	<link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
 
-	<link rel="stylesheet" type="text/css" href="https://2021.fluufff.org/assets/style/registration/reset.css">
-	<link rel="stylesheet" type="text/css" href="https://2021.fluufff.org/assets/style/registration/registration.css">
-	<link rel="stylesheet" type="text/css" href="https://2021.fluufff.org/website/assets/css/platyplus.css" />
+	<link rel="stylesheet" type="text/css" href="/assets/style/registration/reset.css">
+	<link rel="stylesheet" type="text/css" href="/assets/style/registration/registration.css">
+	<link rel="stylesheet" type="text/css" href="/website/assets/css/platyplus.css" />
 
 </head>
 <body>
 	<header class="registration-header">
 		<h1 class="registration-header__logo fs--22">
-			<a href="https://2021.fluufff.org/" class="resetlink text--white">Flüüfff</a> Registration		</h1>
+			<a href="/" class="resetlink text--white">Flüüfff</a> Registration		</h1>
 		<div class="nav">
 							<a href="https://fluufff.org" title="Website" class="resetlink otherlink text--white nav-item regular">
 					Website				</a>
-						<a href="https://2021.fluufff.org/profile/events" title="Schedule" class="resetlink otherlink text--white nav-item regular">
+						<a href="/profile/events" title="Schedule" class="resetlink otherlink text--white nav-item regular">
 				Schedule			</a>
-			<a href="https://2021.fluufff.org/attendees/stats" title="Stats" class="resetlink otherlink text--white nav-item regular">
+			<a href="/attendees/stats" title="Stats" class="resetlink otherlink text--white nav-item regular">
 				Stats			</a>
-			<a href="https://2021.fluufff.org/attendees" title="Attendees" class="resetlink otherlink text--white nav-item regular">
+			<a href="/attendees" title="Attendees" class="resetlink otherlink text--white nav-item regular">
 				Attendees			</a>
-			<a href="https://2021.fluufff.org/profile/login?from=register" title="Log in" class="resetlink otherlink text--white nav-item regular">
+			<a href="/profile/login?from=register" title="Log in" class="resetlink otherlink text--white nav-item regular">
 				Login			</a>
 
 		</div>
@@ -95,9 +95,9 @@
 <tr>
 <td id="eventTime:1636486200"><span>19:30</span></td>
 <td rowspan="30" colspan="1" class="IsEvent" id="eventId:1">
-<a href="https://2021.fluufff.org/profile/events#description:17">Bar</a><br>
+<a href="/profile/events#description:17">Bar</a><br>
 19:30 - 3:00<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/1?from=profile/events&amp;for=1636486200" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/1?from=profile/events&amp;for=1636486200" title="Attend" class="empty_star">☆</a></span></td>
 </tr>
 <tr>
 <td id="eventTime:1636487100"><span>19:45</span></td>
@@ -210,9 +210,9 @@
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="20" colspan="1" class="IsEvent" id="eventId:7">
-<a href="https://2021.fluufff.org/profile/events#description:17">Bar</a><br>
+<a href="/profile/events#description:17">Bar</a><br>
 12:00 - 17:00<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/7?from=profile/events&amp;for=1636545600" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/7?from=profile/events&amp;for=1636545600" title="Attend" class="empty_star">☆</a></span></td>
 </tr>
 <tr>
 <td id="eventTime:1636546500"><span>12:15</span></td>
@@ -246,9 +246,9 @@
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="52" colspan="1" class="IsEvent" id="eventId:5">
-<a href="https://2021.fluufff.org/profile/events#description:33">Fursuit Lounge</a><br>
+<a href="/profile/events#description:33">Fursuit Lounge</a><br>
 13:00 - 2:00<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/5?from=profile/events&amp;for=1636549200" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/5?from=profile/events&amp;for=1636549200" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 </tr>
@@ -360,9 +360,9 @@
 <tr>
 <td id="eventTime:1636563600"><span>17:00</span></td>
 <td rowspan="4" colspan="1" class="IsEvent" id="eventId:2">
-<a href="https://2021.fluufff.org/profile/events#description:1">Opening Ceremony</a><br>
+<a href="/profile/events#description:1">Opening Ceremony</a><br>
 17:00 - 18:00<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/2?from=profile/events&amp;for=1636563600" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/2?from=profile/events&amp;for=1636563600" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="1" colspan="1" id="eventId:">
@@ -450,9 +450,9 @@
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="24" colspan="1" class="IsEvent" id="eventId:8">
-<a href="https://2021.fluufff.org/profile/events#description:17">Bar</a><br>
+<a href="/profile/events#description:17">Bar</a><br>
 19:30 - 1:30<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/8?from=profile/events&amp;for=1636572600" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/8?from=profile/events&amp;for=1636572600" title="Attend" class="empty_star">☆</a></span></td>
 </tr>
 <tr>
 <td id="eventTime:1636573500"><span>19:45</span></td>
@@ -464,9 +464,9 @@
 <tr>
 <td id="eventTime:1636574400"><span>20:00</span></td>
 <td rowspan="4" colspan="1" class="IsEvent" id="eventId:3">
-<a href="https://2021.fluufff.org/profile/events#description:2">My First Furcon</a><br>
+<a href="/profile/events#description:2">My First Furcon</a><br>
 20:00 - 21:00<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/3?from=profile/events&amp;for=1636574400" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/3?from=profile/events&amp;for=1636574400" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 </tr>
@@ -502,9 +502,9 @@
 <tr>
 <td id="eventTime:1636579800"><span>21:30</span></td>
 <td rowspan="6" colspan="1" class="IsEvent" id="eventId:4">
-<a href="https://2021.fluufff.org/profile/events#description:3">Cheese and Wine</a><br>
+<a href="/profile/events#description:3">Cheese and Wine</a><br>
 21:30 - 23:00<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/4?from=profile/events&amp;for=1636579800" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/4?from=profile/events&amp;for=1636579800" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 </tr>
@@ -552,9 +552,9 @@
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="8" colspan="1" class="IsEvent" id="eventId:6">
-<a href="https://2021.fluufff.org/profile/events#description:5">Return the Crown</a><br>
+<a href="/profile/events#description:5">Return the Crown</a><br>
 23:30 - 1:30<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/6?from=profile/events&amp;for=1636587000" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/6?from=profile/events&amp;for=1636587000" title="Attend" class="empty_star">☆</a></span></td>
 </tr>
 <tr>
 <td id="eventTime:1636587900"><span>23:45</span></td>
@@ -637,9 +637,9 @@
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="10" colspan="1" class="IsEvent" id="eventId:20">
-<a href="https://2021.fluufff.org/profile/events#description:16">Photoshoot</a><br>
+<a href="/profile/events#description:16">Photoshoot</a><br>
 9:30 - 12:00<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/20?from=profile/events&amp;for=1636623000" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/20?from=profile/events&amp;for=1636623000" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 </tr>
@@ -661,9 +661,9 @@
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="12" colspan="1" class="IsEvent" id="eventId:13">
-<a href="https://2021.fluufff.org/profile/events#description:10">Brew It Yourself - A panel about homemade beer</a><br>
+<a href="/profile/events#description:10">Brew It Yourself - A panel about homemade beer</a><br>
 10:00 - 13:00<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/13?from=profile/events&amp;for=1636624800" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/13?from=profile/events&amp;for=1636624800" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="1" colspan="1" id="eventId:">
@@ -687,13 +687,13 @@
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="8" colspan="1" class="IsEvent" id="eventId:18">
-<a href="https://2021.fluufff.org/profile/events#description:15">Dealers' Den</a><br>
+<a href="/profile/events#description:15">Dealers' Den</a><br>
 10:30 - 12:30<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/18?from=profile/events&amp;for=1636626600" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/18?from=profile/events&amp;for=1636626600" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="62" colspan="1" class="IsEvent" id="eventId:58">
-<a href="https://2021.fluufff.org/profile/events#description:33">Fursuit Lounge</a><br>
+<a href="/profile/events#description:33">Fursuit Lounge</a><br>
 10:30 - 2:00<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/58?from=profile/events&amp;for=1636626600" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/58?from=profile/events&amp;for=1636626600" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 </tr>
@@ -739,9 +739,9 @@
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="24" colspan="1" class="IsEvent" id="eventId:22">
-<a href="https://2021.fluufff.org/profile/events#description:17">Bar</a><br>
+<a href="/profile/events#description:17">Bar</a><br>
 12:00 - 18:00<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/22?from=profile/events&amp;for=1636632000" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/22?from=profile/events&amp;for=1636632000" title="Attend" class="empty_star">☆</a></span></td>
 </tr>
 <tr>
 <td id="eventTime:1636632900"><span>12:15</span></td>
@@ -771,9 +771,9 @@
 <tr>
 <td id="eventTime:1636635600"><span>13:00</span></td>
 <td rowspan="6" colspan="1" class="IsEvent" id="eventId:9">
-<a href="https://2021.fluufff.org/profile/events#description:6">Snack Exchange</a><br>
+<a href="/profile/events#description:6">Snack Exchange</a><br>
 13:00 - 14:30<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/9?from=profile/events&amp;for=1636635600" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/9?from=profile/events&amp;for=1636635600" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="1" colspan="1" id="eventId:">
@@ -833,9 +833,9 @@
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="12" colspan="1" class="IsEvent" id="eventId:19">
-<a href="https://2021.fluufff.org/profile/events#description:15">Dealers' Den</a><br>
+<a href="/profile/events#description:15">Dealers' Den</a><br>
 14:30 - 17:30<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/19?from=profile/events&amp;for=1636641000" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/19?from=profile/events&amp;for=1636641000" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 </tr>
@@ -869,9 +869,9 @@
 <tr>
 <td id="eventTime:1636644600"><span>15:30</span></td>
 <td rowspan="4" colspan="1" class="IsEvent" id="eventId:10">
-<a href="https://2021.fluufff.org/profile/events#description:7">Charity - A Home for the Belgian Beaver</a><br>
+<a href="/profile/events#description:7">Charity - A Home for the Belgian Beaver</a><br>
 15:30 - 16:30<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/10?from=profile/events&amp;for=1636644600" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/10?from=profile/events&amp;for=1636644600" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="1" colspan="1" id="eventId:">
@@ -921,13 +921,13 @@
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="6" colspan="1" class="IsEvent" id="eventId:15">
-<a href="https://2021.fluufff.org/profile/events#description:12">Enter the art of Anthro</a><br>
+<a href="/profile/events#description:12">Enter the art of Anthro</a><br>
 17:00 - 18:30<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/15?from=profile/events&amp;for=1636650000" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/15?from=profile/events&amp;for=1636650000" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="12" colspan="1" class="IsEvent" id="eventId:21">
-<a href="https://2021.fluufff.org/profile/events#description:16">Photoshoot</a><br>
+<a href="/profile/events#description:16">Photoshoot</a><br>
 17:00 - 20:00<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/21?from=profile/events&amp;for=1636650000" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/21?from=profile/events&amp;for=1636650000" title="Attend" class="empty_star">☆</a></span></td>
 </tr>
 <tr>
 <td id="eventTime:1636650900"><span>17:15</span></td>
@@ -993,9 +993,9 @@
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="6" colspan="1" class="IsEvent" id="eventId:16">
-<a href="https://2021.fluufff.org/profile/events#description:13">Coffeeeeee</a><br>
+<a href="/profile/events#description:13">Coffeeeeee</a><br>
 19:00 - 20:30<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/16?from=profile/events&amp;for=1636657200" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/16?from=profile/events&amp;for=1636657200" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="1" colspan="1" id="eventId:">
@@ -1017,9 +1017,9 @@
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="26" colspan="1" class="IsEvent" id="eventId:23">
-<a href="https://2021.fluufff.org/profile/events#description:17">Bar</a><br>
+<a href="/profile/events#description:17">Bar</a><br>
 19:30 - 2:00<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/23?from=profile/events&amp;for=1636659000" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/23?from=profile/events&amp;for=1636659000" title="Attend" class="empty_star">☆</a></span></td>
 </tr>
 <tr>
 <td id="eventTime:1636659900"><span>19:45</span></td>
@@ -1031,9 +1031,9 @@
 <tr>
 <td id="eventTime:1636660800"><span>20:00</span></td>
 <td rowspan="6" colspan="1" class="IsEvent" id="eventId:11">
-<a href="https://2021.fluufff.org/profile/events#description:8">Fursuit Charades 2.0</a><br>
+<a href="/profile/events#description:8">Fursuit Charades 2.0</a><br>
 20:00 - 21:30<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/11?from=profile/events&amp;for=1636660800" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/11?from=profile/events&amp;for=1636660800" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="1" colspan="1" id="eventId:">
@@ -1085,9 +1085,9 @@
 <tr>
 <td id="eventTime:1636666200"><span>21:30</span></td>
 <td rowspan="6" colspan="1" class="IsEvent" id="eventId:47">
-<a href="https://2021.fluufff.org/profile/events#description:34">Fursuit Charades 2.0 - Run 2</a><br>
+<a href="/profile/events#description:34">Fursuit Charades 2.0 - Run 2</a><br>
 21:30 - 23:00<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/47?from=profile/events&amp;for=1636666200" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/47?from=profile/events&amp;for=1636666200" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="1" colspan="1" id="eventId:">
@@ -1107,9 +1107,9 @@
 <tr>
 <td id="eventTime:1636668000"><span>22:00</span></td>
 <td rowspan="12" colspan="1" class="IsEvent" id="eventId:17">
-<a href="https://2021.fluufff.org/profile/events#description:14">Blood on the Clocktower</a><br>
+<a href="/profile/events#description:14">Blood on the Clocktower</a><br>
 22:00 - 1:00<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/17?from=profile/events&amp;for=1636668000" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/17?from=profile/events&amp;for=1636668000" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="1" colspan="1" id="eventId:">
@@ -1274,9 +1274,9 @@
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="6" colspan="1" class="IsEvent" id="eventId:27">
-<a href="https://2021.fluufff.org/profile/events#description:21">Advanced Animatronics Adventures</a><br>
+<a href="/profile/events#description:21">Advanced Animatronics Adventures</a><br>
 10:00 - 11:30<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/27?from=profile/events&amp;for=1636711200" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/27?from=profile/events&amp;for=1636711200" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="1" colspan="1" id="eventId:">
@@ -1304,13 +1304,13 @@
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="8" colspan="1" class="IsEvent" id="eventId:31">
-<a href="https://2021.fluufff.org/profile/events#description:15">Dealers' Den</a><br>
+<a href="/profile/events#description:15">Dealers' Den</a><br>
 10:30 - 12:30<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/31?from=profile/events&amp;for=1636713000" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/31?from=profile/events&amp;for=1636713000" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="62" colspan="1" class="IsEvent" id="eventId:57">
-<a href="https://2021.fluufff.org/profile/events#description:33">Fursuit Lounge</a><br>
+<a href="/profile/events#description:33">Fursuit Lounge</a><br>
 10:30 - 2:00<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/57?from=profile/events&amp;for=1636713000" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/57?from=profile/events&amp;for=1636713000" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="1" colspan="1" id="eventId:">
@@ -1330,9 +1330,9 @@
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="4" colspan="1" class="IsEvent" id="eventId:51">
-<a href="https://2021.fluufff.org/profile/events#description:39">Christian Furs Panel</a><br>
+<a href="/profile/events#description:39">Christian Furs Panel</a><br>
 11:00 - 12:00<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/51?from=profile/events&amp;for=1636714800" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/51?from=profile/events&amp;for=1636714800" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 </tr>
@@ -1412,9 +1412,9 @@
 <tr>
 <td id="eventTime:1636722000"><span>13:00</span></td>
 <td rowspan="4" colspan="1" class="IsEvent" id="eventId:24">
-<a href="https://2021.fluufff.org/profile/events#description:18">Group Picture</a><br>
+<a href="/profile/events#description:18">Group Picture</a><br>
 13:00 - 14:00<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/24?from=profile/events&amp;for=1636722000" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/24?from=profile/events&amp;for=1636722000" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="1" colspan="1" id="eventId:">
@@ -1468,9 +1468,9 @@
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="16" colspan="1" class="IsEvent" id="eventId:53">
-<a href="https://2021.fluufff.org/profile/events#description:17">Bar</a><br>
+<a href="/profile/events#description:17">Bar</a><br>
 14:00 - 18:00<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/53?from=profile/events&amp;for=1636725600" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/53?from=profile/events&amp;for=1636725600" title="Attend" class="empty_star">☆</a></span></td>
 </tr>
 <tr>
 <td id="eventTime:1636726500"><span>14:15</span></td>
@@ -1510,13 +1510,13 @@
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="6" colspan="1" class="IsEvent" id="eventId:29">
-<a href="https://2021.fluufff.org/profile/events#description:22">Intensitea</a><br>
+<a href="/profile/events#description:22">Intensitea</a><br>
 15:00 - 16:30<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/29?from=profile/events&amp;for=1636729200" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/29?from=profile/events&amp;for=1636729200" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="10" colspan="1" class="IsEvent" id="eventId:32">
-<a href="https://2021.fluufff.org/profile/events#description:15">Dealers' Den</a><br>
+<a href="/profile/events#description:15">Dealers' Den</a><br>
 15:00 - 17:30<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/32?from=profile/events&amp;for=1636729200" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/32?from=profile/events&amp;for=1636729200" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 </tr>
@@ -1546,9 +1546,9 @@
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="12" colspan="1" class="IsEvent" id="eventId:56">
-<a href="https://2021.fluufff.org/profile/events#description:16">Photoshoot</a><br>
+<a href="/profile/events#description:16">Photoshoot</a><br>
 16:00 - 19:00<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/56?from=profile/events&amp;for=1636732800" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/56?from=profile/events&amp;for=1636732800" title="Attend" class="empty_star">☆</a></span></td>
 </tr>
 <tr>
 <td id="eventTime:1636733700"><span>16:15</span></td>
@@ -1560,9 +1560,9 @@
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="6" colspan="1" class="IsEvent" id="eventId:48">
-<a href="https://2021.fluufff.org/profile/events#description:35">Intensitea - Run 2</a><br>
+<a href="/profile/events#description:35">Intensitea - Run 2</a><br>
 16:30 - 18:00<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/48?from=profile/events&amp;for=1636734600" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/48?from=profile/events&amp;for=1636734600" title="Attend" class="empty_star">☆</a></span></td>
 </tr>
 <tr>
 <td id="eventTime:1636735500"><span>16:45</span></td>
@@ -1582,9 +1582,9 @@
 <tr>
 <td id="eventTime:1636738200"><span>17:30</span></td>
 <td rowspan="4" colspan="1" class="IsEvent" id="eventId:25">
-<a href="https://2021.fluufff.org/profile/events#description:19">Roll the Dice</a><br>
+<a href="/profile/events#description:19">Roll the Dice</a><br>
 17:30 - 18:30<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/25?from=profile/events&amp;for=1636738200" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/25?from=profile/events&amp;for=1636738200" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 </tr>
@@ -1638,9 +1638,9 @@
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="8" colspan="1" class="IsEvent" id="eventId:49">
-<a href="https://2021.fluufff.org/profile/events#description:36">Ace of speed, King of RNG</a><br>
+<a href="/profile/events#description:36">Ace of speed, King of RNG</a><br>
 19:00 - 21:00<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/49?from=profile/events&amp;for=1636743600" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/49?from=profile/events&amp;for=1636743600" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="1" colspan="1" id="eventId:">
@@ -1668,9 +1668,9 @@
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="28" colspan="1" class="IsEvent" id="eventId:54">
-<a href="https://2021.fluufff.org/profile/events#description:17">Bar</a><br>
+<a href="/profile/events#description:17">Bar</a><br>
 19:30 - 2:30<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/54?from=profile/events&amp;for=1636745400" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/54?from=profile/events&amp;for=1636745400" title="Attend" class="empty_star">☆</a></span></td>
 </tr>
 <tr>
 <td id="eventTime:1636746300"><span>19:45</span></td>
@@ -1684,9 +1684,9 @@
 <tr>
 <td id="eventTime:1636747200"><span>20:00</span></td>
 <td rowspan="6" colspan="1" class="IsEvent" id="eventId:52">
-<a href="https://2021.fluufff.org/profile/events#description:38">DiscoFox as the Joker Card</a><br>
+<a href="/profile/events#description:38">DiscoFox as the Joker Card</a><br>
 20:00 - 21:30<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/52?from=profile/events&amp;for=1636747200" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/52?from=profile/events&amp;for=1636747200" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="1" colspan="1" id="eventId:">
@@ -1716,9 +1716,9 @@
 <tr>
 <td id="eventTime:1636750800"><span>21:00</span></td>
 <td rowspan="10" colspan="1" class="IsEvent" id="eventId:50">
-<a href="https://2021.fluufff.org/profile/events#description:37">Boardgames</a><br>
+<a href="/profile/events#description:37">Boardgames</a><br>
 21:00 - 23:30<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/50?from=profile/events&amp;for=1636750800" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/50?from=profile/events&amp;for=1636750800" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="1" colspan="1" id="eventId:">
@@ -1752,9 +1752,9 @@
 <tr>
 <td id="eventTime:1636754400"><span>22:00</span></td>
 <td rowspan="16" colspan="1" class="IsEvent" id="eventId:26">
-<a href="https://2021.fluufff.org/profile/events#description:20">Jackpot Beats: Going All-In On the Dancefloor</a><br>
+<a href="/profile/events#description:20">Jackpot Beats: Going All-In On the Dancefloor</a><br>
 22:00 - 2:00<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/26?from=profile/events&amp;for=1636754400" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/26?from=profile/events&amp;for=1636754400" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="1" colspan="1" id="eventId:">
@@ -1932,9 +1932,9 @@
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="12" colspan="1" class="IsEvent" id="eventId:35">
-<a href="https://2021.fluufff.org/profile/events#description:10">Brew It Yourself - A panel about homemade beer</a><br>
+<a href="/profile/events#description:10">Brew It Yourself - A panel about homemade beer</a><br>
 10:00 - 13:00<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/35?from=profile/events&amp;for=1636797600" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/35?from=profile/events&amp;for=1636797600" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="1" colspan="1" id="eventId:">
@@ -1958,13 +1958,13 @@
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="8" colspan="1" class="IsEvent" id="eventId:40">
-<a href="https://2021.fluufff.org/profile/events#description:15">Dealers' Den</a><br>
+<a href="/profile/events#description:15">Dealers' Den</a><br>
 10:30 - 12:30<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/40?from=profile/events&amp;for=1636799400" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/40?from=profile/events&amp;for=1636799400" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="62" colspan="1" class="IsEvent" id="eventId:60">
-<a href="https://2021.fluufff.org/profile/events#description:33">Fursuit Lounge</a><br>
+<a href="/profile/events#description:33">Fursuit Lounge</a><br>
 10:30 - 2:00<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/60?from=profile/events&amp;for=1636799400" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/60?from=profile/events&amp;for=1636799400" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 </tr>
@@ -2006,13 +2006,13 @@
 <tr>
 <td id="eventTime:1636804800"><span>12:00</span></td>
 <td rowspan="8" colspan="1" class="IsEvent" id="eventId:33">
-<a href="https://2021.fluufff.org/profile/events#description:25">Fursuit Games</a><br>
+<a href="/profile/events#description:25">Fursuit Games</a><br>
 12:00 - 14:00<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/33?from=profile/events&amp;for=1636804800" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/33?from=profile/events&amp;for=1636804800" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="24" colspan="1" class="IsEvent" id="eventId:42">
-<a href="https://2021.fluufff.org/profile/events#description:17">Bar</a><br>
+<a href="/profile/events#description:17">Bar</a><br>
 12:00 - 18:00<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/42?from=profile/events&amp;for=1636804800" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/42?from=profile/events&amp;for=1636804800" title="Attend" class="empty_star">☆</a></span></td>
 </tr>
 <tr>
 <td id="eventTime:1636805700"><span>12:15</span></td>
@@ -2078,9 +2078,9 @@
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="4" colspan="1" class="IsEvent" id="eventId:36">
-<a href="https://2021.fluufff.org/profile/events#description:27">Furry Femmes</a><br>
+<a href="/profile/events#description:27">Furry Femmes</a><br>
 14:30 - 15:30<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/36?from=profile/events&amp;for=1636813800" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/36?from=profile/events&amp;for=1636813800" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 </tr>
@@ -2096,9 +2096,9 @@
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="10" colspan="1" class="IsEvent" id="eventId:41">
-<a href="https://2021.fluufff.org/profile/events#description:15">Dealers' Den</a><br>
+<a href="/profile/events#description:15">Dealers' Den</a><br>
 15:00 - 17:30<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/41?from=profile/events&amp;for=1636815600" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/41?from=profile/events&amp;for=1636815600" title="Attend" class="empty_star">☆</a></span></td>
 </tr>
 <tr>
 <td id="eventTime:1636816500"><span>15:15</span></td>
@@ -2138,9 +2138,9 @@
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="8" colspan="1" class="IsEvent" id="eventId:37">
-<a href="https://2021.fluufff.org/profile/events#description:5">Return the Crown</a><br>
+<a href="/profile/events#description:5">Return the Crown</a><br>
 16:30 - 18:30<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/37?from=profile/events&amp;for=1636821000" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/37?from=profile/events&amp;for=1636821000" title="Attend" class="empty_star">☆</a></span></td>
 </tr>
 <tr>
 <td id="eventTime:1636821900"><span>16:45</span></td>
@@ -2216,9 +2216,9 @@
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="6" colspan="1" class="IsEvent" id="eventId:38">
-<a href="https://2021.fluufff.org/profile/events#description:28">Climate chat with Norr</a><br>
+<a href="/profile/events#description:28">Climate chat with Norr</a><br>
 19:00 - 20:30<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/38?from=profile/events&amp;for=1636830000" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/38?from=profile/events&amp;for=1636830000" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="1" colspan="1" id="eventId:">
@@ -2240,9 +2240,9 @@
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="12" colspan="1" class="IsEvent" id="eventId:43">
-<a href="https://2021.fluufff.org/profile/events#description:17">Bar</a><br>
+<a href="/profile/events#description:17">Bar</a><br>
 19:30 - 22:30<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/43?from=profile/events&amp;for=1636831800" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/43?from=profile/events&amp;for=1636831800" title="Attend" class="empty_star">☆</a></span></td>
 </tr>
 <tr>
 <td id="eventTime:1636832700"><span>19:45</span></td>
@@ -2286,9 +2286,9 @@
 <tr>
 <td id="eventTime:1636837200"><span>21:00</span></td>
 <td rowspan="12" colspan="1" class="IsEvent" id="eventId:34">
-<a href="https://2021.fluufff.org/profile/events#description:26">SHOWNIGHT EXTRAVAGANZA</a><br>
+<a href="/profile/events#description:26">SHOWNIGHT EXTRAVAGANZA</a><br>
 21:00 - 0:00<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/34?from=profile/events&amp;for=1636837200" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/34?from=profile/events&amp;for=1636837200" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="1" colspan="1" id="eventId:">
@@ -2372,9 +2372,9 @@
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="12" colspan="1" class="IsEvent" id="eventId:55">
-<a href="https://2021.fluufff.org/profile/events#description:17">Bar</a><br>
+<a href="/profile/events#description:17">Bar</a><br>
 23:30 - 2:30<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/55?from=profile/events&amp;for=1636846200" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/55?from=profile/events&amp;for=1636846200" title="Attend" class="empty_star">☆</a></span></td>
 </tr>
 <tr>
 <td id="eventTime:1636847100"><span>23:45</span></td>
@@ -2406,9 +2406,9 @@
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="8" colspan="1" class="IsEvent" id="eventId:39">
-<a href="https://2021.fluufff.org/profile/events#description:14">Blood on the Clocktower</a><br>
+<a href="/profile/events#description:14">Blood on the Clocktower</a><br>
 0:30 - 2:30<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/39?from=profile/events&amp;for=1636849800" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/39?from=profile/events&amp;for=1636849800" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 </tr>
@@ -2482,9 +2482,9 @@
 <tr>
 <td id="eventTime:1636882200"><span>9:30</span></td>
 <td rowspan="4" colspan="1" class="IsEvent" id="eventId:44">
-<a href="https://2021.fluufff.org/profile/events#description:30">Feedback Panel</a><br>
+<a href="/profile/events#description:30">Feedback Panel</a><br>
 9:30 - 10:30<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/44?from=profile/events&amp;for=1636882200" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/44?from=profile/events&amp;for=1636882200" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="1" colspan="1" id="eventId:">
@@ -2516,9 +2516,9 @@
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="62" colspan="1" class="IsEvent" id="eventId:59">
-<a href="https://2021.fluufff.org/profile/events#description:33">Fursuit Lounge</a><br>
+<a href="/profile/events#description:33">Fursuit Lounge</a><br>
 10:30 - 2:00<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/59?from=profile/events&amp;for=1636885800" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/59?from=profile/events&amp;for=1636885800" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 </tr>
@@ -2532,9 +2532,9 @@
 <tr>
 <td id="eventTime:1636887600"><span>11:00</span></td>
 <td rowspan="6" colspan="1" class="IsEvent" id="eventId:45">
-<a href="https://2021.fluufff.org/profile/events#description:31">Yardsale</a><br>
+<a href="/profile/events#description:31">Yardsale</a><br>
 11:00 - 12:30<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/45?from=profile/events&amp;for=1636887600" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/45?from=profile/events&amp;for=1636887600" title="Attend" class="empty_star">☆</a></span></td>
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 </tr>
@@ -2806,9 +2806,9 @@
 <td rowspan="1" colspan="1" id="eventId:">
 </td>
 <td rowspan="20" colspan="1" class="IsEvent" id="eventId:46">
-<a href="https://2021.fluufff.org/profile/events#description:32">Nearly-Dead Beaver Party</a><br>
+<a href="/profile/events#description:32">Nearly-Dead Beaver Party</a><br>
 21:00 - 2:00<br>
-<span class="attend"><a href="https://2021.fluufff.org/profile/events/attend/46?from=profile/events&amp;for=1636923600" title="Attend" class="empty_star">☆</a></span></td>
+<span class="attend"><a href="/profile/events/attend/46?from=profile/events&amp;for=1636923600" title="Attend" class="empty_star">☆</a></span></td>
 </tr>
 <tr>
 <td id="eventTime:1636924500"><span>21:15</span></td>
@@ -3180,7 +3180,7 @@ No really. Don’t. We’ll even have an encore. 				</p>
 			<a href="" title="Back" class="resetlink fs--14 text--white back"><i class="fas fa-arrow-left"></i> Previous step</a>
 		</span>-->
 		<span class="poweredby text fs--14">
-			<a href="https://fluufff.org" class="resetlink text--white">Website</a>			| <a href="https://2021.fluufff.org/register/terms#privacy" target="_blank" class="resetlink text--white">Privacy</a>			| <a href="https://2021.fluufff.org/register/terms#terms" target="_blank" class="resetlink text--white">Terms and Conditions</a>			| <a href="https://2021.fluufff.org/profile/contact" class="resetlink text--white">Contact us</a>		| Powered by Platy+</span>
+			<a href="https://fluufff.org" class="resetlink text--white">Website</a>			| <a href="/register/terms#privacy" target="_blank" class="resetlink text--white">Privacy</a>			| <a href="/register/terms#terms" target="_blank" class="resetlink text--white">Terms and Conditions</a>			| <a href="/profile/contact" class="resetlink text--white">Contact us</a>		| Powered by Platy+</span>
 	</footer>
 	<script>
 
@@ -3198,6 +3198,6 @@ No really. Don’t. We’ll even have an encore. 				</p>
 		}
 
 	</script>
-	<!-- <script src="https://2021.fluufff.org/assets/js/registration.js"></script> -->
+	<!-- <script src="/assets/js/registration.js"></script> -->
 </body>
 </html>

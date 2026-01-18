@@ -7,13 +7,13 @@
 	<meta property="og:title" content="Flüüfff 2021 | Grand Casino - Going all-in!" />
 	<meta property="og:type" content="website" />
 	<meta property="og:description" content="Spinning wheels, dices, slotmachines, are you ready to be the big player in a casino full of fur?! Join us in the 4th edition of the Belgian Furry Convention, a convention dedicated to anthropomorphic characters!" />
-	<meta property="og:url" content="https://2021.fluufff.org/covid-19" />
+	<meta property="og:url" content="/covid-19" />
 	<meta property="og:site_name" content="Flüüfff 2021 | Grand Casino - Going all-in!" />
-	<meta property="og:image" content="https://2021.fluufff.org/website/assets/images/og/open-graph.png">
+	<meta property="og:image" content="/website/assets/images/og/open-graph.png">
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:title" content="Flüüfff 2021 | Grand Casino - Going all-in!" />
 	<meta name="twitter:description" content="Spinning wheels, dices, slotmachines, are you ready to be the big player in a casino full of fur?! Join us in the 4th edition of the Belgian Furry Convention, a convention dedicated to anthropomorphic characters!" />
-	<meta name="twitter:image" content="https://2021.fluufff.org/website/assets/images/og/open-graph.png" />
+	<meta name="twitter:image" content="/website/assets/images/og/open-graph.png" />
 	<meta itemprop="name" content="Flüüfff 2021 | Grand Casino - Going all-in!" />
 	<meta itemprop="description" content="Spinning wheels, dices, slotmachines, are you ready to be the big player in a casino full of fur?! Join us in the 4th edition of the Belgian Furry Convention, a convention dedicated to anthropomorphic characters!" />
 	<meta name="robots" content="index,follow,noodp,noydir" />
@@ -27,16 +27,16 @@
 	<meta name="format-detection" content="telephone=no" />
 	<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
-	<link rel="stylesheet" href="https://2021.fluufff.org/website/assets/css/app.css" type="text/css" media="all" />
-	<link rel="apple-touch-icon" sizes="180x180" href="https://2021.fluufff.org/website/assets/images/favicons/apple-touch-icon.png">
-	<link rel="icon" type="image/png" sizes="32x32" href="https://2021.fluufff.org/website/assets/images/favicons/favicon-32x32.png">
-	<link rel="icon" type="image/png" sizes="16x16" href="https://2021.fluufff.org/website/assets/images/favicons/favicon-16x16.png">
-	<link rel="manifest" href="https://2021.fluufff.org/website/assets/images/favicons/site.webmanifest">
-	<link rel="mask-icon" href="https://2021.fluufff.org/website/assets/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
-	<link rel="shortcut icon" href="https://2021.fluufff.org/website/assets/images/favicons/favicon.ico">
+	<link rel="stylesheet" href="/website/assets/css/app.css" type="text/css" media="all" />
+	<link rel="apple-touch-icon" sizes="180x180" href="/website/assets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/website/assets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/website/assets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/website/assets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/website/assets/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
+	<link rel="shortcut icon" href="/website/assets/images/favicons/favicon.ico">
 	<meta name="apple-mobile-web-app-title" content="Flüüfff 2021 | Grand Casino - Going all-in!">
 	<meta name="application-name" content="Flüüfff 2021 | Grand Casino - Going all-in!">
-	<meta name="msapplication-config" content="https://2021.fluufff.org/website/assets/images/favicons/browserconfig.xml">
+	<meta name="msapplication-config" content="/website/assets/images/favicons/browserconfig.xml">
 	<meta name="theme-color" content="#1d2435">
 </head>
 <body>
@@ -44,42 +44,42 @@
 		<meta itemprop="headline name" content="Flüüfff" />
 		<meta itemprop="description" content="Furry Convention Belgium" />
 		<div class="navbar flex flex-align-center flex-space-between">
-			<a href="https://2021.fluufff.org/" title="Back to homepage" class="resetlink header-logo">
-				<img src="https://2021.fluufff.org/website/assets/images/logos/full_logo_casino.png" alt="Logo Flüüfff">
+			<a href="/" title="Back to homepage" class="resetlink header-logo">
+				<img src="/website/assets/images/logos/full_logo_casino.png" alt="Logo Flüüfff">
 			</a>
 			<div class="nav-wrapper flex flex-align-center flex-end">
 				<nav class="nav" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
 					<ul class="no-list-style flex flex-end flex-align-center">
 						<li class="nav__item p-sides-1x hide@3 tablet-ls:p-sides-0.75x ">
-							<a href="https://2021.fluufff.org/" title="Home" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+							<a href="/" title="Home" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
 								Home							</a>
 						</li>
 						<li class="nav__item p-sides-1x hide@3 tablet-ls:p-sides-0.75x nav__item--active">
-							<a href="https://2021.fluufff.org/covid-19" title="Covid-19" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+							<a href="/covid-19" title="Covid-19" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
 								Covid-19							</a>
 						</li>
 						<li class="nav__item p-sides-1x tablet-ls:p-sides-0.75x ">
-							<a href="https://2021.fluufff.org/about" title="About" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+							<a href="/about" title="About" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
 								About							</a>
 						</li>
 						<li class="nav__item p-sides-1x tablet-ls:p-sides-0.75x ">
-							<a href="https://2021.fluufff.org/venue" title="Venue" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+							<a href="/venue" title="Venue" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
 								Venue							</a>
 						</li>
 						<li class="nav__item p-sides-1x tablet-ls:p-sides-0.75x ">
-							<a href="https://2021.fluufff.org/activities" title="Activities" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+							<a href="/activities" title="Activities" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
 								Activities							</a>
 						</li>
 						<li class="nav__item p-sides-1x tablet-ls:p-sides-0.75x ">
-							<a href="https://2021.fluufff.org/contact" title="Contact" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+							<a href="/contact" title="Contact" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
 								Contact							</a>
 						</li>
 						<li class="nav__item p-sides-1x tablet-ls:p-sides-0.75x ">
-							<a href="https://2021.fluufff.org/tickets" title="Tickets" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+							<a href="/tickets" title="Tickets" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
 								Tickets							</a>
 						</li>
 													<li class="nav__item p-l-1x ">
-								<a href="https://2021.fluufff.org/profile/login?from=covid-19" title="Login" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
+								<a href="/profile/login?from=covid-19" title="Login" class="resetlink color--white fs--16 bold vag p-ends-0.25x">
 									Login								</a>
 							</li>
 							
@@ -190,7 +190,7 @@
 
 					<h2 id="announcement">Dealers’ Den 🎨</h2>
 					<p>If you applied in 2020 and you got confirmation that your registration has been validated, then it is still valid for the upcoming edition.</p>
-					<p>If you aren’t sure that your registration for the Dealers’ Den got confirmed or you have questions, you can <a href="https://2021.fluufff.org/contact?contact=DealersDen">contact us through our contact form</a>.</p>
+					<p>If you aren’t sure that your registration for the Dealers’ Den got confirmed or you have questions, you can <a href="/contact?contact=DealersDen">contact us through our contact form</a>.</p>
 
 					<h2 id="announcement">Events 💃</h2>
 					<p>If you applied in 2020, don’t worry if you did not get a confirmation yet. The events team will come back to you if your event application has been accepted.</p>
@@ -240,7 +240,7 @@
 				<p>
 					By default, <strong>your residential tickets remain valid for Flüüfff 2021</strong>, and you don’t have to do anything. Would you like a refund? That is also possible!				</p>
 				<p>
-					If you booked a room, simply <a href="https://2021.fluufff.org/profile/login?from=profile" title="Login in to your account">log in to your account</a>, and you will find a form there with your refund preferences. There will be three options available:				</p>
+					If you booked a room, simply <a href="/profile/login?from=profile" title="Login in to your account">log in to your account</a>, and you will find a form there with your refund preferences. There will be three options available:				</p>
 				<ul>
 					<li>Keep ticket;</li>
 					<li>Full refund;</li>
@@ -261,15 +261,15 @@
 					Please note that sponsor options count as (and are officially registered as) donations, sadly these cannot be refunded.					</li>
 				</ul>
 				<p>
-					If you have any further questions, or need refunds processed sooner, don’t hesitate to <a href="https://2021.fluufff.org/contact?contact=Registration" title"Contact Registration"><strong>contact Registration</strong> through the registration form</a> and we’ll do our best to help you out!				</p>
+					If you have any further questions, or need refunds processed sooner, don’t hesitate to <a href="/contact?contact=Registration" title"Contact Registration"><strong>contact Registration</strong> through the registration form</a> and we’ll do our best to help you out!				</p>
 
 
 
 				<h2>Questions?</h2>
 				<p>
-					If you have any questions relative to your booking, refunds, etc, you can <a href="https://2021.fluufff.org/contact?contact=Registration" title"Contact Registration for further questions">message our Registration team</a> through the contact form. They will do their best to provide you a quick and clear answer.				</p>
+					If you have any questions relative to your booking, refunds, etc, you can <a href="/contact?contact=Registration" title"Contact Registration for further questions">message our Registration team</a> through the contact form. They will do their best to provide you a quick and clear answer.				</p>
 				<p>
-					If you have any other questions not related to your bookings, you can <a href="https://2021.fluufff.org/contact?contact=Contact" title="Contact us">contact us through the same contact form</a>.				</p>
+					If you have any other questions not related to your bookings, you can <a href="/contact?contact=Contact" title="Contact us">contact us through the same contact form</a>.				</p>
 
 			</div>
 		</div>
@@ -309,22 +309,22 @@
 					<div class="col-4 col-12@3 footer-part">
 						<span class="block fs--24 vag bold tt--uc m-b-1x">
 							Contact us						</span>
-						<a href="https://2021.fluufff.org/contact" class="resetlink inline-block fs--16 lnh-150 m-t-0.5x color--white" title="Contact us">
+						<a href="/contact" class="resetlink inline-block fs--16 lnh-150 m-t-0.5x color--white" title="Contact us">
 							Via the <span class="td--underline">contact form</span>						</a>
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-12">
 						<span class="fs--12 color--white">
-							&copy;2024 - Flüüfff ABSL - All rights reserved. | <a href="https://2021.fluufff.org/terms#privacy" target="_blank" class="resetlink">Privacy</a>					| <a href="https://2021.fluufff.org/terms#terms" target="_blank" class="resetlink">Terms and Conditions</a>						</span>
+							&copy;2024 - Flüüfff ABSL - All rights reserved. | <a href="/terms#privacy" target="_blank" class="resetlink">Privacy</a>					| <a href="/terms#terms" target="_blank" class="resetlink">Terms and Conditions</a>						</span>
 					</div>
 				</div>
 			</div>
 		</footer>
 					<div class="cookie-bar p-sides-0.5x p-ends-0.25x bg--white color--black flex flex-space-between flex-align-center tablet-ls:block">
-				<span>This site uses essential cookies, you can learn <a href="https://2021.fluufff.org/terms#privacy" target="_blank" class="color--primary">more about the cookies</a> used in our Privacy policies.</span>
-				<a href="https://2021.fluufff.org/covid-19?cookiesAccepted=true" class="resetlink cookielink inline-block fs--16 bold bg--primary color--white hover-bg--black p-ends-0.25x p-sides-0.5x  tablet-ls:block ta--center tablet-ls:m-t-0.5x">I understand</a>
+				<span>This site uses essential cookies, you can learn <a href="/terms#privacy" target="_blank" class="color--primary">more about the cookies</a> used in our Privacy policies.</span>
+				<a href="/covid-19?cookiesAccepted=true" class="resetlink cookielink inline-block fs--16 bold bg--primary color--white hover-bg--black p-ends-0.25x p-sides-0.5x  tablet-ls:block ta--center tablet-ls:m-t-0.5x">I understand</a>
 			</div>
-				<script src="https://2021.fluufff.org/website/assets/js/app.bundle.js"></script>
+				<script src="/website/assets/js/app.bundle.js"></script>
 			</body>
 	</html>
